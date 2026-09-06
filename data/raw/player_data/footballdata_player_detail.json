@@ -1,0 +1,202 @@
+{
+  "success": true,
+  "data": {
+    "player_id": 28015,
+    "player_name": "Marcus Bettinelli",
+    "first_name": "Marcus",
+    "last_name": "Bettinelli",
+    "known_name": "Marcus Bettinelli",
+    "seo_slug": "marcus-bettinelli",
+    "nationality": "England",
+    "date_of_birth": "1992-05-24",
+    "age": 33,
+    "height_cm": 193,
+    "weight_kg": 82,
+    "position": "Goalkeeper",
+    "player_image": "https://footballdata.io/img/player/england-marcus-bettinelli.png",
+    "season_stats": [
+      {
+        "season_stat_id": 44461,
+        "league": {
+          "league_id": 21,
+          "name": "England League Cup",
+          "country": "England",
+          "competition_name": "League Cup",
+          "league_type": "Domestic League"
+        },
+        "season": {
+          "season_id": 283,
+          "year": 20252026,
+          "label": "2025/2026",
+          "starting_year": 2025,
+          "ending_year": 2026
+        },
+        "team": {
+          "team_id": 87,
+          "team_name": "Manchester City FC",
+          "seo_slug": "manchester-city-fc",
+          "team_logo": "https://cdn.footystats.org/img/teams/england-manchester-city-fc.png"
+        },
+        "position": "Goalkeeper",
+        "appearances": {
+          "total": null,
+          "home": null,
+          "away": null
+        },
+        "minutes": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_match": null
+        },
+        "goals": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_90": 0,
+          "per_90_home": 0,
+          "per_90_away": 0,
+          "minutes_per_goal": null
+        },
+        "assists": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_90": 0,
+          "minutes_per_assist": null
+        },
+        "goal_involvement": {
+          "goals_involved_per_90": 0
+        },
+        "clean_sheets": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "percentage": 0
+        },
+        "goals_conceded": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_90": 0,
+          "minutes_per_goal_conceded": null
+        },
+        "penalties": {
+          "goals": null,
+          "misses": null,
+          "success_rate": null
+        },
+        "cards": {
+          "total": null,
+          "yellow": null,
+          "red": null,
+          "per_90": 0,
+          "minutes_per_card": null
+        },
+        "rankings": {
+          "top_attackers": null,
+          "top_midfielders": null,
+          "top_defenders": null,
+          "club_top_scorer": null
+        },
+        "last_match_timestamp": null,
+        "detailed_data": []
+      },
+      {
+        "season_stat_id": 28015,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "league_type": "Cup"
+        },
+        "season": {
+          "season_id": 582,
+          "year": 20252026,
+          "label": "2025/2026",
+          "starting_year": 2025,
+          "ending_year": 2026
+        },
+        "team": {
+          "team_id": 87,
+          "team_name": "Manchester City FC",
+          "seo_slug": "manchester-city-fc",
+          "team_logo": "https://cdn.footystats.org/img/teams/england-manchester-city-fc.png"
+        },
+        "position": "Goalkeeper",
+        "appearances": {
+          "total": null,
+          "home": null,
+          "away": null
+        },
+        "minutes": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_match": null
+        },
+        "goals": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_90": 0,
+          "per_90_home": 0,
+          "per_90_away": 0,
+          "minutes_per_goal": null
+        },
+        "assists": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_90": 0,
+          "minutes_per_assist": null
+        },
+        "goal_involvement": {
+          "goals_involved_per_90": 0
+        },
+        "clean_sheets": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "percentage": 0
+        },
+        "goals_conceded": {
+          "total": null,
+          "home": null,
+          "away": null,
+          "per_90": 0,
+          "minutes_per_goal_conceded": null
+        },
+        "penalties": {
+          "goals": null,
+          "misses": null,
+          "success_rate": null
+        },
+        "cards": {
+          "total": null,
+          "yellow": null,
+          "red": null,
+          "per_90": 0,
+          "minutes_per_card": null
+        },
+        "rankings": {
+          "top_attackers": null,
+          "top_midfielders": null,
+          "top_defenders": null,
+          "club_top_scorer": null
+        },
+        "last_match_timestamp": null,
+        "detailed_data": []
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 46,
+    "requests_limit": 1000,
+    "requests_remaining": 954,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5
+  }
+}

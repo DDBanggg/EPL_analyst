@@ -1,0 +1,44 @@
+{
+  "tvevent": [
+    {
+      "id": "1194910",
+      "idEvent": "2494000",
+      "intDivision": "0",
+      "strSport": "Soccer",
+      "strEvent": "Arsenal vs Coventry City",
+      "strEventThumb": "",
+      "strEventPoster": "",
+      "strEventBanner": "",
+      "strEventSquare": "",
+      "idChannel": "8647",
+      "strCountry": "United Kingdom",
+      "strEventCountry": "England",
+      "strLogo": "https://r2.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png",
+      "strChannel": "Sky Sports Premier League",
+      "strSeason": "2026-2027",
+      "strTime": "19:00:00",
+      "dateEvent": "2026-08-21",
+      "strTimeStamp": "2026-08-21 19:00:00"
+    },
+    {
+      "id": "1195781",
+      "idEvent": "2494000",
+      "intDivision": "0",
+      "strSport": "Soccer",
+      "strEvent": "Arsenal vs Coventry City",
+      "strEventThumb": "https://r2.thesportsdb.com/images/media/event/thumb/yjiatn1784549286.jpg",
+      "strEventPoster": "https://r2.thesportsdb.com/images/media/event/poster/dgng9j1784549593.jpg",
+      "strEventBanner": "https://r2.thesportsdb.com/images/media/event/banner/zmmkwr1784549873.jpg",
+      "strEventSquare": "https://r2.thesportsdb.com/images/media/event/square/ldcov31784550134.jpg",
+      "idChannel": "582",
+      "strCountry": "India",
+      "strEventCountry": "England",
+      "strLogo": "https://r2.thesportsdb.com/images/media/channel/logo/7za33k1683192230.png",
+      "strChannel": "Disney+ Hotstar",
+      "strSeason": "2026-2027",
+      "strTime": "19:00:00",
+      "dateEvent": "2026-08-21",
+      "strTimeStamp": "2026-08-21 19:00:00"
+    }
+  ]
+}

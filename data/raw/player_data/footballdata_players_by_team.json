@@ -1,0 +1,107 @@
+{
+  "success": true,
+  "data": [
+    {
+      "player_id": 28015,
+      "player_name": "Marcus Bettinelli",
+      "first_name": "Marcus",
+      "last_name": "Bettinelli",
+      "known_name": "Marcus Bettinelli",
+      "short_name": "marcus-bettinelli",
+      "nationality": "England",
+      "continent": "Europe",
+      "date_of_birth": "1992-05-24",
+      "age": 33,
+      "height_cm": 193,
+      "weight_kg": 82,
+      "position": "Goalkeeper",
+      "player_image": "https://footballdata.io/img/player/england-marcus-bettinelli.png"
+    },
+    {
+      "player_id": 28899,
+      "player_name": "Nicolás González Iglesias",
+      "first_name": "Nicolás",
+      "last_name": "González Iglesias",
+      "known_name": "Nico González",
+      "short_name": "nico-gonzalez",
+      "nationality": "Spain",
+      "continent": "Europe",
+      "date_of_birth": "2002-01-03",
+      "age": 24,
+      "height_cm": 188,
+      "weight_kg": 86,
+      "position": "Midfielder",
+      "player_image": "https://footballdata.io/img/player/default.png"
+    },
+    {
+      "player_id": 8159,
+      "player_name": "Sávio Moreira de Oliveira",
+      "first_name": "Sávio",
+      "last_name": "Moreira de Oliveira",
+      "known_name": "Sávio",
+      "short_name": "savio",
+      "nationality": "Brazil",
+      "continent": "Europe",
+      "date_of_birth": "2004-04-10",
+      "age": 21,
+      "height_cm": 176,
+      "weight_kg": 66,
+      "position": "Forward",
+      "player_image": "https://footballdata.io/img/player/default.png"
+    },
+    {
+      "player_id": 39675,
+      "player_name": "Stefan Ortega Moreno",
+      "first_name": "Stefan",
+      "last_name": "Ortega Moreno",
+      "known_name": "Stefan Ortega",
+      "short_name": "stefan-ortega",
+      "nationality": "Germany",
+      "continent": "Europe",
+      "date_of_birth": "1992-11-06",
+      "age": 33,
+      "height_cm": 185,
+      "weight_kg": 88,
+      "position": "Goalkeeper",
+      "player_image": "https://footballdata.io/img/player/germany-stefan-ortega.png"
+    },
+    {
+      "player_id": 29511,
+      "player_name": "Stephen Mfuni",
+      "first_name": "Stephen",
+      "last_name": "Mfuni",
+      "known_name": "Stephen Mfuni",
+      "short_name": "stephen-mfuni",
+      "nationality": "England",
+      "continent": "Europe",
+      "date_of_birth": null,
+      "age": null,
+      "height_cm": null,
+      "weight_kg": null,
+      "position": "Defender",
+      "player_image": "https://footballdata.io/img/player/default.png"
+    }
+  ],
+  "meta": {
+    "plan": "free",
+    "requests_used": 45,
+    "requests_limit": 1000,
+    "requests_remaining": 955,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 5,
+      "total_pages": 1
+    },
+    "filters": {
+      "search": null,
+      "team_id": 87,
+      "league_id": null,
+      "season_id": null,
+      "position": null,
+      "nationality": null
+    }
+  }
+}

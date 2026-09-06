@@ -1,0 +1,1286 @@
+{
+  "success": true,
+  "data": {
+    "team": {
+      "team_id": 87,
+      "team_name": "Manchester City FC",
+      "team_name_english": "Manchester City FC",
+      "short_name": "manchester-city-fc",
+      "full_name": "Manchester City FC",
+      "country": "England",
+      "continent": null,
+      "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+    },
+    "matches": [
+      {
+        "match_id": 992036566,
+        "match_date": "2026-12-26 15:00:00",
+        "date_unix": 1798297200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 17,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 141,
+          "team_name": "Newcastle United",
+          "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 36.8,
+          "draw": 14.3,
+          "away_win": 48.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740745777,
+        "match_date": "2026-12-19 15:00:00",
+        "date_unix": 1797692400,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 50.9,
+          "draw": 18.3,
+          "away_win": 30.8,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 1043078138,
+        "match_date": "2026-12-12 15:00:00",
+        "date_unix": 1797087600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 15,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 136,
+          "team_name": "Chelsea",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 48.6,
+          "draw": 14.8,
+          "away_win": 36.6,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 987721078,
+        "match_date": "2026-12-05 15:00:00",
+        "date_unix": 1796482800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 14,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 189,
+          "team_name": "Brentford",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 38.94,
+          "draw": 13.51,
+          "away_win": 47.55,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 1007804585,
+        "match_date": "2026-12-02 20:00:00",
+        "date_unix": 1796241600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 13,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 193,
+          "team_name": "Leeds United",
+          "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 54.6,
+          "draw": 14.1,
+          "away_win": 31.3,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740745798,
+        "match_date": "2026-11-28 15:00:00",
+        "date_unix": 1795878000,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 40.76,
+          "draw": 17.18,
+          "away_win": 42.06,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 1004778873,
+        "match_date": "2026-11-21 15:00:00",
+        "date_unix": 1795273200,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 11,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 146,
+          "team_name": "Fulham",
+          "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 54.2,
+          "draw": 15.5,
+          "away_win": 30.3,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 1005642741,
+        "match_date": "2026-11-07 15:00:00",
+        "date_unix": 1794063600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 10,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest",
+          "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 37.1,
+          "draw": 17,
+          "away_win": 45.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 987289304,
+        "match_date": "2026-10-31 15:00:00",
+        "date_unix": 1793458800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 9,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 180,
+          "team_name": "Brighton &amp; Hove Albion",
+          "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 53,
+          "draw": 14.1,
+          "away_win": 32.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740745818,
+        "match_date": "2026-10-24 14:00:00",
+        "date_unix": 1792850400,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 142,
+          "team_name": "Aston Villa",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 39.96,
+          "draw": 14.09,
+          "away_win": 45.95,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 967011687,
+        "match_date": "2026-10-17 14:00:00",
+        "date_unix": 1792245600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": 7,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town",
+          "team_logo": "https://footballdata.io/img/team/ipswich-town-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 60.4,
+          "draw": 11.2,
+          "away_win": 28.4,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740745804,
+        "match_date": "2026-10-10 14:00:00",
+        "date_unix": 1791640800,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 135,
+          "team_name": "Liverpool",
+          "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 44.3,
+          "draw": 20.2,
+          "away_win": 35.5,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740745822,
+        "match_date": "2026-09-19 14:00:00",
+        "date_unix": 1789826400,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 140,
+          "team_name": "Sunderland",
+          "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 51.6,
+          "draw": 15.5,
+          "away_win": 32.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740745811,
+        "match_date": "2026-09-12 14:00:00",
+        "date_unix": 1789221600,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 133,
+          "team_name": "Manchester United",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 45.45,
+          "draw": 14.29,
+          "away_win": 40.26,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 740533381,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 0,
+          "total_goals": 1,
+          "halftime": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        "xg": {
+          "home": 1.7,
+          "away": 1.19,
+          "total": 2.88,
+          "prematch": {
+            "home": 1.68,
+            "away": 0.56,
+            "total": 2.24
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 1.16,
+            "draw": 7.5,
+            "away": 17
+          }
+        },
+        "probabilities": {
+          "home_win": 81.77,
+          "draw": 12.65,
+          "away_win": 5.58,
+          "over_2_5_goals": 100,
+          "both_teams_to_score": 50
+        },
+        "venue": {
+          "stadium_name": "Etihad Stadium",
+          "stadium_location": "Etihad Campus Manchester M11 3FF"
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 740533370,
+        "match_date": "2026-08-28 19:00:00",
+        "date_unix": 1787943600,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "team_side": "away",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 4,
+          "total_goals": 5,
+          "halftime": {
+            "home": 0,
+            "away": 1,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 1,
+            "away": 3,
+            "total_goals": 4
+          }
+        },
+        "xg": {
+          "home": 0.82,
+          "away": 2.25,
+          "total": 3.07,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 4.25,
+            "draw": 4,
+            "away": 1.6
+          }
+        },
+        "probabilities": {
+          "home_win": 21.19,
+          "draw": 22.52,
+          "away_win": 56.29,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "Selhurst Park",
+          "stadium_location": "Holmesdale Road"
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 720160207,
+        "match_date": "2026-08-23 13:00:00",
+        "date_unix": 1787490000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "team_side": "home",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 3,
+          "halftime": {
+            "home": 0,
+            "away": 1,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 2,
+            "away": 0,
+            "total_goals": 2
+          }
+        },
+        "xg": {
+          "home": 1.68,
+          "away": 0.67,
+          "total": 2.35,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 1.41,
+            "draw": 5,
+            "away": 5.9
+          }
+        },
+        "probabilities": {
+          "home_win": 65.75,
+          "draw": 18.54,
+          "away_win": 15.71,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "Etihad Stadium",
+          "stadium_location": "Etihad Campus Manchester M11 3FF"
+        },
+        "winner_text": "Manchester City won the match"
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 42,
+    "requests_limit": 1000,
+    "requests_remaining": 958,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 17,
+      "total_pages": 1
+    },
+    "filters": {
+      "team_id": 87,
+      "league_id": 15,
+      "season_id": 103535,
+      "status": null,
+      "date": null,
+      "from": null,
+      "to": null,
+      "venue": null
+    },
+    "language": "en"
+  }
+}

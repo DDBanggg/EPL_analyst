@@ -1,0 +1,104 @@
+{
+  "success": true,
+  "data": {
+    "date": "2026-08-21",
+    "matches": [
+      {
+        "match_id": 740533372,
+        "match_date": "2026-08-21 19:00:00",
+        "date_unix": 1787338800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 0,
+          "total_goals": 3,
+          "halftime": {
+            "home": 2,
+            "away": 0,
+            "total_goals": 2
+          },
+          "second_half": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          }
+        },
+        "xg": {
+          "home": 2.15,
+          "away": 0.56,
+          "total": 2.71,
+          "prematch": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+          }
+        },
+        "odds": {
+          "match_winner": {
+            "home": 1.21,
+            "draw": 6.5,
+            "away": 11.5
+          }
+        },
+        "probabilities": {
+          "home_win": 77.44,
+          "draw": 14.42,
+          "away_win": 8.15,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        },
+        "venue": {
+          "stadium_name": "Emirates Stadium",
+          "stadium_location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU"
+        },
+        "winner_text": "Arsenal won the match"
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 50,
+    "requests_limit": 1000,
+    "requests_remaining": 950,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 1,
+      "total_pages": 1
+    },
+    "filters": {
+      "date": "2026-08-21",
+      "league_id": 15,
+      "season_id": 103535,
+      "status": null,
+      "sort": "asc"
+    },
+    "language": "en"
+  }
+}

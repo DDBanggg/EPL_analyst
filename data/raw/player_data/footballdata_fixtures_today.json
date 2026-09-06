@@ -1,0 +1,139 @@
+{
+  "success": true,
+  "data": {
+    "date": "2026-09-06",
+    "matches": [
+      {
+        "match_id": 740533387,
+        "match_date": "2026-09-06 13:00:00",
+        "date_unix": 1788699600,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 128,
+          "team_name": "Everton",
+          "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+        },
+        "away_team": {
+          "team_id": 133,
+          "team_name": "Manchester United",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 2,
+          "total_goals": 4
+        },
+        "xg": {
+          "home": 2,
+          "away": 1.32,
+          "total": 3.32
+        },
+        "odds": {
+          "home_win": 3.85,
+          "draw": 3.63,
+          "away_win": 1.95
+        },
+        "probabilities": {
+          "home_win": 24.78,
+          "draw": 26.29,
+          "away_win": 48.93
+        },
+        "venue": {
+          "stadium_name": "Hill Dickinson Stadium",
+          "stadium_location": "Bramley-Moore Dock, Vauxhall"
+        },
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100623,
+        "match_date": "2026-09-06 15:30:00",
+        "date_unix": 1788708600,
+        "status": "live",
+        "status_localized": "Live",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 136,
+          "team_name": "Chelsea",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 0
+        },
+        "xg": {
+          "home": 2.11,
+          "away": 0.34,
+          "total": 0
+        },
+        "odds": {
+          "home_win": 1.7,
+          "draw": 3.7,
+          "away_win": 4.4
+        },
+        "probabilities": {
+          "home_win": 54.18,
+          "draw": 24.89,
+          "away_win": 20.93
+        },
+        "venue": {
+          "stadium_name": "Emirates Stadium",
+          "stadium_location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 55,
+    "requests_limit": 1000,
+    "requests_remaining": 945,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 2,
+      "total_pages": 1
+    },
+    "filters": {
+      "date": "2026-09-06",
+      "league_id": 15,
+      "season_id": 103535,
+      "status": null
+    },
+    "count": 2,
+    "language": "en"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "formerteams": [
+    {
+      "id": "27631",
+      "idPlayer": "34163698",
+      "idFormerTeam": "133619",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strFormerTeam": "Brighton",
+      "strMoveType": "Youth",
+      "strBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+      "strJoined": "2014",
+      "strDeparted": "2016",
+      "intAppearances": null,
+      "intGoals": null
+    },
+    {
+      "id": "27632",
+      "idPlayer": "34163698",
+      "idFormerTeam": "134357",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strFormerTeam": "Newport",
+      "strMoveType": "Loan",
+      "strBadge": "https://r2.thesportsdb.com/images/media/team/badge/ttsryu1448814163.png",
+      "strJoined": "2017",
+      "strDeparted": "2018",
+      "intAppearances": "42",
+      "intGoals": "1"
+    },
+    {
+      "id": "29185",
+      "idPlayer": "34163698",
+      "idFormerTeam": "133631",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strFormerTeam": "Peterboro",
+      "strMoveType": "Loan",
+      "strBadge": "https://r2.thesportsdb.com/images/media/team/badge/tyxsvt1424033035.png",
+      "strJoined": "2019",
+      "strDeparted": "2019",
+      "intAppearances": null,
+      "intGoals": null
+    },
+    {
+      "id": "29186",
+      "idPlayer": "34163698",
+      "idFormerTeam": "133635",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strFormerTeam": "Leeds",
+      "strMoveType": "Loan",
+      "strBadge": "https://r2.thesportsdb.com/images/media/team/badge/wjp9391590514409.png",
+      "strJoined": "2019",
+      "strDeparted": "2020",
+      "intAppearances": "46",
+      "intGoals": "1"
+    },
+    {
+      "id": "46412",
+      "idPlayer": "34163698",
+      "idFormerTeam": "133619",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strFormerTeam": "Brighton",
+      "strMoveType": "Permanent",
+      "strBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+      "strJoined": "2016",
+      "strDeparted": "2021",
+      "intAppearances": null,
+      "intGoals": null
+    }
+  ]
+}

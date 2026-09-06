@@ -1,0 +1,253 @@
+{
+  "success": true,
+  "data": {
+    "league": {
+      "league_id": 15,
+      "name": "England Premier League",
+      "country": "England",
+      "competition_name": "Premier League",
+      "image": "https://footballdata.io/img/league/england-premier-league.png"
+    },
+    "seasons": [
+      {
+        "season_id": 103535,
+        "year": 20262027,
+        "is_current": true,
+        "summary": {
+          "team_count": 20,
+          "match_count": 170,
+          "first_match_date": "2026-08-21 19:00:00",
+          "last_match_date": "2026-12-26 15:00:00"
+        }
+      },
+      {
+        "season_id": 189,
+        "year": 20252026,
+        "is_current": true,
+        "summary": {
+          "team_count": 20,
+          "match_count": 381,
+          "first_match_date": "2025-08-15 19:00:00",
+          "last_match_date": "2026-05-24 15:00:00"
+        }
+      },
+      {
+        "season_id": 188,
+        "year": 20242025,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 317,
+          "first_match_date": "2024-08-16 19:00:00",
+          "last_match_date": "2025-05-25 15:00:00"
+        }
+      },
+      {
+        "season_id": 187,
+        "year": 20232024,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 310,
+          "first_match_date": "2023-08-11 19:00:00",
+          "last_match_date": "2024-05-19 15:00:00"
+        }
+      },
+      {
+        "season_id": 186,
+        "year": 20222023,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 320,
+          "first_match_date": "2022-08-05 19:00:00",
+          "last_match_date": "2023-05-28 15:30:00"
+        }
+      },
+      {
+        "season_id": 185,
+        "year": 20212022,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 274,
+          "first_match_date": "2021-08-13 19:00:00",
+          "last_match_date": "2022-05-22 15:00:00"
+        }
+      },
+      {
+        "season_id": 184,
+        "year": 20202021,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 276,
+          "first_match_date": "2020-09-12 11:30:00",
+          "last_match_date": "2021-05-23 15:00:00"
+        }
+      },
+      {
+        "season_id": 183,
+        "year": 20192020,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 252,
+          "first_match_date": "2019-08-10 11:30:00",
+          "last_match_date": "2020-07-26 15:00:00"
+        }
+      },
+      {
+        "season_id": 182,
+        "year": 20182019,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 252,
+          "first_match_date": "2018-08-11 11:30:00",
+          "last_match_date": "2019-05-12 14:00:00"
+        }
+      },
+      {
+        "season_id": 181,
+        "year": 20172018,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 216,
+          "first_match_date": "2017-08-12 14:00:00",
+          "last_match_date": "2018-05-13 14:00:00"
+        }
+      },
+      {
+        "season_id": 180,
+        "year": 20162017,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 282,
+          "first_match_date": "2016-08-13 11:30:00",
+          "last_match_date": "2017-05-21 14:00:00"
+        }
+      },
+      {
+        "season_id": 179,
+        "year": 20152016,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 236,
+          "first_match_date": "2015-08-08 11:45:00",
+          "last_match_date": "2016-05-17 19:00:00"
+        }
+      },
+      {
+        "season_id": 178,
+        "year": 20142015,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 260,
+          "first_match_date": "2014-08-16 14:00:00",
+          "last_match_date": "2015-05-24 14:00:00"
+        }
+      },
+      {
+        "season_id": 177,
+        "year": 20132014,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 253,
+          "first_match_date": "2013-08-17 14:00:00",
+          "last_match_date": "2014-05-11 14:00:00"
+        }
+      },
+      {
+        "season_id": 176,
+        "year": 20122013,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 206,
+          "first_match_date": "2012-08-18 14:00:00",
+          "last_match_date": "2013-05-19 15:00:00"
+        }
+      },
+      {
+        "season_id": 175,
+        "year": 20112012,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 208,
+          "first_match_date": "2011-08-13 14:00:00",
+          "last_match_date": "2012-05-13 14:00:00"
+        }
+      },
+      {
+        "season_id": 174,
+        "year": 20102011,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 216,
+          "first_match_date": "2010-08-14 11:45:00",
+          "last_match_date": "2011-05-22 15:00:00"
+        }
+      },
+      {
+        "season_id": 173,
+        "year": 20092010,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 310,
+          "first_match_date": "2009-08-15 11:45:00",
+          "last_match_date": "2010-05-09 15:00:00"
+        }
+      },
+      {
+        "season_id": 172,
+        "year": 20082009,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 271,
+          "first_match_date": "2008-08-16 11:45:00",
+          "last_match_date": "2009-05-24 15:00:00"
+        }
+      },
+      {
+        "season_id": 171,
+        "year": 20072008,
+        "is_current": true,
+        "summary": {
+          "team_count": 0,
+          "match_count": 380,
+          "first_match_date": "2007-08-11 11:45:00",
+          "last_match_date": "2008-05-11 14:00:00"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 36,
+    "requests_limit": 1000,
+    "requests_remaining": 964,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 50,
+      "total": 20,
+      "total_pages": 1
+    },
+    "filters": {
+      "league_id": 15,
+      "current": false
+    },
+    "count": 20
+  }
+}

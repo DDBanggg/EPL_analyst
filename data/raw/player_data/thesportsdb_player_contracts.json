@@ -1,0 +1,16 @@
+{
+  "contracts": [
+    {
+      "id": "796",
+      "idPlayer": "34163698",
+      "idTeam": "133631",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strTeam": "Peterboro",
+      "strBadge": "https://r2.thesportsdb.com/images/media/team/badge/tyxsvt1424033035.png",
+      "strYearStart": "2019",
+      "strYearEnd": "2019",
+      "strWage": ""
+    }
+  ]
+}

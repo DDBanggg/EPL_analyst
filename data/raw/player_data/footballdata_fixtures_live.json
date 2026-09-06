@@ -1,0 +1,100 @@
+{
+  "success": true,
+  "data": {
+    "matches": [
+      {
+        "match_id": 780100623,
+        "match_date": "2026-09-06 15:30:00",
+        "date_unix": 1788708600,
+        "status": "live",
+        "status_localized": "Live",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 136,
+          "team_name": "Chelsea",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 0
+        },
+        "live_stats": {
+          "corners": {
+            "home": 5,
+            "away": 3,
+            "total": 8
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 4
+            },
+            "red": {
+              "home": null,
+              "away": null
+            }
+          },
+          "xg": {
+            "home": 2.11,
+            "away": 0.34,
+            "total": 0
+          }
+        },
+        "odds": {
+          "home_win": 1.7,
+          "draw": 3.7,
+          "away_win": 4.4
+        },
+        "probabilities": {
+          "home_win": 54.18,
+          "draw": 24.89,
+          "away_win": 20.93
+        },
+        "venue": {
+          "stadium_name": "Emirates Stadium",
+          "stadium_location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU"
+        },
+        "last_updated": "2026-09-06 17:51:06"
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 57,
+    "requests_limit": 1000,
+    "requests_remaining": 943,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 1,
+      "total_pages": 1
+    },
+    "filters": {
+      "league_id": 15,
+      "season_id": 103535,
+      "team_id": null
+    },
+    "count": 1,
+    "language": "en"
+  }
+}

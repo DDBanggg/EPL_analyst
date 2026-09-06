@@ -1,0 +1,811 @@
+{
+  "success": true,
+  "data": {
+    "team": {
+      "team_id": 87,
+      "team_name": "Manchester City FC",
+      "seo_slug": "manchester-city-fc",
+      "full_name": "Manchester City FC",
+      "country": "England",
+      "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+    },
+    "opponent": {
+      "team_id": 134,
+      "team_name": "Hull City AFC",
+      "seo_slug": "hull-city-afc",
+      "full_name": "Hull City AFC",
+      "country": "England",
+      "continent": null,
+      "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+    },
+    "summary": {
+      "matches_played": 11,
+      "team_wins": 6,
+      "opponent_wins": 1,
+      "draws": 4,
+      "team_goals": 24,
+      "opponent_goals": 10
+    },
+    "matches": [
+      {
+        "match_id": 740745777,
+        "match_date": "2026-12-19 15:00:00",
+        "date_unix": 1797692400,
+        "status": "incomplete",
+        "status_localized": "Scheduled",
+        "round_id": 124461,
+        "game_week": null,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "team": 0,
+          "opponent": 0,
+          "winner": "draw"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": 50.9,
+          "draw": 18.3,
+          "away_win": 30.8
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        }
+      },
+      {
+        "match_id": 1165759023,
+        "match_date": "2017-04-08 14:00:00",
+        "date_unix": 1491660000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 19,
+        "game_week": 32,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 180,
+          "year": 20162017
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 1,
+          "total_goals": 4,
+          "halftime": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 2,
+            "away": 1,
+            "total_goals": 3
+          },
+          "team": 3,
+          "opponent": 1,
+          "winner": "team"
+        },
+        "xg": {
+          "home": 2.84,
+          "away": 0.93,
+          "total": 3.77
+        },
+        "odds": {
+          "match_winner": {
+            "home": 1.19,
+            "draw": 7.67,
+            "away": 9.99
+          }
+        },
+        "probabilities": {
+          "home_win": 78.48,
+          "draw": 12.18,
+          "away_win": 9.35
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 1165758956,
+        "match_date": "2016-12-26 17:15:00",
+        "date_unix": 1482772500,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 19,
+        "game_week": 18,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 180,
+          "year": 20162017
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 3,
+          "total_goals": 3,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 0,
+            "away": 3,
+            "total_goals": 3
+          },
+          "team": 3,
+          "opponent": 0,
+          "winner": "team"
+        },
+        "xg": {
+          "home": 0.99,
+          "away": 1.72,
+          "total": 2.72
+        },
+        "odds": {
+          "match_winner": {
+            "home": 9.25,
+            "draw": 5.55,
+            "away": 1.35
+          }
+        },
+        "probabilities": {
+          "home_win": 10.51,
+          "draw": 17.51,
+          "away_win": 71.98
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 1144643008,
+        "match_date": "2015-02-07 15:00:00",
+        "date_unix": 1423321200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 21,
+        "game_week": 24,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 178,
+          "year": 20142015
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2,
+          "halftime": {
+            "home": 0,
+            "away": 1,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          },
+          "team": 1,
+          "opponent": 1,
+          "winner": "draw"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 1.21,
+            "draw": 7.36,
+            "away": 9.99
+          }
+        },
+        "probabilities": {
+          "home_win": 77.79,
+          "draw": 12.79,
+          "away_win": 9.42
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 1199744460,
+        "match_date": "2014-09-27 14:00:00",
+        "date_unix": 1411826400,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 21,
+        "game_week": 6,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 178,
+          "year": 20142015
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 4,
+          "total_goals": 6,
+          "halftime": {
+            "home": 2,
+            "away": 2,
+            "total_goals": 4
+          },
+          "second_half": {
+            "home": 0,
+            "away": 2,
+            "total_goals": 2
+          },
+          "team": 4,
+          "opponent": 2,
+          "winner": "team"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 6.5,
+            "draw": 4.13,
+            "away": 1.6
+          }
+        },
+        "probabilities": {
+          "home_win": 15.07,
+          "draw": 23.72,
+          "away_win": 61.22
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 1172580533,
+        "match_date": "2014-03-15 12:45:00",
+        "date_unix": 1394887500,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 22,
+        "game_week": 30,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 177,
+          "year": 20132014
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 2,
+          "total_goals": 2,
+          "halftime": {
+            "home": 0,
+            "away": 1,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 0,
+            "away": 1,
+            "total_goals": 1
+          },
+          "team": 2,
+          "opponent": 0,
+          "winner": "team"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 7.68,
+            "draw": 4.56,
+            "away": 1.49
+          }
+        },
+        "probabilities": {
+          "home_win": 12.76,
+          "draw": 21.49,
+          "away_win": 65.76
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 1171039696,
+        "match_date": "2013-08-31 11:45:00",
+        "date_unix": 1377949500,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 22,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 177,
+          "year": 20132014
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 0,
+          "total_goals": 2,
+          "halftime": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          },
+          "second_half": {
+            "home": 2,
+            "away": 0,
+            "total_goals": 2
+          },
+          "team": 2,
+          "opponent": 0,
+          "winner": "team"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 1.19,
+            "draw": 8,
+            "away": 9.99
+          }
+        },
+        "probabilities": {
+          "home_win": 78.87,
+          "draw": 11.73,
+          "away_win": 9.4
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 71986,
+        "match_date": "2010-02-06 15:00:00",
+        "date_unix": 1265468400,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 53608,
+        "game_week": 25,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 173,
+          "year": 20092010
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 3,
+          "halftime": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 1,
+            "away": 1,
+            "total_goals": 2
+          },
+          "team": 1,
+          "opponent": 2,
+          "winner": "opponent"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": null,
+          "draw": null,
+          "away_win": null
+        },
+        "venue": {
+          "stadium_name": "KCOM Stadium (Hull)",
+          "stadium_location": ""
+        },
+        "winner_text": "Hull City won the match"
+      },
+      {
+        "match_id": 71882,
+        "match_date": "2009-11-28 15:00:00",
+        "date_unix": 1259420400,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 53608,
+        "game_week": 14,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 173,
+          "year": 20092010
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2,
+          "halftime": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          },
+          "second_half": {
+            "home": 0,
+            "away": 1,
+            "total_goals": 1
+          },
+          "team": 1,
+          "opponent": 1,
+          "winner": "draw"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": null,
+          "draw": null,
+          "away_win": null
+        },
+        "venue": {
+          "stadium_name": "Etihad Stadium (Manchester)",
+          "stadium_location": ""
+        },
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 1168910467,
+        "match_date": "2008-12-26 15:00:00",
+        "date_unix": 1230303600,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 53612,
+        "game_week": null,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 172,
+          "year": 20082009
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 5,
+          "away": 1,
+          "total_goals": 6,
+          "halftime": {
+            "home": 4,
+            "away": 0,
+            "total_goals": 4
+          },
+          "second_half": {
+            "home": 1,
+            "away": 1,
+            "total_goals": 2
+          },
+          "team": 5,
+          "opponent": 1,
+          "winner": "team"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": null,
+          "draw": null,
+          "away_win": null
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 1144714394,
+        "match_date": "2008-11-16 16:00:00",
+        "date_unix": 1226851200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 53612,
+        "game_week": null,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 172,
+          "year": 20082009
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 2,
+          "total_goals": 4,
+          "halftime": {
+            "home": 1,
+            "away": 2,
+            "total_goals": 3
+          },
+          "second_half": {
+            "home": 1,
+            "away": 0,
+            "total_goals": 1
+          },
+          "team": 2,
+          "opponent": 2,
+          "winner": "draw"
+        },
+        "xg": {
+          "home": 0,
+          "away": 0,
+          "total": 0
+        },
+        "odds": {
+          "match_winner": {
+            "home": 0,
+            "draw": 0,
+            "away": 0
+          }
+        },
+        "probabilities": {
+          "home_win": null,
+          "draw": null,
+          "away_win": null
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_location": ""
+        },
+        "winner_text": "The match ended in a draw"
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 44,
+    "requests_limit": 1000,
+    "requests_remaining": 956,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 20,
+      "total": 11,
+      "total_pages": 1
+    },
+    "filters": {
+      "team_id": 87,
+      "opponent_id": 134,
+      "league_id": null,
+      "season_id": null
+    },
+    "language": "en"
+  }
+}

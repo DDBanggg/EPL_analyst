@@ -1,0 +1,19 @@
+{
+  "player": [
+    {
+      "idPlayer": "34159027",
+      "idTeam": "134775",
+      "strPlayer": "Benjamin Whiteman",
+      "strTeam": "Wrexham",
+      "strSport": "Soccer",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/t1k9bt1508404550.jpg",
+      "strCutout": "https://r2.thesportsdb.com/images/media/player/cutout/o0wya01761495814.png",
+      "strNationality": "England",
+      "dateBorn": "1996-06-17",
+      "strStatus": "Active",
+      "strGender": "Male",
+      "strPosition": "Midfielder",
+      "relevance": "11.5350341796875"
+    }
+  ]
+}

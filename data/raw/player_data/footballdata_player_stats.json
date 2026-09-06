@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": {
+    "player": {
+      "player_id": 28015,
+      "player_name": "Marcus Bettinelli",
+      "first_name": "Marcus",
+      "last_name": "Bettinelli",
+      "known_name": "Marcus Bettinelli",
+      "seo_slug": "marcus-bettinelli",
+      "nationality": "England",
+      "continent": "Europe",
+      "date_of_birth": "1992-05-24",
+      "age": 33,
+      "height_cm": 193,
+      "weight_kg": 82,
+      "position_name": "Goalkeeper",
+      "player_image": "https://footballdata.io/img/player/england-marcus-bettinelli.png"
+    },
+    "stats": []
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 47,
+    "requests_limit": 1000,
+    "requests_remaining": 953,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 25,
+      "total": 0,
+      "total_pages": 0
+    },
+    "filters": {
+      "player_id": 28015,
+      "season_id": 103535,
+      "league_id": 15,
+      "team_id": 87,
+      "include_detailed": false
+    },
+    "count": 0
+  }
+}

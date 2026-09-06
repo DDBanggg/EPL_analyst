@@ -1,0 +1,79 @@
+{
+  "honours": [
+    {
+      "id": "20413",
+      "idPlayer": "34163698",
+      "idTeam": "133635",
+      "idLeague": "4329",
+      "idHonour": "620",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strTeam": "Leeds",
+      "strTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/g0eqzw1598804097.png",
+      "strHonour": "English Championship",
+      "strHonourLogo": "https://www.thesportsdb.com/images/media/honour/logo/zsqbf81651494831.png",
+      "strHonourTrophy": "https://www.thesportsdb.com/images/media/honour/trophy/tz1vj91650460404.png",
+      "strSeason": "2019-2020"
+    },
+    {
+      "id": "49471",
+      "idPlayer": "34163698",
+      "idTeam": "133604",
+      "idLeague": "4571",
+      "idHonour": "609",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strTeam": "Arsenal",
+      "strTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+      "strHonour": "English FA Community Shield",
+      "strHonourLogo": "https://www.thesportsdb.com/images/media/honour/logo/rsammg1650834256.png",
+      "strHonourTrophy": "https://www.thesportsdb.com/images/media/honour/trophy/b8dncd1650834238.png",
+      "strSeason": "2023"
+    },
+    {
+      "id": "81400",
+      "idPlayer": "34163698",
+      "idTeam": "133604",
+      "idLeague": "4571",
+      "idHonour": "609",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strTeam": "Arsenal",
+      "strTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+      "strHonour": "English FA Community Shield",
+      "strHonourLogo": "https://www.thesportsdb.com/images/media/honour/logo/rsammg1650834256.png",
+      "strHonourTrophy": "https://www.thesportsdb.com/images/media/honour/trophy/b8dncd1650834238.png",
+      "strSeason": "2026"
+    },
+    {
+      "id": "23090",
+      "idPlayer": "34163698",
+      "idTeam": "133631",
+      "idLeague": null,
+      "idHonour": "765",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strTeam": "Peterboro",
+      "strTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/tyxsvt1424033035.png",
+      "strHonour": "English PFA Championship Team of the Year",
+      "strHonourLogo": "https://www.thesportsdb.com/images/media/honour/logo/t0qxit1650891423.png",
+      "strHonourTrophy": "https://www.thesportsdb.com/images/media/honour/trophy/eh1qzu1650891416.png",
+      "strSeason": "2019-2020"
+    },
+    {
+      "id": "78053",
+      "idPlayer": "34163698",
+      "idTeam": "133604",
+      "idLeague": "4328",
+      "idHonour": "564",
+      "strSport": "Soccer",
+      "strPlayer": "Ben White",
+      "strTeam": "Arsenal",
+      "strTeamBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+      "strHonour": "English Premier League",
+      "strHonourLogo": "https://www.thesportsdb.com/images/media/honour/logo/jdftcx1650642018.png",
+      "strHonourTrophy": "https://www.thesportsdb.com/images/media/honour/trophy/6nw7za1650642103.png",
+      "strSeason": "2025-2026"
+    }
+  ]
+}

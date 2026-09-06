@@ -1,0 +1,612 @@
+[
+  {
+    "source": "Footballdata.io",
+    "name": "league_seasons",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "url": "https://footballdata.io/api/v1/leagues/15/seasons",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "league_matches",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 100,
+    "fill_rate": 0.956,
+    "url": "https://footballdata.io/api/v1/leagues/15/matches?season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "league_standings",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 0.892,
+    "url": "https://footballdata.io/api/v1/leagues/15/standings?season_id=103535",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "league_teams",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 0.89,
+    "url": "https://footballdata.io/api/v1/leagues/15/teams?season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "team_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.996,
+    "url": "https://footballdata.io/api/v1/teams/87",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "team_players",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.857,
+    "url": "https://footballdata.io/api/v1/teams/87/players?season_id=103535&league_id=15&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "team_matches",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 17,
+    "fill_rate": 0.955,
+    "url": "https://footballdata.io/api/v1/teams/87/matches?season_id=103535&league_id=15&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "team_stats",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.979,
+    "url": "https://footballdata.io/api/v1/teams/87/stats?season_id=103535&league_id=15",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "team_h2h",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 11,
+    "fill_rate": 0.927,
+    "url": "https://footballdata.io/api/v1/teams/87/h2h/134?limit=20",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "players_by_team",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 0.943,
+    "url": "https://footballdata.io/api/v1/players?team_id=87&limit=100",
+    "note": "Retest /players with simpler filters because previous discovery returned empty."
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "player_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.473,
+    "url": "https://footballdata.io/api/v1/players/28015",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "player_stats",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 1.0,
+    "url": "https://footballdata.io/api/v1/players/28015/stats?season_id=103535&league_id=15&team_id=87",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "matches",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 100,
+    "fill_rate": 0.961,
+    "url": "https://footballdata.io/api/v1/matches?league_id=15&season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "match_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.947,
+    "url": "https://footballdata.io/api/v1/matches/740533372",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "matches_by_date",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "url": "https://footballdata.io/api/v1/matches/date/2026-08-21?league_id=15&season_id=103535&limit=100",
+    "note": "Date forced to YYYY-MM-DD."
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "match_events",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 23,
+    "fill_rate": 0.657,
+    "url": "https://footballdata.io/api/v1/matches/740533372/events",
+    "note": "Completed match candidate #1"
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "match_stats",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.989,
+    "url": "https://footballdata.io/api/v1/matches/740533372/stats",
+    "note": "Completed match candidate #1"
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "match_odds",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "url": "https://footballdata.io/api/v1/matches/740533372/odds",
+    "note": "Completed match candidate #1"
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "match_probabilities",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.9,
+    "url": "https://footballdata.io/api/v1/matches/740533372/probabilities",
+    "note": "Completed match candidate #1"
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "fixtures_today",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 2,
+    "fill_rate": 1.0,
+    "url": "https://footballdata.io/api/v1/fixtures/today?league_id=15&season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "fixtures_upcoming",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 100,
+    "fill_rate": 0.927,
+    "url": "https://footballdata.io/api/v1/fixtures/upcoming?league_id=15&season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "fixtures_live",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.952,
+    "url": "https://footballdata.io/api/v1/fixtures/live?league_id=15&season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "Footballdata.io",
+    "name": "fixtures_results",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 29,
+    "fill_rate": 0.999,
+    "url": "https://footballdata.io/api/v1/fixtures/results?league_id=15&season_id=103535&limit=100",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "league_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupleague.php?id=4328",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "league_seasons",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/search_all_seasons.php?id=4328",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "league_table",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookuptable.php?l=4328&s=2026-2027",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "league_teams",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 10,
+    "fill_rate": 0.673,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/search_all_teams.php?l=English_Premier_League",
+    "note": "Free response max is 10 teams, so this is not a full EPL team list."
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "team_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.875,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupteam.php?id=133604",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "team_equipment",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 2,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupequipment.php?id=133604",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "team_players",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 10,
+    "fill_rate": 0.49,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookup_all_players.php?id=133604",
+    "note": "Free response max is 10 records."
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "search_player",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/searchplayers.php?p=Ben+White",
+    "note": "Uses a real player instead of coach/staff."
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.514,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupplayer.php?id=34163698",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_honours",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 0.985,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookuphonours.php?id=34163698",
+    "note": "Real player candidate #1: Ben White"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_former_teams",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 0.9,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupformerteams.php?id=34163698",
+    "note": "Real player candidate #1: Ben White"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_milestones",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupmilestones.php?id=34163698",
+    "note": "Real player candidate #1: Ben White"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_contracts",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.9,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupcontracts.php?id=34163698",
+    "note": "Real player candidate #1: Ben White"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_results",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/playerresults.php?id=34163698",
+    "note": "Real player candidate #1: Ben White"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_results_fallback_2",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/playerresults.php?id=34172187",
+    "note": "Real player candidate #2: Bruno Guimarães"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_results_fallback_3",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/playerresults.php?id=34169884",
+    "note": "Real player candidate #3: Bukayo Saka"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "player_stats",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 3,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupplayerstats.php?id=34163698",
+    "note": "Real player candidate #1: Ben White"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "season_events",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 15,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventsseason.php?id=4328&s=2026-2027",
+    "note": "Free response can be truncated; cannot represent all 380 EPL matches."
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.776,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494000",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_results",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventresults.php?id=2494000",
+    "note": "Completed EPL event candidate #1"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_results_fallback_2",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventresults.php?id=2494001",
+    "note": "Completed EPL event candidate #2"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_results_fallback_3",
+    "quality": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventresults.php?id=2494002",
+    "note": "Completed EPL event candidate #3"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_lineup",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookuplineup.php?id=2494000",
+    "note": "Completed EPL event candidate #1"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_timeline",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 0.916,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookuptimeline.php?id=2494000",
+    "note": "Completed EPL event candidate #1"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_stats",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 5,
+    "fill_rate": 1.0,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupeventstats.php?id=2494000",
+    "note": "Completed EPL event candidate #1"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "event_tv",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 2,
+    "fill_rate": 0.889,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookuptv.php?id=2494000",
+    "note": "Completed EPL event candidate #1"
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "events_by_day",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.776,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-21&l=4328",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "tv_schedule_by_date",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.833,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventstv.php?d=2026-08-21&s=Soccer",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "highlights_by_date",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.9,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventshighlights.php?d=2026-08-21&l=4328",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "team_next_event",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.714,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventsnext.php?id=133604",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "team_previous_event",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.776,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=133604",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "league_next_event",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.653,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventsnextleague.php?id=4328",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "league_previous_event",
+    "quality": "TRUNCATED_FREE_LIMIT",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.714,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=4328",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "search_venue",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.724,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/searchvenues.php?v=Emirates+Stadium",
+    "note": ""
+  },
+  {
+    "source": "TheSportsDB",
+    "name": "venue_detail",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.724,
+    "url": "https://www.thesportsdb.com/api/v1/json/123/lookupvenue.php?id=15528",
+    "note": ""
+  },
+  {
+    "source": "BALLDONTLIE EPL V2",
+    "name": "teams",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 1.0,
+    "url": "https://api.balldontlie.io/epl/v2/teams?season=2026",
+    "note": "Expected EPL universe = 20 teams."
+  },
+  {
+    "source": "BALLDONTLIE EPL V2",
+    "name": "rosters",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 46,
+    "fill_rate": 0.976,
+    "url": "https://api.balldontlie.io/epl/v2/rosters?team_id=13&season=2026&per_page=100",
+    "note": "Season-specific roster; this is the useful 2026/27 membership dataset."
+  },
+  {
+    "source": "BALLDONTLIE EPL V2",
+    "name": "players_by_team",
+    "quality": "DATA",
+    "http_status": 200,
+    "rows": 100,
+    "fill_rate": 0.94,
+    "url": "https://api.balldontlie.io/epl/v2/players?team_ids%5B%5D=13&per_page=100",
+    "note": "/players is player reference data; /rosters is better for season membership."
+  }
+]
