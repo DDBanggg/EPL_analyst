@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": [
+    {
+      "league_id": 15,
+      "league_name": "Premier League",
+      "country": "England",
+      "league_image": "https://footballdata.io/img/league/england-premier-league.png",
+      "seasons_available": 20,
+      "earliest_season": 20072008,
+      "latest_season": 20262027
+    }
+  ],
+  "meta": {
+    "plan": "free",
+    "requests_used": 4,
+    "requests_limit": 1000,
+    "requests_remaining": 996,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "language": "en",
+    "filters": {
+      "country": "England",
+      "search": "Premier League"
+    },
+    "count": 1
+  }
+}

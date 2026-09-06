@@ -1,0 +1,24 @@
+{
+  "tvevents": [
+    {
+      "id": "1192874",
+      "idEvent": "2496708",
+      "intDivision": "0",
+      "strSport": "Soccer",
+      "strEvent": "Standard Liège vs RAAL La Louvière",
+      "strEventThumb": "https://r2.thesportsdb.com/images/media/event/thumb/p6t80v1782190039.jpg",
+      "strEventPoster": "",
+      "strEventBanner": "",
+      "strEventSquare": "",
+      "idChannel": "17",
+      "strCountry": "France",
+      "strEventCountry": "Belgium",
+      "strLogo": "https://r2.thesportsdb.com/images/media/channel/logo/qurvwy1437967418.png",
+      "strChannel": "Sport +",
+      "strSeason": "2026-2027",
+      "strTime": "18:45:00",
+      "dateEvent": "2026-08-21",
+      "strTimeStamp": "2026-08-21 18:45:00"
+    }
+  ]
+}

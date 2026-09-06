@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [],
+  "meta": {
+    "plan": "free",
+    "requests_used": 20,
+    "requests_limit": 1000,
+    "requests_remaining": 980,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 0,
+      "total_pages": 0
+    },
+    "filters": {
+      "search": null,
+      "team_id": 87,
+      "league_id": 15,
+      "season_id": 103535,
+      "position": null,
+      "nationality": null
+    }
+  }
+}

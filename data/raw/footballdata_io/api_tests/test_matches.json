@@ -1,0 +1,6347 @@
+{
+  "success": true,
+  "data": [
+    {
+      "match_id": 740533372,
+      "match_date": "2026-08-21 19:00:00",
+      "date_unix": 1787338800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "total": 3,
+        "halftime_home": 2,
+        "halftime_away": 0,
+        "halftime_total": 2,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 2.15,
+        "away": 0.56,
+        "total": 2.71,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Emirates Stadium",
+        "location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU",
+        "attendance": 60098
+      },
+      "winner_text": "Arsenal FC won the match"
+    },
+    {
+      "match_id": 740533374,
+      "match_date": "2026-08-22 11:30:00",
+      "date_unix": 1787398200,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "total": 2,
+        "halftime_home": 2,
+        "halftime_away": 0,
+        "halftime_total": 2,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0.97,
+        "away": 2.37,
+        "total": 3.34,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "MKM Stadium",
+        "location": "Walton Street / Anlaby Road",
+        "attendance": 24470
+      },
+      "winner_text": "Hull City AFC won the match"
+    },
+    {
+      "match_id": 740745789,
+      "match_date": "2026-08-22 14:00:00",
+      "date_unix": 1787407200,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 0,
+        "total": 2,
+        "halftime_home": 1,
+        "halftime_away": 0,
+        "halftime_total": 1,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.83,
+        "away": 1.33,
+        "total": 3.17,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Hill Dickinson Stadium",
+        "location": "Bramley-Moore Dock, Vauxhall",
+        "attendance": 51820
+      },
+      "winner_text": "Everton FC won the match"
+    },
+    {
+      "match_id": 780100644,
+      "match_date": "2026-08-22 14:00:00",
+      "date_unix": 1787407200,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "total": 1,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 1,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.27,
+        "away": 1.15,
+        "total": 2.42,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "The City Ground",
+        "location": "Pavilion Road",
+        "attendance": 30739
+      },
+      "winner_text": "Leeds United FC won the match"
+    },
+    {
+      "match_id": 780100664,
+      "match_date": "2026-08-22 14:00:00",
+      "date_unix": 1787407200,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "total": 3,
+        "halftime_home": 1,
+        "halftime_away": 1,
+        "halftime_total": 2,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.1,
+        "away": 1.38,
+        "total": 2.48,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Portman Road Stadium",
+        "location": "Portman Road",
+        "attendance": 29669
+      },
+      "winner_text": "Ipswich Town FC won the match"
+    },
+    {
+      "match_id": 780100643,
+      "match_date": "2026-08-22 16:30:00",
+      "date_unix": 1787416200,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "total": 3,
+        "halftime_home": 2,
+        "halftime_away": 0,
+        "halftime_total": 2,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 2.56,
+        "away": 1.24,
+        "total": 3.8,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Gtech Community Stadium",
+        "location": "166 Lionel Rd N",
+        "attendance": 17180
+      },
+      "winner_text": "Brentford FC won the match"
+    },
+    {
+      "match_id": 720160207,
+      "match_date": "2026-08-23 13:00:00",
+      "date_unix": 1787490000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 1,
+        "total": 3,
+        "halftime_home": 0,
+        "halftime_away": 1,
+        "halftime_total": 1,
+        "second_half_home": 2,
+        "second_half_away": 0,
+        "second_half_total": 2
+      },
+      "xg": {
+        "home": 1.68,
+        "away": 0.67,
+        "total": 2.35,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Etihad Stadium",
+        "location": "Etihad Campus Manchester M11 3FF",
+        "attendance": 60605
+      },
+      "winner_text": "Manchester City FC won the match"
+    },
+    {
+      "match_id": 780100615,
+      "match_date": "2026-08-23 13:00:00",
+      "date_unix": 1787490000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 4,
+        "away": 0,
+        "total": 4,
+        "halftime_home": 4,
+        "halftime_away": 0,
+        "halftime_total": 4,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 2.27,
+        "away": 0.55,
+        "total": 2.82,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "The American Express Community Stadium",
+        "location": "Village Way",
+        "attendance": -1
+      },
+      "winner_text": "Brighton Hove Albion FC won the match"
+    },
+    {
+      "match_id": 780100625,
+      "match_date": "2026-08-23 15:30:00",
+      "date_unix": 1787499000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "total": 4,
+        "halftime_home": 1,
+        "halftime_away": 0,
+        "halftime_total": 1,
+        "second_half_home": 1,
+        "second_half_away": 2,
+        "second_half_total": 3
+      },
+      "xg": {
+        "home": 1.29,
+        "away": 2.66,
+        "total": 3.95,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 1,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "St. James&#039; Park",
+        "location": "St. James' Street",
+        "attendance": 52630
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 780100628,
+      "match_date": "2026-08-24 19:00:00",
+      "date_unix": 1787598000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 1,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "total": 5,
+        "halftime_home": 1,
+        "halftime_away": 2,
+        "halftime_total": 3,
+        "second_half_home": 1,
+        "second_half_away": 1,
+        "second_half_total": 2
+      },
+      "xg": {
+        "home": 1.76,
+        "away": 1.85,
+        "total": 3.61,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Craven Cottage",
+        "location": "Stevenage Road",
+        "attendance": 27461
+      },
+      "winner_text": "Chelsea FC won the match"
+    },
+    {
+      "match_id": 740533370,
+      "match_date": "2026-08-28 19:00:00",
+      "date_unix": 1787943600,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 4,
+        "total": 5,
+        "halftime_home": 0,
+        "halftime_away": 1,
+        "halftime_total": 1,
+        "second_half_home": 1,
+        "second_half_away": 3,
+        "second_half_total": 4
+      },
+      "xg": {
+        "home": 0.82,
+        "away": 2.25,
+        "total": 3.07,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Selhurst Park",
+        "location": "Holmesdale Road",
+        "attendance": -1
+      },
+      "winner_text": "Manchester City FC won the match"
+    },
+    {
+      "match_id": 740533385,
+      "match_date": "2026-08-29 11:30:00",
+      "date_unix": 1788003000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "total": 4,
+        "halftime_home": 0,
+        "halftime_away": 1,
+        "halftime_total": 1,
+        "second_half_home": 2,
+        "second_half_away": 1,
+        "second_half_total": 3
+      },
+      "xg": {
+        "home": 1.68,
+        "away": 1.17,
+        "total": 2.86,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 1,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Anfield",
+        "location": "Anfield Road",
+        "attendance": -1
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 780100621,
+      "match_date": "2026-08-29 14:00:00",
+      "date_unix": 1788012000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "total": 2,
+        "halftime_home": 1,
+        "halftime_away": 0,
+        "halftime_total": 1,
+        "second_half_home": 0,
+        "second_half_away": 1,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.74,
+        "away": 1.66,
+        "total": 3.4,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 1,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Vitality Stadium",
+        "location": "Dean Court, Kings Park",
+        "attendance": -1
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 780100655,
+      "match_date": "2026-08-29 14:00:00",
+      "date_unix": 1788012000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "total": 1,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 1,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.22,
+        "away": 0.67,
+        "total": 1.89,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "The Coventry Building Society Arena",
+        "location": "Phoenix Way, Rowleys Green",
+        "attendance": 31239
+      },
+      "winner_text": "Hull City AFC won the match"
+    },
+    {
+      "match_id": 780100674,
+      "match_date": "2026-08-29 16:30:00",
+      "date_unix": 1788021000,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "total": 2,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 2,
+        "second_half_total": 2
+      },
+      "xg": {
+        "home": 1.98,
+        "away": 1.09,
+        "total": 3.06,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Tottenham Hotspur Stadium",
+        "location": "Bill Nicholson Way, 748 High Road",
+        "attendance": 61025
+      },
+      "winner_text": "Newcastle United FC won the match"
+    },
+    {
+      "match_id": 740533382,
+      "match_date": "2026-08-30 13:00:00",
+      "date_unix": 1788094800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 4,
+        "away": 3,
+        "total": 7,
+        "halftime_home": 3,
+        "halftime_away": 1,
+        "halftime_total": 4,
+        "second_half_home": 1,
+        "second_half_away": 2,
+        "second_half_total": 3
+      },
+      "xg": {
+        "home": 1.65,
+        "away": 1.88,
+        "total": 3.53,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Stamford Bridge",
+        "location": "Fulham Road",
+        "attendance": -1
+      },
+      "winner_text": "Chelsea FC won the match"
+    },
+    {
+      "match_id": 780100616,
+      "match_date": "2026-08-30 13:00:00",
+      "date_unix": 1788094800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "total": 2,
+        "halftime_home": 0,
+        "halftime_away": 1,
+        "halftime_total": 1,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.26,
+        "away": 2.2,
+        "total": 3.46,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 1,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Elland Road",
+        "location": "Elland Road",
+        "attendance": 35971
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 780100670,
+      "match_date": "2026-08-30 13:00:00",
+      "date_unix": 1788094800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "total": 1,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 1.29,
+        "away": 1.11,
+        "total": 2.4,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Stadium of Light",
+        "location": "Millenium Way",
+        "attendance": 46781
+      },
+      "winner_text": "Sunderland AFC won the match"
+    },
+    {
+      "match_id": 780100667,
+      "match_date": "2026-08-30 15:30:00",
+      "date_unix": 1788103800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 5,
+        "away": 2,
+        "total": 7,
+        "halftime_home": 1,
+        "halftime_away": 1,
+        "halftime_total": 2,
+        "second_half_home": 4,
+        "second_half_away": 1,
+        "second_half_total": 5
+      },
+      "xg": {
+        "home": 3.37,
+        "away": 1.11,
+        "total": 4.48,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Old Trafford",
+        "location": "Sir Matt Busby Way",
+        "attendance": 74148
+      },
+      "winner_text": "Manchester United FC won the match"
+    },
+    {
+      "match_id": 740745813,
+      "match_date": "2026-08-31 19:00:00",
+      "date_unix": 1788202800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 2,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 1,
+        "total": 1,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 1,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 0.69,
+        "away": 0.93,
+        "total": 1.62,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Villa Park",
+        "location": "Trinity Road, Birmingham B6 6HE",
+        "attendance": 36804
+      },
+      "winner_text": "Arsenal FC won the match"
+    },
+    {
+      "match_id": 780100614,
+      "match_date": "2026-09-04 19:00:00",
+      "date_unix": 1788548400,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 2,
+        "total": 2,
+        "halftime_home": 0,
+        "halftime_away": 2,
+        "halftime_total": 2,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 1.5,
+        "away": 1.47,
+        "total": 2.97,
+        "prematch_home": 1.1,
+        "prematch_away": 2.66,
+        "prematch_total": 3.76
+      },
+      "form": {
+        "home_ppg": 1.5,
+        "away_ppg": 2,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 1
+      },
+      "venue": {
+        "name": "Portman Road Stadium",
+        "location": "Portman Road",
+        "attendance": 30019
+      },
+      "winner_text": "Liverpool FC won the match"
+    },
+    {
+      "match_id": 780100645,
+      "match_date": "2026-09-05 11:30:00",
+      "date_unix": 1788607800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 2,
+        "total": 4,
+        "halftime_home": 1,
+        "halftime_away": 2,
+        "halftime_total": 3,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 0.97,
+        "away": 1.7,
+        "total": 2.67,
+        "prematch_home": 1.29,
+        "prematch_away": 0.67,
+        "prematch_total": 1.96
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 0.5,
+        "pre_match_home_ppg": 1,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "St. James&#039; Park",
+        "location": "St. James' Street",
+        "attendance": 52643
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 740533381,
+      "match_date": "2026-09-05 14:00:00",
+      "date_unix": 1788616800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 0,
+        "total": 1,
+        "halftime_home": 1,
+        "halftime_away": 0,
+        "halftime_total": 1,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 1.7,
+        "away": 1.19,
+        "total": 2.88,
+        "prematch_home": 1.68,
+        "prematch_away": 0.56,
+        "prematch_total": 2.24
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Etihad Stadium",
+        "location": "Etihad Campus Manchester M11 3FF",
+        "attendance": 60765
+      },
+      "winner_text": "Manchester City FC won the match"
+    },
+    {
+      "match_id": 780100612,
+      "match_date": "2026-09-05 14:00:00",
+      "date_unix": 1788616800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 2,
+        "away": 3,
+        "total": 5,
+        "halftime_home": 2,
+        "halftime_away": 1,
+        "halftime_total": 3,
+        "second_half_home": 0,
+        "second_half_away": 2,
+        "second_half_total": 2
+      },
+      "xg": {
+        "home": 2.59,
+        "away": 1.15,
+        "total": 3.74,
+        "prematch_home": 1.76,
+        "prematch_away": 1.33,
+        "prematch_total": 3.09
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 1.5,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Craven Cottage",
+        "location": "Stevenage Road",
+        "attendance": -1
+      },
+      "winner_text": "Crystal Palace FC won the match"
+    },
+    {
+      "match_id": 780100613,
+      "match_date": "2026-09-05 14:00:00",
+      "date_unix": 1788616800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 1.23,
+        "away": 1.15,
+        "total": 2.38,
+        "prematch_home": 1.27,
+        "prematch_away": 1.24,
+        "prematch_total": 2.51
+      },
+      "form": {
+        "home_ppg": 0.5,
+        "away_ppg": 0.5,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "The City Ground",
+        "location": "Pavilion Road",
+        "attendance": 30686
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 780100622,
+      "match_date": "2026-09-05 14:00:00",
+      "date_unix": 1788616800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "total": 2,
+        "halftime_home": 0,
+        "halftime_away": 1,
+        "halftime_total": 1,
+        "second_half_home": 1,
+        "second_half_away": 0,
+        "second_half_total": 1
+      },
+      "xg": {
+        "home": 2.13,
+        "away": 1.23,
+        "total": 3.36,
+        "prematch_home": 2.27,
+        "prematch_away": 1.15,
+        "prematch_total": 3.42
+      },
+      "form": {
+        "home_ppg": 2,
+        "away_ppg": 2,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 3
+      },
+      "venue": {
+        "name": "The American Express Community Stadium",
+        "location": "Village Way",
+        "attendance": -1
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 780100665,
+      "match_date": "2026-09-05 14:00:00",
+      "date_unix": 1788616800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 1,
+        "away": 1,
+        "total": 2,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 1,
+        "second_half_away": 1,
+        "second_half_total": 2
+      },
+      "xg": {
+        "home": 1.28,
+        "away": 1.56,
+        "total": 2.83,
+        "prematch_home": 2.56,
+        "prematch_away": 1.38,
+        "prematch_total": 3.94
+      },
+      "form": {
+        "home_ppg": 2,
+        "away_ppg": 0.5,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Gtech Community Stadium",
+        "location": "166 Lionel Rd N",
+        "attendance": 17131
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 740745816,
+      "match_date": "2026-09-05 16:30:00",
+      "date_unix": 1788625800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 1.29,
+        "away": 1.31,
+        "total": 2.6,
+        "prematch_home": 0.97,
+        "prematch_away": 0.55,
+        "prematch_total": 1.52
+      },
+      "form": {
+        "home_ppg": 2,
+        "away_ppg": 0.5,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "MKM Stadium",
+        "location": "Walton Street / Anlaby Road",
+        "attendance": 24425
+      },
+      "winner_text": "The match ended in a draw"
+    },
+    {
+      "match_id": 740533387,
+      "match_date": "2026-09-06 13:00:00",
+      "date_unix": 1788699600,
+      "status": "halftime",
+      "status_localized": "Half-time",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0.34,
+        "away": 0.32,
+        "total": 0,
+        "prematch_home": 1.83,
+        "prematch_away": 2.37,
+        "prematch_total": 4.2
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "Hill Dickinson Stadium",
+        "location": "Bramley-Moore Dock, Vauxhall",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 780100623,
+      "match_date": "2026-09-06 15:30:00",
+      "date_unix": 1788708600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 3,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 2.15,
+        "prematch_away": 1.85,
+        "prematch_total": 4
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 3
+      },
+      "venue": {
+        "name": "Emirates Stadium",
+        "location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533373,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 4,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0.69,
+        "prematch_away": 1.17,
+        "prematch_total": 1.86
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 1,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 1
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745802,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 4,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 1.65,
+        "prematch_away": 0.72,
+        "prematch_total": 2.37
+      },
+      "form": {
+        "home_ppg": 3,
+        "away_ppg": 3,
+        "pre_match_home_ppg": 3,
+        "pre_match_away_ppg": 3
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745811,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 855619181,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 4,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0.82,
+        "prematch_away": 1.11,
+        "prematch_total": 1.93
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 855619195,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 855619198,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 855619211,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 855832829,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 4,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 1.68,
+        "prematch_away": 1.17,
+        "prematch_total": 2.85
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 1,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 855832893,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 4,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 1.74,
+        "prematch_away": 2.2,
+        "prematch_total": 3.94
+      },
+      "form": {
+        "home_ppg": 1,
+        "away_ppg": 1,
+        "pre_match_home_ppg": 1,
+        "pre_match_away_ppg": 1
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 856046574,
+      "match_date": "2026-09-12 14:00:00",
+      "date_unix": 1789221600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745780,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745822,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 892219738,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082936,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082944,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082946,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082949,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082965,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082981,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 905082997,
+      "match_date": "2026-09-19 14:00:00",
+      "date_unix": 1789826400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533366,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533369,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533371,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745782,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745804,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 915172067,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 936013155,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 936013159,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 936013205,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 936013238,
+      "match_date": "2026-10-10 14:00:00",
+      "date_unix": 1791640800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011635,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011650,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011656,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011687,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011693,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011707,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011710,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011721,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011736,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 967011738,
+      "match_date": "2026-10-17 14:00:00",
+      "date_unix": 1792245600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 7,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745792,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745795,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745796,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745808,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745818,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077559,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 8,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077565,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 8,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077599,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 8,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077651,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 8,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077671,
+      "match_date": "2026-10-24 14:00:00",
+      "date_unix": 1792850400,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 8,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533368,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533378,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745803,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 987289304,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 987721141,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077558,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077566,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077567,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077570,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 998077665,
+      "match_date": "2026-10-31 15:00:00",
+      "date_unix": 1793458800,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 9,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740533384,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 128,
+        "team_name": "Everton FC",
+        "seo_slug": "everton-fc",
+        "team_logo": "https://footballdata.io/img/team/england-everton-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City FC",
+        "seo_slug": "coventry-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-coventry-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745805,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal FC",
+        "seo_slug": "arsenal-fc",
+        "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 134,
+        "team_name": "Hull City AFC",
+        "seo_slug": "hull-city-afc",
+        "team_logo": "https://footballdata.io/img/team/england-hull-city-afc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 740745812,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 127,
+        "team_name": "Crystal Palace FC",
+        "seo_slug": "crystal-palace-fc",
+        "team_logo": "https://footballdata.io/img/team/england-crystal-palace-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 135,
+        "team_name": "Liverpool FC",
+        "seo_slug": "liverpool-fc",
+        "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 769029453,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": null,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 140,
+        "team_name": "Sunderland AFC",
+        "seo_slug": "sunderland-afc",
+        "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 136,
+        "team_name": "Chelsea FC",
+        "seo_slug": "chelsea-fc",
+        "team_logo": "https://footballdata.io/img/team/england-chelsea-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 1000023055,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 10,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 193,
+        "team_name": "Leeds United FC",
+        "seo_slug": "leeds-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-leeds-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 86,
+        "team_name": "Tottenham Hotspur FC",
+        "seo_slug": "tottenham-hotspur-fc",
+        "team_logo": "https://footballdata.io/img/team/england-tottenham-hotspur-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 1000455196,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 10,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 146,
+        "team_name": "Fulham FC",
+        "seo_slug": "fulham-fc",
+        "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 141,
+        "team_name": "Newcastle United FC",
+        "seo_slug": "newcastle-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-newcastle-united-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 1005642741,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 10,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 182,
+        "team_name": "Nottingham Forest FC",
+        "seo_slug": "nottingham-forest-fc",
+        "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 87,
+        "team_name": "Manchester City FC",
+        "seo_slug": "manchester-city-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 1011480730,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 10,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 180,
+        "team_name": "Brighton Hove Albion FC",
+        "seo_slug": "brighton-hove-albion-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 189,
+        "team_name": "Brentford FC",
+        "seo_slug": "brentford-fc",
+        "team_logo": "https://footballdata.io/img/team/england-brentford-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 1023355287,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 10,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 133,
+        "team_name": "Manchester United FC",
+        "seo_slug": "manchester-united-fc",
+        "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 142,
+        "team_name": "Aston Villa FC",
+        "seo_slug": "aston-villa-fc",
+        "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    },
+    {
+      "match_id": 1024220133,
+      "match_date": "2026-11-07 15:00:00",
+      "date_unix": 1794063600,
+      "status": "incomplete",
+      "status_localized": "Scheduled",
+      "round_id": 124461,
+      "game_week": 10,
+      "league": {
+        "league_id": 15,
+        "league_name": "Premier League",
+        "country": "England",
+        "league_image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 191,
+        "team_name": "Ipswich Town FC",
+        "seo_slug": "ipswich-town-fc",
+        "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png",
+        "country": "England"
+      },
+      "away_team": {
+        "team_id": 132,
+        "team_name": "AFC Bournemouth",
+        "seo_slug": "afc-bournemouth",
+        "team_logo": "https://footballdata.io/img/team/england-afc-bournemouth.png",
+        "country": "England"
+      },
+      "score": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "halftime_home": 0,
+        "halftime_away": 0,
+        "halftime_total": 0,
+        "second_half_home": 0,
+        "second_half_away": 0,
+        "second_half_total": 0
+      },
+      "xg": {
+        "home": 0,
+        "away": 0,
+        "total": 0,
+        "prematch_home": 0,
+        "prematch_away": 0,
+        "prematch_total": 0
+      },
+      "form": {
+        "home_ppg": 0,
+        "away_ppg": 0,
+        "pre_match_home_ppg": 0,
+        "pre_match_away_ppg": 0
+      },
+      "venue": {
+        "name": "",
+        "location": "",
+        "attendance": -1
+      }
+    }
+  ],
+  "meta": {
+    "plan": "free",
+    "requests_used": 21,
+    "requests_limit": 1000,
+    "requests_remaining": 979,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "language": "en",
+    "page": 1,
+    "limit": 100,
+    "count": 100,
+    "total": 170,
+    "total_pages": 2
+  }
+}

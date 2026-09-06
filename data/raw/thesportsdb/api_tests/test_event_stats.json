@@ -1,0 +1,49 @@
+{
+  "eventstats": [
+    {
+      "idStatistic": "663575",
+      "idEvent": "2494000",
+      "idApiFootball": "1557367",
+      "strEvent": "Arsenal vs Coventry City",
+      "strStat": "Passes accurate",
+      "intHome": "565",
+      "intAway": "271"
+    },
+    {
+      "idStatistic": "663576",
+      "idEvent": "2494000",
+      "idApiFootball": "1557367",
+      "strEvent": "Arsenal vs Coventry City",
+      "strStat": "Shots insidebox",
+      "intHome": "10",
+      "intAway": "1"
+    },
+    {
+      "idStatistic": "663577",
+      "idEvent": "2494000",
+      "idApiFootball": "1557367",
+      "strEvent": "Arsenal vs Coventry City",
+      "strStat": "Shots outsidebox",
+      "intHome": "10",
+      "intAway": "3"
+    },
+    {
+      "idStatistic": "663578",
+      "idEvent": "2494000",
+      "idApiFootball": "1557367",
+      "strEvent": "Arsenal vs Coventry City",
+      "strStat": "Blocked Shots",
+      "intHome": "8",
+      "intAway": "1"
+    },
+    {
+      "idStatistic": "663579",
+      "idEvent": "2494000",
+      "idApiFootball": "1557367",
+      "strEvent": "Arsenal vs Coventry City",
+      "strStat": "Free Kicks",
+      "intHome": "13",
+      "intAway": "10"
+    }
+  ]
+}

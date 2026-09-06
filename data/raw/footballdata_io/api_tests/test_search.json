@@ -1,0 +1,389 @@
+{
+  "success": true,
+  "data": {
+    "query": "Arsenal",
+    "type": "all",
+    "results": {
+      "teams": [
+        {
+          "type": "team",
+          "team_id": 57,
+          "team_name": "Arsenal FC",
+          "team_name_clean": "Arsenal",
+          "seo_slug": "arsenal-fc",
+          "full_name": "Arsenal FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png",
+          "stadium_name": "",
+          "founded": "1886"
+        }
+      ],
+      "players": [],
+      "leagues": [],
+      "seasons": [],
+      "matches": [
+        {
+          "type": "match",
+          "match_id": 730772414,
+          "match_date": "2026-12-26 15:00:00",
+          "date_unix": 1798297200,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 127,
+            "team_name": "Crystal Palace",
+            "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+          },
+          "away_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 740745793,
+          "match_date": "2026-12-19 15:00:00",
+          "date_unix": 1797692400,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "away_team": {
+            "team_id": 133,
+            "team_name": "Manchester United",
+            "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 740533365,
+          "match_date": "2026-12-12 15:00:00",
+          "date_unix": 1797087600,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "away_team": {
+            "team_id": 132,
+            "team_name": "AFC Bournemouth",
+            "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 1091825605,
+          "match_date": "2026-12-05 15:00:00",
+          "date_unix": 1796482800,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 86,
+            "team_name": "Tottenham Hotspur",
+            "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+          },
+          "away_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 1009534439,
+          "match_date": "2026-12-02 20:00:00",
+          "date_unix": 1796241600,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 189,
+            "team_name": "Brentford",
+            "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+          },
+          "away_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 740745798,
+          "match_date": "2026-11-28 15:00:00",
+          "date_unix": 1795878000,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "away_team": {
+            "team_id": 87,
+            "team_name": "Manchester City",
+            "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 1005642731,
+          "match_date": "2026-11-21 15:00:00",
+          "date_unix": 1795273200,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 141,
+            "team_name": "Newcastle United",
+            "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+          },
+          "away_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 740745805,
+          "match_date": "2026-11-07 15:00:00",
+          "date_unix": 1794063600,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "away_team": {
+            "team_id": 134,
+            "team_name": "Hull City",
+            "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 740533368,
+          "match_date": "2026-10-31 15:00:00",
+          "date_unix": 1793458800,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 135,
+            "team_name": "Liverpool",
+            "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+          },
+          "away_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        },
+        {
+          "type": "match",
+          "match_id": 740745795,
+          "match_date": "2026-10-24 14:00:00",
+          "date_unix": 1792850400,
+          "status": "incomplete",
+          "status_localized": "Scheduled",
+          "league": {
+            "league_id": 15,
+            "name": "England Premier League",
+            "country": "England",
+            "competition_name": "Premier League",
+            "image": "https://footballdata.io/img/league/england-premier-league.png"
+          },
+          "season": {
+            "season_id": 103535,
+            "year": 20262027
+          },
+          "home_team": {
+            "team_id": 57,
+            "team_name": "Arsenal",
+            "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+          },
+          "away_team": {
+            "team_id": 128,
+            "team_name": "Everton",
+            "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+          },
+          "score": {
+            "home": 0,
+            "away": 0,
+            "total_goals": 0
+          }
+        }
+      ]
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 35,
+    "requests_limit": 1000,
+    "requests_remaining": 965,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "filters": {
+      "q": "Arsenal",
+      "type": "all",
+      "limit": 10
+    },
+    "count": {
+      "teams": 1,
+      "players": 0,
+      "leagues": 0,
+      "seasons": 0,
+      "matches": 10
+    },
+    "language": "en"
+  }
+}

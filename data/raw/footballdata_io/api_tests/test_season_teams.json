@@ -1,0 +1,518 @@
+{
+  "success": true,
+  "data": {
+    "season": {
+      "season_id": 103535,
+      "year": 20262027,
+      "is_current": true
+    },
+    "league": {
+      "league_id": 15,
+      "name": "England Premier League",
+      "country": "England",
+      "competition_name": "Premier League",
+      "image": "https://footballdata.io/img/league/england-premier-league.png"
+    },
+    "teams": [
+      {
+        "season_team_id": 131814183,
+        "team": {
+          "team_id": 87,
+          "team_name": "Manchester City FC",
+          "team_name_clean": "Manchester City",
+          "full_name": "Manchester City FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "season_context": {
+          "table_position": 1,
+          "performance_rank": 1,
+          "risk": 100,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/manchester-city-fc-93"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1880"
+      },
+      {
+        "season_team_id": 131814231,
+        "team": {
+          "team_id": 134,
+          "team_name": "Hull City AFC",
+          "team_name_clean": "Hull City",
+          "full_name": "Hull City AFC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "season_context": {
+          "table_position": 2,
+          "performance_rank": 2,
+          "risk": 0,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/hull-city-afc-150"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1904"
+      },
+      {
+        "season_team_id": 131814153,
+        "team": {
+          "team_id": 57,
+          "team_name": "Arsenal FC",
+          "team_name_clean": "Arsenal",
+          "full_name": "Arsenal FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "season_context": {
+          "table_position": 3,
+          "performance_rank": 3,
+          "risk": 50,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/arsenal-fc-59"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1886"
+      },
+      {
+        "season_team_id": 131814233,
+        "team": {
+          "team_id": 136,
+          "team_name": "Chelsea FC",
+          "team_name_clean": "Chelsea",
+          "full_name": "Chelsea FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "season_context": {
+          "table_position": 4,
+          "performance_rank": 4,
+          "risk": 200,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/chelsea-fc-152"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1905"
+      },
+      {
+        "season_team_id": 131814286,
+        "team": {
+          "team_id": 189,
+          "team_name": "Brentford FC",
+          "team_name_clean": "Brentford",
+          "full_name": "Brentford FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "season_context": {
+          "table_position": 5,
+          "performance_rank": 5,
+          "risk": 33,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/brentford-fc-218"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1889"
+      },
+      {
+        "season_team_id": 131814232,
+        "team": {
+          "team_id": 135,
+          "team_name": "Liverpool FC",
+          "team_name_clean": "Liverpool",
+          "full_name": "Liverpool FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+        },
+        "season_context": {
+          "table_position": 6,
+          "performance_rank": 6,
+          "risk": 100,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/liverpool-fc-151"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1892"
+      },
+      {
+        "season_team_id": 131814238,
+        "team": {
+          "team_id": 141,
+          "team_name": "Newcastle United FC",
+          "team_name_clean": "Newcastle United",
+          "full_name": "Newcastle United FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+        },
+        "season_context": {
+          "table_position": 7,
+          "performance_rank": 7,
+          "risk": 100,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/newcastle-united-fc-157"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1892"
+      },
+      {
+        "season_team_id": 131814290,
+        "team": {
+          "team_id": 193,
+          "team_name": "Leeds United FC",
+          "team_name_clean": "Leeds United",
+          "full_name": "Leeds United FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+        },
+        "season_context": {
+          "table_position": 8,
+          "performance_rank": 8,
+          "risk": 67,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/leeds-united-fc-222"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1919"
+      },
+      {
+        "season_team_id": 131814277,
+        "team": {
+          "team_id": 180,
+          "team_name": "Brighton Hove Albion FC",
+          "team_name_clean": "Brighton &amp; Hove Albion",
+          "full_name": "Brighton &amp; Hove Albion FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+        },
+        "season_context": {
+          "table_position": 9,
+          "performance_rank": 9,
+          "risk": 167,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/brighton-hove-albion-fc-209"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1901"
+      },
+      {
+        "season_team_id": 131814225,
+        "team": {
+          "team_id": 128,
+          "team_name": "Everton FC",
+          "team_name_clean": "Everton",
+          "full_name": "Everton FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+        },
+        "season_context": {
+          "table_position": 10,
+          "performance_rank": 10,
+          "risk": 0,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/everton-fc-144"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1878"
+      },
+      {
+        "season_team_id": 131814237,
+        "team": {
+          "team_id": 140,
+          "team_name": "Sunderland AFC",
+          "team_name_clean": "Sunderland",
+          "full_name": "Sunderland AFC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+        },
+        "season_context": {
+          "table_position": 11,
+          "performance_rank": 11,
+          "risk": 33,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/sunderland-afc-156"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1879"
+      },
+      {
+        "season_team_id": 131814230,
+        "team": {
+          "team_id": 133,
+          "team_name": "Manchester United FC",
+          "team_name_clean": "Manchester United",
+          "full_name": "Manchester United FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "season_context": {
+          "table_position": 12,
+          "performance_rank": 12,
+          "risk": 150,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/manchester-united-fc-149"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1878"
+      },
+      {
+        "season_team_id": 131814224,
+        "team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace FC",
+          "team_name_clean": "Crystal Palace",
+          "full_name": "Crystal Palace FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "season_context": {
+          "table_position": 13,
+          "performance_rank": 13,
+          "risk": 100,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/crystal-palace-fc-143"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1905"
+      },
+      {
+        "season_team_id": 131814288,
+        "team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town FC",
+          "team_name_clean": "Ipswich Town",
+          "full_name": "Ipswich Town FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/ipswich-town-fc.png"
+        },
+        "season_context": {
+          "table_position": 14,
+          "performance_rank": 14,
+          "risk": 167,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/ipswich-town-fc-220"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1878"
+      },
+      {
+        "season_team_id": 131814279,
+        "team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest FC",
+          "team_name_clean": "Nottingham Forest",
+          "full_name": "Nottingham Forest FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+        },
+        "season_context": {
+          "table_position": 15,
+          "performance_rank": 15,
+          "risk": 33,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/nottingham-forest-fc-211"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1865"
+      },
+      {
+        "season_team_id": 131814229,
+        "team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_name_clean": "AFC Bournemouth",
+          "full_name": "AFC Bournemouth",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "season_context": {
+          "table_position": 16,
+          "performance_rank": 16,
+          "risk": 67,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/afc-bournemouth-148"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1899"
+      },
+      {
+        "season_team_id": 131814239,
+        "team": {
+          "team_id": 142,
+          "team_name": "Aston Villa FC",
+          "team_name_clean": "Aston Villa",
+          "full_name": "Aston Villa FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "season_context": {
+          "table_position": 17,
+          "performance_rank": 17,
+          "risk": 67,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/aston-villa-fc-158"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1874"
+      },
+      {
+        "season_team_id": 131814182,
+        "team": {
+          "team_id": 86,
+          "team_name": "Tottenham Hotspur FC",
+          "team_name_clean": "Tottenham Hotspur",
+          "full_name": "Tottenham Hotspur FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+        },
+        "season_context": {
+          "table_position": 18,
+          "performance_rank": 18,
+          "risk": 33,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/tottenham-hotspur-fc-92"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1882"
+      },
+      {
+        "season_team_id": 131814243,
+        "team": {
+          "team_id": 146,
+          "team_name": "Fulham FC",
+          "team_name_clean": "Fulham",
+          "full_name": "Fulham FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+        },
+        "season_context": {
+          "table_position": 19,
+          "performance_rank": 19,
+          "risk": 100,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/fulham-fc-162"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1879"
+      },
+      {
+        "season_team_id": 131814306,
+        "team": {
+          "team_id": 209,
+          "team_name": "Coventry City FC",
+          "team_name_clean": "Coventry City",
+          "full_name": "Coventry City FC",
+          "country": "England",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "season_context": {
+          "table_position": 20,
+          "performance_rank": 20,
+          "risk": 33,
+          "season_label": "2026/2027",
+          "season_format": "Domestic League",
+          "team_url": "https://footystats.org/clubs/coventry-city-fc-239"
+        },
+        "venue": {
+          "stadium_name": "",
+          "stadium_address": null
+        },
+        "founded": "1883"
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 14,
+    "requests_limit": 1000,
+    "requests_remaining": 986,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 20,
+      "total_pages": 1
+    },
+    "filters": {
+      "season_id": 103535,
+      "country": null,
+      "search": null
+    }
+  }
+}

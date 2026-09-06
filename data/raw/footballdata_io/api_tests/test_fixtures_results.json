@@ -1,0 +1,1825 @@
+{
+  "success": true,
+  "data": {
+    "from": null,
+    "to": "2026-09-06",
+    "matches": [
+      {
+        "match_id": 740745816,
+        "match_date": "2026-09-05 16:30:00",
+        "date_unix": 1788625800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 142,
+          "team_name": "Aston Villa",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 3,
+            "away": 4,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 0
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.29,
+            "away": 1.31,
+            "total": 2.6
+          }
+        },
+        "venue": {
+          "stadium_name": "MKM Stadium",
+          "stadium_location": "Walton Street / Anlaby Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100665,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 189,
+          "team_name": "Brentford",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "away_team": {
+          "team_id": 140,
+          "team_name": "Sunderland",
+          "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 4,
+            "away": 3,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 3,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.28,
+            "away": 1.56,
+            "total": 2.83
+          }
+        },
+        "venue": {
+          "stadium_name": "Gtech Community Stadium",
+          "stadium_location": "166 Lionel Rd N"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100622,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 180,
+          "team_name": "Brighton &amp; Hove Albion",
+          "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+        },
+        "away_team": {
+          "team_id": 193,
+          "team_name": "Leeds United",
+          "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 7,
+            "away": 6,
+            "total": 13
+          },
+          "cards": {
+            "yellow": {
+              "home": 3,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 2.13,
+            "away": 1.23,
+            "total": 3.36
+          }
+        },
+        "venue": {
+          "stadium_name": "The American Express Community Stadium",
+          "stadium_location": "Village Way"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100613,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest",
+          "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+        },
+        "away_team": {
+          "team_id": 86,
+          "team_name": "Tottenham Hotspur",
+          "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 0,
+          "total_goals": 0,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 2,
+            "away": 10,
+            "total": 12
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.23,
+            "away": 1.15,
+            "total": 2.38
+          }
+        },
+        "venue": {
+          "stadium_name": "The City Ground",
+          "stadium_location": "Pavilion Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100612,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 146,
+          "team_name": "Fulham",
+          "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+        },
+        "away_team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 3,
+          "total_goals": 5,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 7,
+            "away": 1,
+            "total": 8
+          },
+          "cards": {
+            "yellow": {
+              "home": 0,
+              "away": 0
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 2.59,
+            "away": 1.15,
+            "total": 3.74
+          }
+        },
+        "venue": {
+          "stadium_name": "Craven Cottage",
+          "stadium_location": "Stevenage Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Crystal Palace won the match"
+      },
+      {
+        "match_id": 740533381,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 0,
+          "total_goals": 1,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 4,
+            "away": 5,
+            "total": 9
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.7,
+            "away": 1.19,
+            "total": 2.88
+          }
+        },
+        "venue": {
+          "stadium_name": "Etihad Stadium",
+          "stadium_location": "Etihad Campus Manchester M11 3FF"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 780100645,
+        "match_date": "2026-09-05 11:30:00",
+        "date_unix": 1788607800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 141,
+          "team_name": "Newcastle United",
+          "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 2,
+          "total_goals": 4,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 4,
+            "away": 3,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 0.97,
+            "away": 1.7,
+            "total": 2.67
+          }
+        },
+        "venue": {
+          "stadium_name": "St. James&#039; Park",
+          "stadium_location": "St. James' Street"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100614,
+        "match_date": "2026-09-04 19:00:00",
+        "date_unix": 1788548400,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 3,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town",
+          "team_logo": "https://footballdata.io/img/team/ipswich-town-fc.png"
+        },
+        "away_team": {
+          "team_id": 135,
+          "team_name": "Liverpool",
+          "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 2,
+          "total_goals": 2,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 4,
+            "away": 3,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.5,
+            "away": 1.47,
+            "total": 2.97
+          }
+        },
+        "venue": {
+          "stadium_name": "Portman Road Stadium",
+          "stadium_location": "Portman Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Liverpool won the match"
+      },
+      {
+        "match_id": 740745813,
+        "match_date": "2026-08-31 19:00:00",
+        "date_unix": 1788202800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 142,
+          "team_name": "Aston Villa",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "away_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 1,
+          "total_goals": 1,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 2,
+            "away": 4,
+            "total": 6
+          },
+          "cards": {
+            "yellow": {
+              "home": 3,
+              "away": 1
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 0.69,
+            "away": 0.93,
+            "total": 1.62
+          }
+        },
+        "venue": {
+          "stadium_name": "Villa Park",
+          "stadium_location": "Trinity Road, Birmingham B6 6HE"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Arsenal won the match"
+      },
+      {
+        "match_id": 780100667,
+        "match_date": "2026-08-30 15:30:00",
+        "date_unix": 1788103800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 133,
+          "team_name": "Manchester United",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town",
+          "team_logo": "https://footballdata.io/img/team/ipswich-town-fc.png"
+        },
+        "score": {
+          "home": 5,
+          "away": 2,
+          "total_goals": 7,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 8,
+            "away": 4,
+            "total": 12
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 3.37,
+            "away": 1.11,
+            "total": 4.48
+          }
+        },
+        "venue": {
+          "stadium_name": "Old Trafford",
+          "stadium_location": "Sir Matt Busby Way"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Manchester United won the match"
+      },
+      {
+        "match_id": 780100670,
+        "match_date": "2026-08-30 13:00:00",
+        "date_unix": 1788094800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 140,
+          "team_name": "Sunderland",
+          "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+        },
+        "away_team": {
+          "team_id": 146,
+          "team_name": "Fulham",
+          "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 0,
+          "total_goals": 1,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 3,
+            "away": 4,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 0,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.29,
+            "away": 1.11,
+            "total": 2.4
+          }
+        },
+        "venue": {
+          "stadium_name": "Stadium of Light",
+          "stadium_location": "Millenium Way"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Sunderland won the match"
+      },
+      {
+        "match_id": 780100616,
+        "match_date": "2026-08-30 13:00:00",
+        "date_unix": 1788094800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 193,
+          "team_name": "Leeds United",
+          "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 189,
+          "team_name": "Brentford",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 5,
+            "away": 6,
+            "total": 11
+          },
+          "cards": {
+            "yellow": {
+              "home": 0,
+              "away": 4
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.26,
+            "away": 2.2,
+            "total": 3.46
+          }
+        },
+        "venue": {
+          "stadium_name": "Elland Road",
+          "stadium_location": "Elland Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 740533382,
+        "match_date": "2026-08-30 13:00:00",
+        "date_unix": 1788094800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 136,
+          "team_name": "Chelsea",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "away_team": {
+          "team_id": 180,
+          "team_name": "Brighton &amp; Hove Albion",
+          "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+        },
+        "score": {
+          "home": 4,
+          "away": 3,
+          "total_goals": 7,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 4,
+            "away": 7,
+            "total": 11
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.65,
+            "away": 1.88,
+            "total": 3.53
+          }
+        },
+        "venue": {
+          "stadium_name": "Stamford Bridge",
+          "stadium_location": "Fulham Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Chelsea won the match"
+      },
+      {
+        "match_id": 780100674,
+        "match_date": "2026-08-29 16:30:00",
+        "date_unix": 1788021000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 86,
+          "team_name": "Tottenham Hotspur",
+          "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+        },
+        "away_team": {
+          "team_id": 141,
+          "team_name": "Newcastle United",
+          "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 2,
+          "total_goals": 2,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 9,
+            "away": 7,
+            "total": 16
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.98,
+            "away": 1.09,
+            "total": 3.06
+          }
+        },
+        "venue": {
+          "stadium_name": "Tottenham Hotspur Stadium",
+          "stadium_location": "Bill Nicholson Way, 748 High Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Newcastle United won the match"
+      },
+      {
+        "match_id": 780100655,
+        "match_date": "2026-08-29 14:00:00",
+        "date_unix": 1788012000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 1,
+          "total_goals": 1,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 5,
+            "away": 2,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 4
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.22,
+            "away": 0.67,
+            "total": 1.89
+          }
+        },
+        "venue": {
+          "stadium_name": "The Coventry Building Society Arena",
+          "stadium_location": "Phoenix Way, Rowleys Green"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Hull City won the match"
+      },
+      {
+        "match_id": 780100621,
+        "match_date": "2026-08-29 14:00:00",
+        "date_unix": 1788012000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "away_team": {
+          "team_id": 128,
+          "team_name": "Everton",
+          "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 10,
+            "away": 7,
+            "total": 17
+          },
+          "cards": {
+            "yellow": {
+              "home": 3,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.74,
+            "away": 1.66,
+            "total": 3.4
+          }
+        },
+        "venue": {
+          "stadium_name": "Vitality Stadium",
+          "stadium_location": "Dean Court, Kings Park"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 740533385,
+        "match_date": "2026-08-29 11:30:00",
+        "date_unix": 1788003000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 135,
+          "team_name": "Liverpool",
+          "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+        },
+        "away_team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest",
+          "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 2,
+          "total_goals": 4,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 3,
+            "away": 5,
+            "total": 8
+          },
+          "cards": {
+            "yellow": {
+              "home": 4,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.68,
+            "away": 1.17,
+            "total": 2.86
+          }
+        },
+        "venue": {
+          "stadium_name": "Anfield",
+          "stadium_location": "Anfield Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 740533370,
+        "match_date": "2026-08-28 19:00:00",
+        "date_unix": 1787943600,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 2,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 4,
+          "total_goals": 5,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 2,
+            "away": 6,
+            "total": 8
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 0.82,
+            "away": 2.25,
+            "total": 3.07
+          }
+        },
+        "venue": {
+          "stadium_name": "Selhurst Park",
+          "stadium_location": "Holmesdale Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 780100628,
+        "match_date": "2026-08-24 19:00:00",
+        "date_unix": 1787598000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 146,
+          "team_name": "Fulham",
+          "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+        },
+        "away_team": {
+          "team_id": 136,
+          "team_name": "Chelsea",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 3,
+          "total_goals": 5,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 6,
+            "away": 4,
+            "total": 10
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.76,
+            "away": 1.85,
+            "total": 3.61
+          }
+        },
+        "venue": {
+          "stadium_name": "Craven Cottage",
+          "stadium_location": "Stevenage Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Chelsea won the match"
+      },
+      {
+        "match_id": 780100625,
+        "match_date": "2026-08-23 15:30:00",
+        "date_unix": 1787499000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 141,
+          "team_name": "Newcastle United",
+          "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 135,
+          "team_name": "Liverpool",
+          "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 2,
+          "total_goals": 4,
+          "winner": "draw"
+        },
+        "stats": {
+          "corners": {
+            "home": 2,
+            "away": 6,
+            "total": 8
+          },
+          "cards": {
+            "yellow": {
+              "home": 5,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.29,
+            "away": 2.66,
+            "total": 3.95
+          }
+        },
+        "venue": {
+          "stadium_name": "St. James&#039; Park",
+          "stadium_location": "St. James' Street"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "The match ended in a draw"
+      },
+      {
+        "match_id": 780100615,
+        "match_date": "2026-08-23 13:00:00",
+        "date_unix": 1787490000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 180,
+          "team_name": "Brighton &amp; Hove Albion",
+          "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+        },
+        "away_team": {
+          "team_id": 142,
+          "team_name": "Aston Villa",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "score": {
+          "home": 4,
+          "away": 0,
+          "total_goals": 4,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 5,
+            "away": 2,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 1
+            }
+          },
+          "xg": {
+            "home": 2.27,
+            "away": 0.55,
+            "total": 2.82
+          }
+        },
+        "venue": {
+          "stadium_name": "The American Express Community Stadium",
+          "stadium_location": "Village Way"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Brighton &amp; Hove Albion won the match"
+      },
+      {
+        "match_id": 720160207,
+        "match_date": "2026-08-23 13:00:00",
+        "date_unix": 1787490000,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 3,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 8,
+            "away": 3,
+            "total": 11
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 2
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.68,
+            "away": 0.67,
+            "total": 2.35
+          }
+        },
+        "venue": {
+          "stadium_name": "Etihad Stadium",
+          "stadium_location": "Etihad Campus Manchester M11 3FF"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Manchester City won the match"
+      },
+      {
+        "match_id": 780100643,
+        "match_date": "2026-08-22 16:30:00",
+        "date_unix": 1787416200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 189,
+          "team_name": "Brentford",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "away_team": {
+          "team_id": 86,
+          "team_name": "Tottenham Hotspur",
+          "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 0,
+          "total_goals": 3,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 7,
+            "away": 3,
+            "total": 10
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 1
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 2.56,
+            "away": 1.24,
+            "total": 3.8
+          }
+        },
+        "venue": {
+          "stadium_name": "Gtech Community Stadium",
+          "stadium_location": "166 Lionel Rd N"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Brentford won the match"
+      },
+      {
+        "match_id": 780100664,
+        "match_date": "2026-08-22 14:00:00",
+        "date_unix": 1787407200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town",
+          "team_logo": "https://footballdata.io/img/team/ipswich-town-fc.png"
+        },
+        "away_team": {
+          "team_id": 140,
+          "team_name": "Sunderland",
+          "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 3,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 3,
+            "away": 5,
+            "total": 8
+          },
+          "cards": {
+            "yellow": {
+              "home": 0,
+              "away": 3
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.1,
+            "away": 1.38,
+            "total": 2.48
+          }
+        },
+        "venue": {
+          "stadium_name": "Portman Road Stadium",
+          "stadium_location": "Portman Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Ipswich Town won the match"
+      },
+      {
+        "match_id": 780100644,
+        "match_date": "2026-08-22 14:00:00",
+        "date_unix": 1787407200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest",
+          "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+        },
+        "away_team": {
+          "team_id": 193,
+          "team_name": "Leeds United",
+          "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 1,
+          "total_goals": 1,
+          "winner": "away"
+        },
+        "stats": {
+          "corners": {
+            "home": 3,
+            "away": 2,
+            "total": 5
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 1
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.27,
+            "away": 1.15,
+            "total": 2.42
+          }
+        },
+        "venue": {
+          "stadium_name": "The City Ground",
+          "stadium_location": "Pavilion Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Leeds United won the match"
+      },
+      {
+        "match_id": 740745789,
+        "match_date": "2026-08-22 14:00:00",
+        "date_unix": 1787407200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 128,
+          "team_name": "Everton",
+          "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+        },
+        "away_team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 0,
+          "total_goals": 2,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 4,
+            "away": 0,
+            "total": 4
+          },
+          "cards": {
+            "yellow": {
+              "home": 0,
+              "away": 1
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 1.83,
+            "away": 1.33,
+            "total": 3.17
+          }
+        },
+        "venue": {
+          "stadium_name": "Hill Dickinson Stadium",
+          "stadium_location": "Bramley-Moore Dock, Vauxhall"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Everton won the match"
+      },
+      {
+        "match_id": 740533374,
+        "match_date": "2026-08-22 11:30:00",
+        "date_unix": 1787398200,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 134,
+          "team_name": "Hull City",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "away_team": {
+          "team_id": 133,
+          "team_name": "Manchester United",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 0,
+          "total_goals": 2,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 1,
+            "away": 6,
+            "total": 7
+          },
+          "cards": {
+            "yellow": {
+              "home": 2,
+              "away": 1
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 0.97,
+            "away": 2.37,
+            "total": 3.34
+          }
+        },
+        "venue": {
+          "stadium_name": "MKM Stadium",
+          "stadium_location": "Walton Street / Anlaby Road"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Hull City won the match"
+      },
+      {
+        "match_id": 740533372,
+        "match_date": "2026-08-21 19:00:00",
+        "date_unix": 1787338800,
+        "status": "complete",
+        "status_localized": "Finished",
+        "round_id": 124461,
+        "game_week": 1,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 0,
+          "total_goals": 3,
+          "winner": "home"
+        },
+        "stats": {
+          "corners": {
+            "home": 8,
+            "away": 2,
+            "total": 10
+          },
+          "cards": {
+            "yellow": {
+              "home": 1,
+              "away": 1
+            },
+            "red": {
+              "home": 0,
+              "away": 0
+            }
+          },
+          "xg": {
+            "home": 2.15,
+            "away": 0.56,
+            "total": 2.71
+          }
+        },
+        "venue": {
+          "stadium_name": "Emirates Stadium",
+          "stadium_location": "Arsenal Football Club Highbury House 75 Drayton Park London, N5 1BU"
+        },
+        "last_updated": "2026-09-06 13:55:33",
+        "winner_text": "Arsenal won the match"
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 33,
+    "requests_limit": 1000,
+    "requests_remaining": 967,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 28,
+      "total_pages": 1
+    },
+    "filters": {
+      "from": null,
+      "to": "2026-09-06",
+      "league_id": 15,
+      "season_id": 103535,
+      "team_id": null,
+      "status": null
+    },
+    "count": 28,
+    "language": "en"
+  }
+}

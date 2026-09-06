@@ -1,0 +1,910 @@
+{
+  "success": true,
+  "data": {
+    "team_id": 87,
+    "team_name": "Manchester City FC",
+    "team_name_clean": "Manchester City",
+    "seo_slug": "manchester-city-fc",
+    "full_name": "Manchester City FC",
+    "country": "England",
+    "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png",
+    "stadium": {
+      "name": "",
+      "address": ""
+    },
+    "founded": "1880",
+    "form": {
+      "ppg_home": 3,
+      "ppg_away": 0,
+      "ppg_overall": 3
+    },
+    "league_seasons": [
+      {
+        "team_league_season_id": 131814183,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027,
+          "label": "2026/2027",
+          "format": "Domestic League"
+        },
+        "standing": {
+          "table_position": 1,
+          "performance_rank": 1,
+          "risk": 100
+        }
+      },
+      {
+        "team_league_season_id": 271597252,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027,
+          "label": "2026/2027",
+          "format": "Cup"
+        },
+        "standing": {
+          "table_position": 0,
+          "performance_rank": 61,
+          "risk": 0
+        }
+      },
+      {
+        "team_league_season_id": 3500,
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League",
+          "image": "https://footballdata.io/img/league/england-premier-league.png"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026,
+          "label": "2025/2026",
+          "format": "Domestic League"
+        },
+        "standing": {
+          "table_position": 2,
+          "performance_rank": 2,
+          "risk": 86
+        }
+      },
+      {
+        "team_league_season_id": 87,
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League",
+          "image": "https://footballdata.io/img/league/europe-uefa-champions-league.png"
+        },
+        "season": {
+          "season_id": 582,
+          "year": 20252026,
+          "label": "2025/2026",
+          "format": "Cup"
+        },
+        "standing": {
+          "table_position": 7,
+          "performance_rank": 18,
+          "risk": 90
+        }
+      }
+    ],
+    "recent_matches": [
+      {
+        "match_id": 740533381,
+        "match_date": "2026-09-05 14:00:00",
+        "date_unix": 1788616800,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 209,
+          "team_name": "Coventry City",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 0,
+          "total_goals": 1
+        },
+        "xg": {
+          "home": 1.7,
+          "away": 1.19,
+          "total": 2.88
+        },
+        "probabilities": {
+          "home_win": 81.77,
+          "draw": 12.65,
+          "away_win": 5.58
+        }
+      },
+      {
+        "match_id": 740533370,
+        "match_date": "2026-08-28 19:00:00",
+        "date_unix": 1787943600,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 4,
+          "total_goals": 5
+        },
+        "xg": {
+          "home": 0.82,
+          "away": 2.25,
+          "total": 3.07
+        },
+        "probabilities": {
+          "home_win": 21.19,
+          "draw": 22.52,
+          "away_win": 56.29
+        }
+      },
+      {
+        "match_id": 720160207,
+        "match_date": "2026-08-23 13:00:00",
+        "date_unix": 1787490000,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 3
+        },
+        "xg": {
+          "home": 1.68,
+          "away": 0.67,
+          "total": 2.35
+        },
+        "probabilities": {
+          "home_win": 65.75,
+          "draw": 18.54,
+          "away_win": 15.71
+        }
+      },
+      {
+        "match_id": 193068,
+        "match_date": "2026-05-24 15:00:00",
+        "date_unix": 1779634800,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 142,
+          "team_name": "Aston Villa",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 2,
+          "total_goals": 3
+        },
+        "xg": {
+          "home": 1.82,
+          "away": 1.29,
+          "total": 3.11
+        },
+        "probabilities": {
+          "home_win": 72.1,
+          "draw": 15.5,
+          "away_win": 12.4
+        }
+      },
+      {
+        "match_id": 193185,
+        "match_date": "2026-05-19 18:30:00",
+        "date_unix": 1779215400,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 1,
+          "away": 1,
+          "total_goals": 2
+        },
+        "xg": {
+          "home": 1.01,
+          "away": 1.69,
+          "total": 2.7
+        },
+        "probabilities": {
+          "home_win": 20.04,
+          "draw": 23.55,
+          "away_win": 56.41
+        }
+      },
+      {
+        "match_id": 193094,
+        "match_date": "2026-05-13 19:00:00",
+        "date_unix": 1778698800,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 0,
+          "total_goals": 3
+        },
+        "xg": {
+          "home": 1.93,
+          "away": 0.61,
+          "total": 2.54
+        },
+        "probabilities": {
+          "home_win": 76.55,
+          "draw": 12.99,
+          "away_win": 10.46
+        }
+      },
+      {
+        "match_id": 193110,
+        "match_date": "2026-05-09 16:30:00",
+        "date_unix": 1778344200,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 189,
+          "team_name": "Brentford",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 0,
+          "total_goals": 3
+        },
+        "xg": {
+          "home": 2.87,
+          "away": 0.67,
+          "total": 3.54
+        },
+        "probabilities": {
+          "home_win": 69.02,
+          "draw": 17.48,
+          "away_win": 13.51
+        }
+      },
+      {
+        "match_id": 193054,
+        "match_date": "2026-05-04 19:00:00",
+        "date_unix": 1777921200,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 128,
+          "team_name": "Everton",
+          "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 3,
+          "away": 3,
+          "total_goals": 6
+        },
+        "xg": {
+          "home": 1.47,
+          "away": 2.23,
+          "total": 3.69
+        },
+        "probabilities": {
+          "home_win": 15.32,
+          "draw": 20.76,
+          "away_win": 63.92
+        }
+      },
+      {
+        "match_id": 193178,
+        "match_date": "2026-04-22 19:00:00",
+        "date_unix": 1776884400,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 129,
+          "team_name": "Burnley",
+          "team_logo": "https://footballdata.io/img/team/burnley-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "score": {
+          "home": 0,
+          "away": 1,
+          "total_goals": 1
+        },
+        "xg": {
+          "home": 0.8,
+          "away": 3.05,
+          "total": 3.85
+        },
+        "probabilities": {
+          "home_win": 5.95,
+          "draw": 11.21,
+          "away_win": 82.84
+        }
+      },
+      {
+        "match_id": 193043,
+        "match_date": "2026-04-19 15:30:00",
+        "date_unix": 1776612600,
+        "status": "complete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 189,
+          "year": 20252026
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "score": {
+          "home": 2,
+          "away": 1,
+          "total_goals": 3
+        },
+        "xg": {
+          "home": 1.76,
+          "away": 1.08,
+          "total": 2.83
+        },
+        "probabilities": {
+          "home_win": 52.37,
+          "draw": 26.33,
+          "away_win": 21.3
+        }
+      }
+    ],
+    "upcoming_matches": [
+      {
+        "match_id": 2815360958,
+        "match_date": "2026-09-08 19:00:00",
+        "date_unix": 1788894000,
+        "status": "incomplete",
+        "league": {
+          "league_id": 45,
+          "name": "Europe UEFA Champions League",
+          "country": "Europe",
+          "competition_name": "UEFA Champions League"
+        },
+        "season": {
+          "season_id": 90425,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 76,
+          "team_name": "Porto",
+          "team_logo": "https://footballdata.io/img/team/portugal-fc-porto.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "odds": {
+          "home": 4.2,
+          "draw": 3.9,
+          "away": 1.75
+        },
+        "probabilities": {
+          "home_win": 22.34,
+          "draw": 24.05,
+          "away_win": 53.61,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 740745811,
+        "match_date": "2026-09-12 14:00:00",
+        "date_unix": 1789221600,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 133,
+          "team_name": "Manchester United",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-united-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 45.45,
+          "draw": 14.29,
+          "away_win": 40.26,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 740745822,
+        "match_date": "2026-09-19 14:00:00",
+        "date_unix": 1789826400,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 140,
+          "team_name": "Sunderland",
+          "team_logo": "https://footballdata.io/img/team/england-sunderland-afc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 51.6,
+          "draw": 15.5,
+          "away_win": 32.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 740745804,
+        "match_date": "2026-10-10 14:00:00",
+        "date_unix": 1791640800,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 135,
+          "team_name": "Liverpool",
+          "team_logo": "https://footballdata.io/img/team/england-liverpool-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 44.3,
+          "draw": 20.2,
+          "away_win": 35.5,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 967011687,
+        "match_date": "2026-10-17 14:00:00",
+        "date_unix": 1792245600,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town",
+          "team_logo": "https://footballdata.io/img/team/england-ipswich-town-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 60.4,
+          "draw": 11.2,
+          "away_win": 28.4,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 740745818,
+        "match_date": "2026-10-24 14:00:00",
+        "date_unix": 1792850400,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 142,
+          "team_name": "Aston Villa",
+          "team_logo": "https://footballdata.io/img/team/england-aston-villa-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 39.96,
+          "draw": 14.09,
+          "away_win": 45.95,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 987289304,
+        "match_date": "2026-10-31 15:00:00",
+        "date_unix": 1793458800,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 180,
+          "team_name": "Brighton & Hove Albion",
+          "team_logo": "https://footballdata.io/img/team/england-brighton-hove-albion-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 53,
+          "draw": 14.1,
+          "away_win": 32.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 1005642741,
+        "match_date": "2026-11-07 15:00:00",
+        "date_unix": 1794063600,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest",
+          "team_logo": "https://footballdata.io/img/team/england-nottingham-forest-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 37.1,
+          "draw": 17,
+          "away_win": 45.9,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 1004778873,
+        "match_date": "2026-11-21 15:00:00",
+        "date_unix": 1795273200,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "away_team": {
+          "team_id": 146,
+          "team_name": "Fulham",
+          "team_logo": "https://footballdata.io/img/team/england-fulham-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 54.2,
+          "draw": 15.5,
+          "away_win": 30.3,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      },
+      {
+        "match_id": 740745798,
+        "match_date": "2026-11-28 15:00:00",
+        "date_unix": 1795878000,
+        "status": "incomplete",
+        "league": {
+          "league_id": 15,
+          "name": "England Premier League",
+          "country": "England",
+          "competition_name": "Premier League"
+        },
+        "season": {
+          "season_id": 103535,
+          "year": 20262027
+        },
+        "home_team": {
+          "team_id": 57,
+          "team_name": "Arsenal",
+          "team_logo": "https://footballdata.io/img/team/england-arsenal-fc.png"
+        },
+        "away_team": {
+          "team_id": 87,
+          "team_name": "Manchester City",
+          "team_logo": "https://footballdata.io/img/team/england-manchester-city-fc.png"
+        },
+        "odds": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        },
+        "probabilities": {
+          "home_win": 40.76,
+          "draw": 17.18,
+          "away_win": 42.06,
+          "over_2_5_goals": 0,
+          "both_teams_to_score": 0
+        }
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 15,
+    "requests_limit": 1000,
+    "requests_remaining": 985,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5
+  }
+}

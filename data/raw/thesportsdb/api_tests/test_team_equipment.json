@@ -1,0 +1,22 @@
+{
+  "equipment": [
+    {
+      "idEquipment": "592",
+      "idTeam": "133604",
+      "date": "2019-08-15 11:41:11",
+      "strSeason": "2019-2020",
+      "strEquipment": "https://r2.thesportsdb.com/images/media/team/equipment/2019-133604-Jersey.png",
+      "strType": "1st",
+      "strUsername": "Anonymous"
+    },
+    {
+      "idEquipment": "1130",
+      "idTeam": "133604",
+      "date": "2020-04-14 15:27:09",
+      "strSeason": "2019-2020",
+      "strEquipment": "https://r2.thesportsdb.com/images/media/team/equipment/svssgp1586874381.png",
+      "strType": "2nd",
+      "strUsername": "cydalby"
+    }
+  ]
+}

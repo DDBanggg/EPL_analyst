@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "data": {
+    "status": "ok",
+    "api": {
+      "name": "Footballdata.io API",
+      "version": "v1",
+      "environment": "production",
+      "timestamp": "2026-09-06T13:58:34+00:00",
+      "timezone": "UTC",
+      "latency_ms": 83.91
+    },
+    "services": {
+      "database": {
+        "status": "ok",
+        "connected": true
+      }
+    },
+    "coverage_counts": {
+      "leagues": 151,
+      "seasons": 2000,
+      "teams": 3970,
+      "matches": 235186,
+      "players": 46637
+    },
+    "checks": {
+      "database": true,
+      "leagues": true,
+      "seasons": true,
+      "teams": true,
+      "matches": true,
+      "players": true
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 2,
+    "requests_limit": 1000,
+    "requests_remaining": 998,
+    "coverage_note": "Coverage varies by league and season."
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "success": true,
+  "data": {
+    "team": {
+      "team_id": 87,
+      "team_name": "Manchester City FC",
+      "team_name_clean": "Manchester City",
+      "seo_slug": "manchester-city-fc",
+      "full_name": "Manchester City FC",
+      "country": "England",
+      "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+    },
+    "league": {
+      "league_id": 15,
+      "name": "England Premier League",
+      "country": "England",
+      "competition_name": "Premier League",
+      "image": "https://footballdata.io/img/league/england-premier-league.png"
+    },
+    "season": {
+      "season_id": 103535,
+      "year": 20262027,
+      "is_current": true
+    },
+    "summary": {
+      "matches_played": 3,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 7,
+      "goals_against": 2,
+      "goal_difference": 5,
+      "win_percentage": 100,
+      "draw_percentage": 0,
+      "loss_percentage": 0,
+      "points_per_game": 3
+    },
+    "home_away": {
+      "home": {
+        "matches_played": 2,
+        "wins": 2,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": null,
+        "goals_against": null,
+        "points_per_game": 3
+      },
+      "away": {
+        "matches_played": 1,
+        "wins": 1,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": null,
+        "goals_against": null,
+        "points_per_game": 3
+      }
+    },
+    "goals": {
+      "for_per_match": 2.33,
+      "against_per_match": 0.67,
+      "total_goals_per_match": 3,
+      "over_0_5_percentage": 100,
+      "over_1_5_percentage": 67,
+      "over_2_5_percentage": 67,
+      "over_3_5_percentage": 33,
+      "over_4_5_percentage": 33,
+      "over_5_5_percentage": 0,
+      "under_0_5_percentage": 0,
+      "under_1_5_percentage": 33,
+      "under_2_5_percentage": 33,
+      "under_3_5_percentage": 67,
+      "under_4_5_percentage": 67,
+      "under_5_5_percentage": 100
+    },
+    "clean_sheets": {
+      "total": 1,
+      "home": 1,
+      "away": 0,
+      "percentage": 33,
+      "home_percentage": 50,
+      "away_percentage": 0
+    },
+    "failed_to_score": {
+      "total": 0,
+      "home": 0,
+      "away": 0,
+      "percentage": 0,
+      "home_percentage": 0,
+      "away_percentage": 0
+    },
+    "both_teams_to_score": {
+      "total": 2,
+      "home": 1,
+      "away": 1,
+      "percentage": 67,
+      "home_percentage": 50,
+      "away_percentage": 100
+    },
+    "corners": {
+      "recorded_matches": 3,
+      "for_total": 18,
+      "against_total": 10,
+      "for_per_match": 6,
+      "against_per_match": 3.33,
+      "total_per_match": 9.33,
+      "over_7_5_percentage": 100,
+      "over_8_5_percentage": 67,
+      "over_9_5_percentage": 33,
+      "over_10_5_percentage": 33,
+      "over_11_5_percentage": 0
+    },
+    "cards": {
+      "for_total": 4,
+      "against_total": 5,
+      "total": 9,
+      "for_per_match": 1.33,
+      "against_per_match": 1.67,
+      "total_per_match": 3,
+      "over_1_5_percentage": 100,
+      "over_2_5_percentage": 100,
+      "over_3_5_percentage": 0,
+      "over_4_5_percentage": 0
+    },
+    "shots": {
+      "recorded_matches": 3,
+      "shots_total": 46,
+      "shots_per_match": 15.33,
+      "shots_on_target_total": 19,
+      "shots_on_target_per_match": 6.33,
+      "shot_conversion_rate": 15
+    },
+    "xg": {
+      "xg_for": 5.63,
+      "xg_against": 2.67,
+      "xg_for_per_match": 1.88,
+      "xg_against_per_match": 0.89
+    },
+    "possession": {
+      "average": 72,
+      "home_average": 72,
+      "away_average": 72
+    },
+    "fouls": {
+      "committed_total": 29,
+      "committed_per_match": 9.67,
+      "against_total": 35,
+      "against_per_match": 11.67
+    },
+    "goal_timing": {
+      "scored": {
+        "0_15": 0,
+        "16_30": 2,
+        "31_45": 0,
+        "46_60": 2,
+        "61_75": 0,
+        "76_90": 3
+      },
+      "conceded": {
+        "0_15": 0,
+        "16_30": 1,
+        "31_45": 0,
+        "46_60": 1,
+        "61_75": 0,
+        "76_90": 0
+      }
+    },
+    "form": {
+      "overall": "www",
+      "home": "ww",
+      "away": "w"
+    },
+    "set_pieces": {
+      "throw_ins": {
+        "per_match": 16,
+        "home_per_match": 14.5,
+        "away_per_match": 19,
+        "match_total_per_match": 26.67
+      },
+      "free_kicks": {
+        "per_match": 14.67,
+        "home_per_match": 16.5,
+        "away_per_match": 11,
+        "match_total_per_match": 26.67
+      },
+      "goal_kicks": {
+        "per_match": 5.33,
+        "home_per_match": 5,
+        "away_per_match": 6,
+        "match_total_per_match": 14
+      }
+    },
+    "offsides": {
+      "team_per_match": 2.33,
+      "match_total_per_match": 4.33,
+      "over_2_5_percentage": 100,
+      "over_3_5_percentage": 33,
+      "over_4_5_percentage": 33
+    },
+    "goal_timing_minutes": {
+      "scored": {
+        "min_0_10": 0,
+        "min_11_20": 1,
+        "min_21_30": 1,
+        "min_31_40": 0,
+        "min_41_50": 0,
+        "min_51_60": 2,
+        "min_61_70": 0,
+        "min_71_80": 0,
+        "min_81_90": 3
+      },
+      "conceded": {
+        "min_0_10": 0,
+        "min_11_20": 0,
+        "min_21_30": 1,
+        "min_31_40": 0,
+        "min_41_50": 0,
+        "min_51_60": 1,
+        "min_61_70": 0,
+        "min_71_80": 0,
+        "min_81_90": 0
+      }
+    },
+    "correct_score": {
+      "match_total_goals": {
+        "exactly_0": 0,
+        "exactly_1": 1,
+        "exactly_2": 0,
+        "exactly_3": 1,
+        "exactly_4": 0,
+        "exactly_5": 1,
+        "exactly_6": 0,
+        "exactly_7": 0
+      },
+      "team_goals": {
+        "exactly_0": 0,
+        "exactly_1": 1,
+        "exactly_2": 1,
+        "exactly_3": 0
+      }
+    },
+    "special_markets": {
+      "team_with_most_corners_win_percentage": 67,
+      "most_goals_in_1st_half_percentage": 33,
+      "most_goals_in_2nd_half_percentage": 67,
+      "most_corners_in_1st_half_percentage": 33,
+      "most_corners_in_2nd_half_percentage": 33,
+      "btts_and_win_percentage": 67,
+      "btts_and_draw_percentage": 0,
+      "btts_and_lose_percentage": 0,
+      "over_2_5_and_btts_percentage": 67
+    },
+    "penalties": {
+      "won": 0,
+      "scored": 0,
+      "missed": 0,
+      "conceded": 0,
+      "won_per_match": 0,
+      "match_with_penalty_percentage": 0
+    },
+    "last_updated": "2026-09-06 13:00:27"
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 18,
+    "requests_limit": 1000,
+    "requests_remaining": 982,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "filters": {
+      "team_id": 87,
+      "season_id": 103535,
+      "league_id": 15,
+      "include_raw": false
+    }
+  }
+}

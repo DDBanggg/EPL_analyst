@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "data": {
+    "team": {
+      "team_id": 87,
+      "team_name": "Manchester City FC",
+      "seo_slug": "manchester-city-fc",
+      "full_name": "Manchester City FC",
+      "country": "England",
+      "continent": null,
+      "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+    },
+    "players": []
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 16,
+    "requests_limit": 1000,
+    "requests_remaining": 984,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "pagination": {
+      "page": 1,
+      "limit": 100,
+      "total": 0,
+      "total_pages": 0
+    },
+    "filters": {
+      "team_id": 87,
+      "season_id": 103535,
+      "league_id": 15,
+      "position": null
+    }
+  }
+}

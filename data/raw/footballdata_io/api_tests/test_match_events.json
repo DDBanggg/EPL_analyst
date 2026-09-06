@@ -1,0 +1,737 @@
+{
+  "success": true,
+  "data": {
+    "match": {
+      "match_id": 740533372,
+      "match_date": "2026-08-21 19:00:00",
+      "date_unix": 1787338800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "league": {
+        "league_id": 15,
+        "name": "England Premier League",
+        "country": "England",
+        "competition_name": "Premier League",
+        "image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal",
+        "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City",
+        "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "total_goals": 3
+      },
+      "winner_text": "Arsenal won the match"
+    },
+    "events": [
+      {
+        "minute": 15,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "goal",
+        "player": {
+          "player_id": 39527,
+          "player_name": "Kai Lukas Havertz"
+        },
+        "assist": {
+          "player_id": 10001,
+          "player_name": "Riccardo Calafiori"
+        },
+        "player_in": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": "Left foot shot",
+        "raw": {
+          "player_id": 1305,
+          "time": "15",
+          "extra": null,
+          "assist_player_id": 606281,
+          "type": "Left foot shot"
+        }
+      },
+      {
+        "minute": 23,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "goal",
+        "player": {
+          "player_id": 9522,
+          "player_name": "Bukayo Ayoyinka Saka"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": "Left foot shot",
+        "raw": {
+          "player_id": 120177,
+          "time": "23",
+          "extra": null,
+          "assist_player_id": -1,
+          "type": "Left foot shot"
+        }
+      },
+      {
+        "minute": 27,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "yellow_card",
+        "player": {
+          "player_id": 7648,
+          "player_name": "Caleb Marfo Yirenkyi"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": "Yellow",
+        "raw": {
+          "event_type": "Yellow",
+          "event_time": "27",
+          "player_id": 917171
+        }
+      },
+      {
+        "minute": 34,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "yellow_card",
+        "player": {
+          "player_id": 258,
+          "player_name": "Gabriel dos Santos Magalhães"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": "Yellow",
+        "raw": {
+          "event_type": "Yellow",
+          "event_time": "34",
+          "player_id": 17594
+        }
+      },
+      {
+        "minute": 49,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "goal",
+        "player": {
+          "player_id": 8920,
+          "player_name": "Martin Ødegaard"
+        },
+        "assist": {
+          "player_id": 28043,
+          "player_name": "Benjamin William White"
+        },
+        "player_in": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": "Right foot shot",
+        "raw": {
+          "player_id": 11001,
+          "time": "49",
+          "extra": null,
+          "assist_player_id": 7285,
+          "type": "Right foot shot"
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 8141,
+          "player_name": "Piero Martín Hincapié Reyna"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 8141,
+          "player_name": "Piero Martín Hincapié Reyna"
+        },
+        "player_out": {
+          "player_id": 10001,
+          "player_name": "Riccardo Calafiori"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 590431,
+          "player_in_shirt_number": 5,
+          "player_out_id": 606281,
+          "player_out_time": "81'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 8882,
+          "player_name": "Eberechi Oluchi Eze"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 8882,
+          "player_name": "Eberechi Oluchi Eze"
+        },
+        "player_out": {
+          "player_id": 10052,
+          "player_name": "Christos Tzolis"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 7626,
+          "player_in_shirt_number": 10,
+          "player_out_id": 638409,
+          "player_out_time": "76'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 28907,
+          "player_name": "Kepa Arrizabalaga Revuelta"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 28907,
+          "player_name": "Kepa Arrizabalaga Revuelta"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 227718,
+          "player_in_shirt_number": 13,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 9094,
+          "player_name": "Viktor Gyökeres"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 9094,
+          "player_name": "Viktor Gyökeres"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 27234,
+          "player_in_shirt_number": 14,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 9978,
+          "player_name": "Chukwunonso Tristan Madueke"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 9978,
+          "player_name": "Chukwunonso Tristan Madueke"
+        },
+        "player_out": {
+          "player_id": 9522,
+          "player_name": "Bukayo Ayoyinka Saka"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 595016,
+          "player_in_shirt_number": 20,
+          "player_out_id": 120177,
+          "player_out_time": "68'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 29335,
+          "player_name": "Ethan Chidiebere Nwaneri"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 29335,
+          "player_name": "Ethan Chidiebere Nwaneri"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 734129,
+          "player_in_shirt_number": 22,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 8679,
+          "player_name": "Mikel Merino Zazón"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 8679,
+          "player_name": "Mikel Merino Zazón"
+        },
+        "player_out": {
+          "player_id": 8920,
+          "player_name": "Martin Ødegaard"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 1371,
+          "player_in_shirt_number": 23,
+          "player_out_id": 11001,
+          "player_out_time": "76'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 9546,
+          "player_name": "Martín Zubimendi Ibáñez"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 9546,
+          "player_name": "Martín Zubimendi Ibáñez"
+        },
+        "player_out": {
+          "player_id": 8828,
+          "player_name": "Declan Rice"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 129708,
+          "player_in_shirt_number": 36,
+          "player_out_id": 4337,
+          "player_out_time": "68'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "home",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 29666,
+          "player_name": "Max Dowman"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 29666,
+          "player_name": "Max Dowman"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 847198,
+          "player_in_shirt_number": 56,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30354,
+          "player_name": "Jack Rudoni"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30354,
+          "player_name": "Jack Rudoni"
+        },
+        "player_out": {
+          "player_id": 5389,
+          "player_name": "Brandon Thomas-Asante"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 591092,
+          "player_in_shirt_number": 5,
+          "player_out_id": 8874,
+          "player_out_time": "70'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30332,
+          "player_name": "Tatsuhiro Sakamoto"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30332,
+          "player_name": "Tatsuhiro Sakamoto"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 198281,
+          "player_in_shirt_number": 7,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30055,
+          "player_name": "Ben Wilson"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30055,
+          "player_name": "Ben Wilson"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 7524,
+          "player_in_shirt_number": 13,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 5433,
+          "player_name": "Taiwo Micheal Awoniyi"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 5433,
+          "player_name": "Taiwo Micheal Awoniyi"
+        },
+        "player_out": {
+          "player_id": 30215,
+          "player_name": "Ellis Simms"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 14740,
+          "player_in_shirt_number": 14,
+          "player_out_id": 119998,
+          "player_out_time": "70'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30288,
+          "player_name": "Liam Kitching"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30288,
+          "player_name": "Liam Kitching"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 143230,
+          "player_in_shirt_number": 15,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 4335,
+          "player_name": "Joel Latibeaudiere"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 4335,
+          "player_name": "Joel Latibeaudiere"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 123277,
+          "player_in_shirt_number": 22,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30358,
+          "player_name": "Josh Eccles"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30358,
+          "player_name": "Josh Eccles"
+        },
+        "player_out": {
+          "player_id": null,
+          "player_name": null
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 591119,
+          "player_in_shirt_number": 28,
+          "player_out_id": -1,
+          "player_out_time": "-1",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30203,
+          "player_name": "Victor Torp"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30203,
+          "player_name": "Victor Torp"
+        },
+        "player_out": {
+          "player_id": 7648,
+          "player_name": "Caleb Marfo Yirenkyi"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 87111,
+          "player_in_shirt_number": 29,
+          "player_out_id": 917171,
+          "player_out_time": "62'",
+          "player_in_events": []
+        }
+      },
+      {
+        "minute": null,
+        "extra_minute": null,
+        "team_side": "away",
+        "event_type": "substitution",
+        "player": {
+          "player_id": 30138,
+          "player_name": "Gustavo Hamer"
+        },
+        "assist": {
+          "player_id": null,
+          "player_name": null
+        },
+        "player_in": {
+          "player_id": 30138,
+          "player_name": "Gustavo Hamer"
+        },
+        "player_out": {
+          "player_id": 39913,
+          "player_name": "Loum Tchaouna"
+        },
+        "detail": null,
+        "raw": {
+          "player_in_id": 14796,
+          "player_in_shirt_number": 38,
+          "player_out_id": 638651,
+          "player_out_time": "82'",
+          "player_in_events": []
+        }
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 23,
+    "requests_limit": 1000,
+    "requests_remaining": 977,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "event_count": 23,
+    "language": "en"
+  }
+}

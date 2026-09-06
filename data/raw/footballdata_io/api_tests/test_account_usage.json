@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "api_key": {
+      "id": 2748,
+      "label": "Default API Key",
+      "status": "active",
+      "plan": "free",
+      "created_at": "2026-09-06 13:22:53",
+      "last_used_at": "2026-09-06 13:58:32"
+    },
+    "usage": {
+      "requests_used": 2,
+      "requests_limit": 1000,
+      "requests_remaining": 998,
+      "usage_percentage": 0.2,
+      "limit_type": "monthly"
+    },
+    "notes": {
+      "reset_policy": "Usage resets monthly based on your billing cycle.",
+      "coverage_note": "Coverage varies by league and season."
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 1,
+    "requests_limit": 1000,
+    "requests_remaining": 999,
+    "coverage_note": "Coverage varies by league and season."
+  }
+}

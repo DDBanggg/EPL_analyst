@@ -1,0 +1,146 @@
+{
+  "success": true,
+  "data": {
+    "match": {
+      "match_id": 740533372,
+      "match_date": "2026-08-21 19:00:00",
+      "date_unix": 1787338800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "league": {
+        "league_id": 15,
+        "name": "England Premier League",
+        "country": "England",
+        "competition_name": "Premier League",
+        "image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal",
+        "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City",
+        "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "total_goals": 3
+      },
+      "winner_text": "Arsenal won the match"
+    },
+    "odds": {
+      "match_winner": {
+        "home": 1.21,
+        "draw": 6.5,
+        "away": 11.5
+      },
+      "total_goals": {
+        "over_0_5": 1.02,
+        "over_1_5": 1.13,
+        "over_2_5": 1.63,
+        "over_3_5": 2.29,
+        "over_4_5": 4,
+        "under_0_5": 14,
+        "under_1_5": 5.4,
+        "under_2_5": 2.49,
+        "under_3_5": 1.53,
+        "under_4_5": 1.2
+      },
+      "both_teams_to_score": {
+        "yes": 2.19,
+        "no": 1.62
+      },
+      "double_chance": {
+        "home_or_draw": 1.02,
+        "home_or_away": 0,
+        "draw_or_away": 4.42
+      },
+      "draw_no_bet": {
+        "home": 0,
+        "away": 0
+      },
+      "corners": {
+        "over_7_5": 1.2,
+        "over_8_5": 1.44,
+        "over_9_5": 1.7,
+        "over_10_5": 2.12,
+        "over_11_5": 2.75,
+        "under_7_5": 4,
+        "under_8_5": 2.55,
+        "under_9_5": 2.05,
+        "under_10_5": 1.68,
+        "under_11_5": 1.4,
+        "match_winner": {
+          "home": 0,
+          "draw": 0,
+          "away": 0
+        }
+      },
+      "btts_first_half": {
+        "yes": 0,
+        "no": 0
+      },
+      "btts_second_half": {
+        "yes": 0,
+        "no": 0
+      },
+      "clean_sheet": {
+        "home_yes": 0,
+        "home_no": 0,
+        "away_yes": 0,
+        "away_no": 0
+      },
+      "first_half_result": {
+        "home": 0,
+        "draw": 0,
+        "away": 0
+      },
+      "first_half_goals": {
+        "over_0_5": 0,
+        "over_1_5": 0,
+        "over_2_5": 0,
+        "under_0_5": 0,
+        "under_1_5": 0,
+        "under_2_5": 0
+      },
+      "second_half_result": {
+        "home": 0,
+        "draw": 0,
+        "away": 0
+      },
+      "second_half_goals": {
+        "over_0_5": 0,
+        "over_1_5": 0,
+        "over_2_5": 0,
+        "under_0_5": 0,
+        "under_1_5": 0,
+        "under_2_5": 0
+      },
+      "team_to_score_first": {
+        "home": 0,
+        "no_goal": 0,
+        "away": 0
+      },
+      "win_to_nil": {
+        "home": 0,
+        "away": 0
+      }
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 25,
+    "requests_limit": 1000,
+    "requests_remaining": 975,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "language": "en"
+  }
+}

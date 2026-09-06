@@ -1,0 +1,164 @@
+{
+  "success": true,
+  "data": {
+    "match": {
+      "match_id": 740533372,
+      "match_date": "2026-08-21 19:00:00",
+      "date_unix": 1787338800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "league": {
+        "league_id": 15,
+        "name": "England Premier League",
+        "country": "England",
+        "competition_name": "Premier League",
+        "image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal",
+        "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City",
+        "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "total_goals": 3
+      },
+      "winner_text": "Arsenal won the match"
+    },
+    "stats": {
+      "xg": {
+        "home": 2.15,
+        "away": 0.56,
+        "total": 2.71
+      },
+      "shots": {
+        "home": 20,
+        "away": 4,
+        "total": 24
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 1,
+        "total": 7
+      },
+      "shots_off_target": {
+        "home": 14,
+        "away": 3,
+        "total": 17
+      },
+      "corners": {
+        "home": 8,
+        "away": 2,
+        "total": 10
+      },
+      "offsides": {
+        "home": 5,
+        "away": 0,
+        "total": 5
+      },
+      "cards": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "yellow_cards": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "red_cards": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "possession": {
+        "home": 65,
+        "away": 35
+      },
+      "attacks": {
+        "home": 110,
+        "away": 89,
+        "total": 199
+      },
+      "dangerous_attacks": {
+        "home": 65,
+        "away": 31,
+        "total": 96
+      },
+      "fouls": {
+        "home": 10,
+        "away": 13,
+        "total": 23
+      },
+      "throwins": {
+        "home": 11,
+        "away": 7,
+        "total": 18
+      },
+      "free_kicks": {
+        "home": 13,
+        "away": 14,
+        "total": 27
+      },
+      "goal_kicks": {
+        "home": 5,
+        "away": 6,
+        "total": 11
+      },
+      "penalties_won": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty_goals": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "penalty_missed": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "half_time_goals": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "second_half_goals": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "xg_prematch": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      }
+    },
+    "venue": {
+      "stadium": "Emirates Stadium",
+      "attendance": 60098,
+      "referee_id": null
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 24,
+    "requests_limit": 1000,
+    "requests_remaining": 976,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "language": "en"
+  }
+}

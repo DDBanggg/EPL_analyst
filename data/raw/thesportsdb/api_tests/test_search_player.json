@@ -1,0 +1,19 @@
+{
+  "player": [
+    {
+      "idPlayer": "34433685",
+      "idTeam": "133604",
+      "strPlayer": "Albert Stuivenberg",
+      "strTeam": "Arsenal",
+      "strSport": "Soccer",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/ifh45x1767708245.jpg",
+      "strCutout": "https://r2.thesportsdb.com/images/media/player/cutout/1aq3m51767708263.png",
+      "strNationality": "The Netherlands",
+      "dateBorn": "1970-08-05",
+      "strStatus": "Coaching",
+      "strGender": "Male",
+      "strPosition": "Assistant Coach",
+      "relevance": "36.214229583740234"
+    }
+  ]
+}

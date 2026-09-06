@@ -1,0 +1,516 @@
+{
+  "success": true,
+  "data": {
+    "summary": {
+      "countries": 262,
+      "leagues": 151,
+      "seasons": 2000,
+      "teams": 3970,
+      "players": 46637,
+      "matches": 235186
+    },
+    "matches": {
+      "status_counts": [
+        {
+          "status": "complete",
+          "count": 229362
+        },
+        {
+          "status": "incomplete",
+          "count": 5025
+        },
+        {
+          "status": "suspended",
+          "count": 673
+        },
+        {
+          "status": "canceled",
+          "count": 112
+        },
+        {
+          "status": "halftime",
+          "count": 7
+        },
+        {
+          "status": "live",
+          "count": 7
+        }
+      ],
+      "earliest_match_date": "2006-08-11 18:45:00",
+      "latest_match_date": "2027-02-28 00:00:00",
+      "latest_sync": "2026-09-06 13:57:02"
+    },
+    "top_countries": [
+      {
+        "country": "England",
+        "league_count": 7,
+        "season_count": 120,
+        "match_count": 22401
+      },
+      {
+        "country": "USA",
+        "league_count": 7,
+        "season_count": 69,
+        "match_count": 12475
+      },
+      {
+        "country": "Spain",
+        "league_count": 4,
+        "season_count": 67,
+        "match_count": 8793
+      },
+      {
+        "country": "Netherlands",
+        "league_count": 2,
+        "season_count": 34,
+        "match_count": 7734
+      },
+      {
+        "country": "Germany",
+        "league_count": 2,
+        "season_count": 38,
+        "match_count": 7009
+      },
+      {
+        "country": "Brazil",
+        "league_count": 3,
+        "season_count": 41,
+        "match_count": 6361
+      },
+      {
+        "country": "Italy",
+        "league_count": 1,
+        "season_count": 19,
+        "match_count": 4909
+      },
+      {
+        "country": "Mexico",
+        "league_count": 2,
+        "season_count": 23,
+        "match_count": 4358
+      },
+      {
+        "country": "Colombia",
+        "league_count": 1,
+        "season_count": 14,
+        "match_count": 4232
+      },
+      {
+        "country": "France",
+        "league_count": 2,
+        "season_count": 20,
+        "match_count": 3880
+      },
+      {
+        "country": "Portugal",
+        "league_count": 3,
+        "season_count": 41,
+        "match_count": 3857
+      },
+      {
+        "country": "Sweden",
+        "league_count": 2,
+        "season_count": 29,
+        "match_count": 3570
+      },
+      {
+        "country": "Czech Republic",
+        "league_count": 1,
+        "season_count": 18,
+        "match_count": 3448
+      },
+      {
+        "country": "Poland",
+        "league_count": 1,
+        "season_count": 18,
+        "match_count": 3302
+      },
+      {
+        "country": "Argentina",
+        "league_count": 2,
+        "season_count": 24,
+        "match_count": 3132
+      },
+      {
+        "country": "Switzerland",
+        "league_count": 2,
+        "season_count": 24,
+        "match_count": 2926
+      },
+      {
+        "country": "Scotland",
+        "league_count": 2,
+        "season_count": 27,
+        "match_count": 2825
+      },
+      {
+        "country": "Ecuador",
+        "league_count": 1,
+        "season_count": 14,
+        "match_count": 2534
+      },
+      {
+        "country": "Belgium",
+        "league_count": 1,
+        "season_count": 12,
+        "match_count": 2499
+      },
+      {
+        "country": "Australia",
+        "league_count": 1,
+        "season_count": 18,
+        "match_count": 2324
+      },
+      {
+        "country": "Norway",
+        "league_count": 1,
+        "season_count": 17,
+        "match_count": 2265
+      },
+      {
+        "country": "Northern Ireland",
+        "league_count": 1,
+        "season_count": 14,
+        "match_count": 2222
+      },
+      {
+        "country": "Belarus",
+        "league_count": 1,
+        "season_count": 15,
+        "match_count": 2186
+      },
+      {
+        "country": "Turkey",
+        "league_count": 2,
+        "season_count": 20,
+        "match_count": 2179
+      },
+      {
+        "country": "Bulgaria",
+        "league_count": 1,
+        "season_count": 14,
+        "match_count": 2142
+      }
+    ],
+    "top_leagues": [
+      {
+        "league_id": 16,
+        "name": "England Championship",
+        "country": "England",
+        "competition_name": "Championship",
+        "season_count": 19,
+        "match_count": 6057,
+        "latest_match_date": "2026-12-26 15:00:00"
+      },
+      {
+        "league_id": 3,
+        "name": "USA MLS",
+        "country": "USA",
+        "competition_name": "MLS",
+        "season_count": 17,
+        "match_count": 5862,
+        "latest_match_date": "2026-11-08 00:00:00"
+      },
+      {
+        "league_id": 15,
+        "name": "England Premier League",
+        "country": "England",
+        "competition_name": "Premier League",
+        "season_count": 20,
+        "match_count": 5389,
+        "latest_match_date": "2026-12-26 15:00:00"
+      },
+      {
+        "league_id": 22,
+        "name": "Germany Bundesliga",
+        "country": "Germany",
+        "competition_name": "Bundesliga",
+        "season_count": 21,
+        "match_count": 5192,
+        "latest_match_date": "2026-09-12 16:30:00"
+      },
+      {
+        "league_id": 10,
+        "name": "Spain La Liga",
+        "country": "Spain",
+        "competition_name": "La Liga",
+        "season_count": 19,
+        "match_count": 5016,
+        "latest_match_date": "2026-09-12 16:30:00"
+      },
+      {
+        "league_id": 14,
+        "name": "Italy Serie A",
+        "country": "Italy",
+        "competition_name": "Serie A",
+        "season_count": 19,
+        "match_count": 4909,
+        "latest_match_date": "2026-12-20 00:00:00"
+      },
+      {
+        "league_id": 109,
+        "name": "Colombia Categoria Primera A",
+        "country": "Colombia",
+        "competition_name": "Categoria Primera A",
+        "season_count": 14,
+        "match_count": 4232,
+        "latest_match_date": "2026-11-08 20:30:00"
+      },
+      {
+        "league_id": 160,
+        "name": "Netherlands Eerste Divisie",
+        "country": "Netherlands",
+        "competition_name": "Eerste Divisie",
+        "season_count": 18,
+        "match_count": 4090,
+        "latest_match_date": "2026-12-21 19:00:00"
+      },
+      {
+        "league_id": 27,
+        "name": "Mexico Liga MX",
+        "country": "Mexico",
+        "competition_name": "Liga MX",
+        "season_count": 15,
+        "match_count": 4051,
+        "latest_match_date": "2026-11-23 01:00:00"
+      },
+      {
+        "league_id": 29,
+        "name": "Brazil Serie A",
+        "country": "Brazil",
+        "competition_name": "Serie A",
+        "season_count": 14,
+        "match_count": 3994,
+        "latest_match_date": "2026-12-02 00:00:00"
+      },
+      {
+        "league_id": 1,
+        "name": "France Ligue 1",
+        "country": "France",
+        "competition_name": "Ligue 1",
+        "season_count": 19,
+        "match_count": 3865,
+        "latest_match_date": "2026-12-13 19:45:00"
+      },
+      {
+        "league_id": 17,
+        "name": "England EFL League One",
+        "country": "England",
+        "competition_name": "EFL League One",
+        "season_count": 18,
+        "match_count": 3847,
+        "latest_match_date": "2026-12-26 15:00:00"
+      },
+      {
+        "league_id": 34,
+        "name": "Netherlands Eredivisie",
+        "country": "Netherlands",
+        "competition_name": "Eredivisie",
+        "season_count": 16,
+        "match_count": 3644,
+        "latest_match_date": "2026-12-19 00:00:00"
+      },
+      {
+        "league_id": 122,
+        "name": "Czech Republic First League",
+        "country": "Czech Republic",
+        "competition_name": "Republic First League",
+        "season_count": 18,
+        "match_count": 3448,
+        "latest_match_date": "2026-12-12 14:00:00"
+      },
+      {
+        "league_id": 121,
+        "name": "Poland Ekstraklasa",
+        "country": "Poland",
+        "competition_name": "Ekstraklasa",
+        "season_count": 18,
+        "match_count": 3302,
+        "latest_match_date": "2026-12-12 00:00:00"
+      },
+      {
+        "league_id": 11,
+        "name": "Spain Segunda División",
+        "country": "Spain",
+        "competition_name": "Segunda División",
+        "season_count": 17,
+        "match_count": 3210,
+        "latest_match_date": "2026-06-20 19:30:00"
+      },
+      {
+        "league_id": 58,
+        "name": "Argentina Primera División",
+        "country": "Argentina",
+        "competition_name": "Primera División",
+        "season_count": 13,
+        "match_count": 2985,
+        "latest_match_date": "2026-11-08 00:00:00"
+      },
+      {
+        "league_id": 43,
+        "name": "Switzerland Super League",
+        "country": "Switzerland",
+        "competition_name": "Super League",
+        "season_count": 16,
+        "match_count": 2798,
+        "latest_match_date": "2026-12-19 00:00:00"
+      },
+      {
+        "league_id": 70,
+        "name": "Ecuador Primera Categoría Serie A",
+        "country": "Ecuador",
+        "competition_name": "Primera Categoría Serie A",
+        "season_count": 14,
+        "match_count": 2534,
+        "latest_match_date": "2026-09-13 00:00:00"
+      },
+      {
+        "league_id": 23,
+        "name": "Scotland Premiership",
+        "country": "Scotland",
+        "competition_name": "Premiership",
+        "season_count": 15,
+        "match_count": 2499,
+        "latest_match_date": "2026-12-26 15:00:00"
+      },
+      {
+        "league_id": 35,
+        "name": "Belgium Pro League",
+        "country": "Belgium",
+        "competition_name": "Pro League",
+        "season_count": 12,
+        "match_count": 2499,
+        "latest_match_date": "2026-12-26 00:00:00"
+      },
+      {
+        "league_id": 25,
+        "name": "Australia A-League",
+        "country": "Australia",
+        "competition_name": "A-League",
+        "season_count": 18,
+        "match_count": 2324,
+        "latest_match_date": "2026-05-23 08:10:00"
+      },
+      {
+        "league_id": 31,
+        "name": "Sweden Allsvenskan",
+        "country": "Sweden",
+        "competition_name": "Allsvenskan",
+        "season_count": 16,
+        "match_count": 2321,
+        "latest_match_date": "2026-11-29 00:00:00"
+      },
+      {
+        "league_id": 4,
+        "name": "USA USL Championship",
+        "country": "USA",
+        "competition_name": "USL Championship",
+        "season_count": 14,
+        "match_count": 2319,
+        "latest_match_date": "2026-10-25 02:00:00"
+      },
+      {
+        "league_id": 19,
+        "name": "England National League",
+        "country": "England",
+        "competition_name": "National League",
+        "season_count": 16,
+        "match_count": 2303,
+        "latest_match_date": "2026-09-12 16:30:00"
+      }
+    ],
+    "season_years": [
+      {
+        "year": 20262027,
+        "season_count": 82
+      },
+      {
+        "year": 20252026,
+        "season_count": 101
+      },
+      {
+        "year": 20242025,
+        "season_count": 98
+      },
+      {
+        "year": 20232024,
+        "season_count": 98
+      },
+      {
+        "year": 20222023,
+        "season_count": 96
+      },
+      {
+        "year": 20212022,
+        "season_count": 93
+      },
+      {
+        "year": 20202021,
+        "season_count": 89
+      },
+      {
+        "year": 20192020,
+        "season_count": 91
+      },
+      {
+        "year": 20182019,
+        "season_count": 82
+      },
+      {
+        "year": 20172018,
+        "season_count": 76
+      },
+      {
+        "year": 20162018,
+        "season_count": 4
+      },
+      {
+        "year": 20162017,
+        "season_count": 79
+      },
+      {
+        "year": 20152016,
+        "season_count": 75
+      },
+      {
+        "year": 20142015,
+        "season_count": 74
+      },
+      {
+        "year": 20132014,
+        "season_count": 66
+      },
+      {
+        "year": 20122013,
+        "season_count": 29
+      },
+      {
+        "year": 20112012,
+        "season_count": 21
+      },
+      {
+        "year": 20102011,
+        "season_count": 20
+      },
+      {
+        "year": 20092010,
+        "season_count": 17
+      },
+      {
+        "year": 20082009,
+        "season_count": 5
+      }
+    ],
+    "notes": {
+      "coverage_note": "Coverage varies by league and season.",
+      "timezone": "Match dates are returned in the stored match timezone unless otherwise specified."
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 3,
+    "requests_limit": 1000,
+    "requests_remaining": 997,
+    "coverage_note": "Coverage varies by league and season."
+  }
+}

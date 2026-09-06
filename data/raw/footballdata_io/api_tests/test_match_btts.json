@@ -1,0 +1,24 @@
+{
+  "success": false,
+  "error": {
+    "code": "paid_plan_required",
+    "message": "This endpoint requires a paid plan. Upgrade to Starter ($19/month) to access it: https://footballdata.io/dashboard/billing/",
+    "details": {
+      "current_plan": "free",
+      "allowed_plans": [
+        "starter",
+        "pro",
+        "enterprise"
+      ],
+      "upgrade_required": true,
+      "upgrade": {
+        "recommended_plan": "starter",
+        "plan_name": "Starter",
+        "price": "$19/month",
+        "leagues": 50,
+        "requests_per_month": "100,000",
+        "upgrade_url": "https://footballdata.io/dashboard/billing/"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "count": 5,
+  "filters": {
+    "limit": 5,
+    "offset": 0,
+    "permission": "TIER_ONE"
+  },
+  "teams": [
+    {
+      "id": 1,
+      "name": "1. FC Köln",
+      "shortName": "1. FC Köln",
+      "tla": "KOE",
+      "crest": "https://crests.football-data.org/1.png",
+      "address": "Franz-Kremer-Allee 1 Köln 50937",
+      "website": "http://www.fc-koeln.de",
+      "founded": 1948,
+      "clubColors": "Red / White",
+      "venue": "RheinEnergieSTADION",
+      "lastUpdated": "2022-02-25T16:49:46Z"
+    },
+    {
+      "id": 2,
+      "name": "TSG 1899 Hoffenheim",
+      "shortName": "Hoffenheim",
+      "tla": "TSG",
+      "crest": "https://crests.football-data.org/2.png",
+      "address": "Horrenberger Straße 58 Zuzenhausen 74939",
+      "website": "http://www.achtzehn99.de",
+      "founded": 1921,
+      "clubColors": "Blue / White",
+      "venue": "PreZero Arena",
+      "lastUpdated": "2022-02-25T16:49:58Z"
+    },
+    {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "tla": "B04",
+      "crest": "https://crests.football-data.org/3.png",
+      "address": "Bismarckstr. 122-124 Leverkusen 51373",
+      "website": "http://www.bayer04.de",
+      "founded": 1904,
+      "clubColors": "Red / White / Black",
+      "venue": "BayArena",
+      "lastUpdated": "2022-02-25T16:43:07Z"
+    },
+    {
+      "id": 4,
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "tla": "BVB",
+      "crest": "https://crests.football-data.org/4.png",
+      "address": "Rheinlanddamm 207-209 Dortmund 44137",
+      "website": "http://www.bvb.de",
+      "founded": 1909,
+      "clubColors": "Black / Yellow",
+      "venue": "Signal Iduna Park",
+      "lastUpdated": "2022-02-25T16:50:16Z"
+    },
+    {
+      "id": 5,
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/5.png",
+      "address": "Säbenerstr. 51 München 81547",
+      "website": "http://www.fcbayern.de",
+      "founded": 1900,
+      "clubColors": "Red / White / Blue",
+      "venue": "Allianz Arena",
+      "lastUpdated": "2024-07-09T17:26:37Z"
+    }
+  ]
+}

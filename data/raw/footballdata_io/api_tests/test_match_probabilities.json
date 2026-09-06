@@ -1,0 +1,80 @@
+{
+  "success": true,
+  "data": {
+    "match": {
+      "match_id": 740533372,
+      "match_date": "2026-08-21 19:00:00",
+      "date_unix": 1787338800,
+      "status": "complete",
+      "status_localized": "Finished",
+      "league": {
+        "league_id": 15,
+        "name": "England Premier League",
+        "country": "England",
+        "competition_name": "Premier League",
+        "image": "https://footballdata.io/img/league/england-premier-league.png"
+      },
+      "season": {
+        "season_id": 103535,
+        "year": 20262027
+      },
+      "home_team": {
+        "team_id": 57,
+        "team_name": "Arsenal",
+        "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+      },
+      "away_team": {
+        "team_id": 209,
+        "team_name": "Coventry City",
+        "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+      },
+      "score": {
+        "home": 3,
+        "away": 0,
+        "total_goals": 3
+      },
+      "winner_text": "Arsenal won the match"
+    },
+    "probabilities": {
+      "match_winner": {
+        "home_win": 77.44,
+        "draw": 14.42,
+        "away_win": 8.15
+      },
+      "total_goals": {
+        "over_0_5": 0,
+        "over_1_5": 0,
+        "over_2_5": 0,
+        "over_3_5": 0,
+        "over_4_5": 0
+      },
+      "both_teams_to_score": {
+        "yes": 0,
+        "no": 100
+      },
+      "clean_sheet": {
+        "home": null,
+        "away": null
+      },
+      "team_to_score": {
+        "home": null,
+        "away": null
+      },
+      "corners": {
+        "over_7_5": 0,
+        "over_8_5": 0,
+        "over_9_5": 0,
+        "over_10_5": 0
+      }
+    }
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 26,
+    "requests_limit": 1000,
+    "requests_remaining": 974,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "language": "en"
+  }
+}

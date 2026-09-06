@@ -1,0 +1,79 @@
+{
+  "lineup": [
+    {
+      "idLineup": "957813",
+      "idEvent": "2494000",
+      "strPosition": "Goalkeeper",
+      "strHome": "Yes",
+      "strSubstitute": "No",
+      "intSquadNumber": "1",
+      "idPlayer": "34148681",
+      "strPlayer": "David Raya",
+      "idTeam": "133604",
+      "strTeam": "Arsenal",
+      "strCutout": "https://www.thesportsdb.com/images/media/player/cutout/esy9341788606559.png",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/m4qf0r1786386458.jpg",
+      "strRender": "https://r2.thesportsdb.com/images/media/player/render/dqsy0a1696666811.png"
+    },
+    {
+      "idLineup": "957821",
+      "idEvent": "2494000",
+      "strPosition": "Attacking Midfield",
+      "strHome": "Yes",
+      "strSubstitute": "No",
+      "intSquadNumber": "8",
+      "idPlayer": "34159218",
+      "strPlayer": "Martin Ødegaard",
+      "idTeam": "133604",
+      "strTeam": "Arsenal",
+      "strCutout": "https://www.thesportsdb.com/images/media/player/cutout/0dp1xj1788606745.png",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/ttlff21727415365.jpg",
+      "strRender": "https://r2.thesportsdb.com/images/media/player/render/uq08gl1735807038.png"
+    },
+    {
+      "idLineup": "957829",
+      "idEvent": "2494000",
+      "strPosition": "Central Midfield",
+      "strHome": "No",
+      "strSubstitute": "No",
+      "intSquadNumber": "6",
+      "idPlayer": "34161361",
+      "strPlayer": "Matt Grimes",
+      "idTeam": "133625",
+      "strTeam": "Coventry City",
+      "strCutout": "https://www.thesportsdb.com/images/media/player/cutout/x6wrhd1787490325.png",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/86vlu21511705266.jpg",
+      "strRender": "https://r2.thesportsdb.com/images/media/player/render/ds3uld1698409098.png"
+    },
+    {
+      "idLineup": "957819",
+      "idEvent": "2494000",
+      "strPosition": "Central Midfield",
+      "strHome": "Yes",
+      "strSubstitute": "No",
+      "intSquadNumber": "41",
+      "idPlayer": "34161584",
+      "strPlayer": "Declan Rice",
+      "idTeam": "133604",
+      "strTeam": "Arsenal",
+      "strCutout": "https://www.thesportsdb.com/images/media/player/cutout/v1ijg61788607059.png",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/ty3z7g1705918131.jpg",
+      "strRender": "https://r2.thesportsdb.com/images/media/player/render/2hkion1735807089.png"
+    },
+    {
+      "idLineup": "957828",
+      "idEvent": "2494000",
+      "strPosition": "Left-Back",
+      "strHome": "No",
+      "strSubstitute": "No",
+      "intSquadNumber": "3",
+      "idPlayer": "34161725",
+      "strPlayer": "Jay Dasilva",
+      "idTeam": "133625",
+      "strTeam": "Coventry City",
+      "strCutout": "https://www.thesportsdb.com/images/media/player/cutout/hdv0n11787490232.png",
+      "strThumb": "https://r2.thesportsdb.com/images/media/player/thumb/ldwokt1537123423.jpg",
+      "strRender": "https://r2.thesportsdb.com/images/media/player/render/h3ewzj1699168035.png"
+    }
+  ]
+}

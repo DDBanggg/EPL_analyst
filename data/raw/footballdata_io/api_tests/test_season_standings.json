@@ -1,0 +1,1032 @@
+{
+  "success": true,
+  "data": {
+    "season": {
+      "season_id": 103535,
+      "year": 20262027,
+      "is_current": true
+    },
+    "league": {
+      "league_id": 15,
+      "name": "England Premier League",
+      "country": "England",
+      "competition_name": "Premier League",
+      "image": "https://footballdata.io/img/league/england-premier-league.png"
+    },
+    "standings": [
+      {
+        "position": 1,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 87,
+          "team_name": "Manchester City FC",
+          "team_name_clean": "",
+          "full_name": "Manchester City FC",
+          "team_logo": "https://footballdata.io/img/team/manchester-city-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 9,
+          "points_per_game": 0,
+          "goals_for": 7,
+          "goals_against": 2,
+          "goal_difference": 5
+        },
+        "wins": {
+          "total": 3,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 7,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 2,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 2,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 134,
+          "team_name": "Hull City AFC",
+          "team_name_clean": "",
+          "full_name": "Hull City AFC",
+          "team_logo": "https://footballdata.io/img/team/hull-city-afc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 7,
+          "points_per_game": 0,
+          "goals_for": 3,
+          "goals_against": 0,
+          "goal_difference": 3
+        },
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 3,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 0,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 3,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 57,
+          "team_name": "Arsenal FC",
+          "team_name_clean": "",
+          "full_name": "Arsenal FC",
+          "team_logo": "https://footballdata.io/img/team/arsenal-fc.png"
+        },
+        "summary": {
+          "matches_played": 2,
+          "points": 6,
+          "points_per_game": 0,
+          "goals_for": 4,
+          "goals_against": 0,
+          "goal_difference": 4
+        },
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 0,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 4,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 136,
+          "team_name": "Chelsea FC",
+          "team_name_clean": "",
+          "full_name": "Chelsea FC",
+          "team_logo": "https://footballdata.io/img/team/chelsea-fc.png"
+        },
+        "summary": {
+          "matches_played": 2,
+          "points": 6,
+          "points_per_game": 0,
+          "goals_for": 7,
+          "goals_against": 5,
+          "goal_difference": 2
+        },
+        "wins": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 7,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 5,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 189,
+          "team_name": "Brentford FC",
+          "team_name_clean": "",
+          "full_name": "Brentford FC",
+          "team_logo": "https://footballdata.io/img/team/brentford-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 5,
+          "points_per_game": 0,
+          "goals_for": 5,
+          "goals_against": 2,
+          "goal_difference": 3
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 2,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 6,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 135,
+          "team_name": "Liverpool FC",
+          "team_name_clean": "",
+          "full_name": "Liverpool FC",
+          "team_logo": "https://footballdata.io/img/team/liverpool-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 5,
+          "points_per_game": 0,
+          "goals_for": 6,
+          "goals_against": 4,
+          "goal_difference": 2
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 6,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 7,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 141,
+          "team_name": "Newcastle United FC",
+          "team_name_clean": "",
+          "full_name": "Newcastle United FC",
+          "team_logo": "https://footballdata.io/img/team/newcastle-united-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 5,
+          "points_per_game": 0,
+          "goals_for": 6,
+          "goals_against": 4,
+          "goal_difference": 2
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 6,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 8,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 193,
+          "team_name": "Leeds United FC",
+          "team_name_clean": "",
+          "full_name": "Leeds United FC",
+          "team_logo": "https://footballdata.io/img/team/leeds-united-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 5,
+          "points_per_game": 0,
+          "goals_for": 3,
+          "goals_against": 2,
+          "goal_difference": 1
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 3,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 2,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 9,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 180,
+          "team_name": "Brighton &amp; Hove Albion FC",
+          "team_name_clean": "",
+          "full_name": "Brighton &amp; Hove Albion FC",
+          "team_logo": "https://footballdata.io/img/team/brighton-hove-albion-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 4,
+          "points_per_game": 0,
+          "goals_for": 8,
+          "goals_against": 5,
+          "goal_difference": 3
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 8,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 10,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 128,
+          "team_name": "Everton FC",
+          "team_name_clean": "",
+          "full_name": "Everton FC",
+          "team_logo": "https://footballdata.io/img/team/everton-fc.png"
+        },
+        "summary": {
+          "matches_played": 2,
+          "points": 4,
+          "points_per_game": 0,
+          "goals_for": 3,
+          "goals_against": 1,
+          "goal_difference": 2
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 3,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 1,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 11,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 140,
+          "team_name": "Sunderland AFC",
+          "team_name_clean": "",
+          "full_name": "Sunderland AFC",
+          "team_logo": "https://footballdata.io/img/team/sunderland-afc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 4,
+          "points_per_game": 0,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goal_difference": 0
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 3,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 3,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 12,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 133,
+          "team_name": "Manchester United FC",
+          "team_name_clean": "",
+          "full_name": "Manchester United FC",
+          "team_logo": "https://footballdata.io/img/team/manchester-united-fc.png"
+        },
+        "summary": {
+          "matches_played": 2,
+          "points": 3,
+          "points_per_game": 0,
+          "goals_for": 5,
+          "goals_against": 4,
+          "goal_difference": 1
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 13,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 127,
+          "team_name": "Crystal Palace FC",
+          "team_name_clean": "",
+          "full_name": "Crystal Palace FC",
+          "team_logo": "https://footballdata.io/img/team/crystal-palace-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 3,
+          "points_per_game": 0,
+          "goals_for": 4,
+          "goals_against": 8,
+          "goal_difference": -4
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 8,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 14,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 191,
+          "team_name": "Ipswich Town FC",
+          "team_name_clean": "",
+          "full_name": "Ipswich Town FC",
+          "team_logo": "https://footballdata.io/img/team/ipswich-town-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 3,
+          "points_per_game": 0,
+          "goals_for": 4,
+          "goals_against": 8,
+          "goal_difference": -4
+        },
+        "wins": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 8,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 15,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 182,
+          "team_name": "Nottingham Forest FC",
+          "team_name_clean": "",
+          "full_name": "Nottingham Forest FC",
+          "team_logo": "https://footballdata.io/img/team/nottingham-forest-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 2,
+          "points_per_game": 0,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goal_difference": -1
+        },
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 2,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 3,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 16,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 132,
+          "team_name": "AFC Bournemouth",
+          "team_name_clean": "",
+          "full_name": "AFC Bournemouth",
+          "team_logo": "https://footballdata.io/img/team/afc-bournemouth.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 2,
+          "points_per_game": 0,
+          "goals_for": 4,
+          "goals_against": 5,
+          "goal_difference": -1
+        },
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 17,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 142,
+          "team_name": "Aston Villa FC",
+          "team_name_clean": "",
+          "full_name": "Aston Villa FC",
+          "team_logo": "https://footballdata.io/img/team/aston-villa-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 1,
+          "points_per_game": 0,
+          "goals_for": 0,
+          "goals_against": 5,
+          "goal_difference": -5
+        },
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 0,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 18,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 86,
+          "team_name": "Tottenham Hotspur FC",
+          "team_name_clean": "",
+          "full_name": "Tottenham Hotspur FC",
+          "team_logo": "https://footballdata.io/img/team/tottenham-hotspur-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 1,
+          "points_per_game": 0,
+          "goals_for": 0,
+          "goals_against": 5,
+          "goal_difference": -5
+        },
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 1,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 2,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 0,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 19,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 146,
+          "team_name": "Fulham FC",
+          "team_name_clean": "",
+          "full_name": "Fulham FC",
+          "team_logo": "https://footballdata.io/img/team/fulham-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 0,
+          "points_per_game": 0,
+          "goals_for": 4,
+          "goals_against": 7,
+          "goal_difference": -3
+        },
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 4,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 7,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      },
+      {
+        "position": 20,
+        "zone": {
+          "name": null,
+          "number": 0
+        },
+        "team": {
+          "team_id": 209,
+          "team_name": "Coventry City FC",
+          "team_name_clean": "",
+          "full_name": "Coventry City FC",
+          "team_logo": "https://footballdata.io/img/team/coventry-city-fc.png"
+        },
+        "summary": {
+          "matches_played": 3,
+          "points": 0,
+          "points_per_game": 0,
+          "goals_for": 0,
+          "goals_against": 5,
+          "goal_difference": -5
+        },
+        "wins": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "draws": {
+          "total": 0,
+          "home": 0,
+          "away": 0
+        },
+        "losses": {
+          "total": 3,
+          "home": 0,
+          "away": 0
+        },
+        "goals": {
+          "for": {
+            "total": 0,
+            "home": 0,
+            "away": 0
+          },
+          "against": {
+            "total": 5,
+            "home": 0,
+            "away": 0
+          }
+        },
+        "corrections": 0
+      }
+    ]
+  },
+  "meta": {
+    "plan": "free",
+    "requests_used": 13,
+    "requests_limit": 1000,
+    "requests_remaining": 987,
+    "coverage_note": "Coverage varies by league and season.",
+    "league_limit": 5,
+    "filters": {
+      "season_id": 103535,
+      "team_id": null
+    },
+    "count": 20
+  }
+}
