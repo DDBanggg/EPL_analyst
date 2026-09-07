@@ -1,0 +1,26 @@
+{
+  "get": "team-logos",
+  "results": 20,
+  "response": {
+    "33": "https://cdn.kickoffapi.com/images/logos/33.png",
+    "34": "https://cdn.kickoffapi.com/images/logos/34.png",
+    "35": "https://cdn.kickoffapi.com/images/logos/35.png",
+    "36": "https://cdn.kickoffapi.com/images/logos/36.png",
+    "40": "https://cdn.kickoffapi.com/images/logos/40.png",
+    "42": "https://cdn.kickoffapi.com/images/logos/42.png",
+    "45": "https://cdn.kickoffapi.com/images/logos/45.png",
+    "47": "https://cdn.kickoffapi.com/images/logos/47.png",
+    "49": "https://cdn.kickoffapi.com/images/logos/49.png",
+    "50": "https://cdn.kickoffapi.com/images/logos/50.png",
+    "51": "https://cdn.kickoffapi.com/images/logos/51.png",
+    "52": "https://cdn.kickoffapi.com/images/logos/52.png",
+    "55": "https://cdn.kickoffapi.com/images/logos/55.png",
+    "57": "https://cdn.kickoffapi.com/images/logos/57.png",
+    "63": "https://cdn.kickoffapi.com/images/logos/63.png",
+    "64": "https://cdn.kickoffapi.com/images/logos/64.png",
+    "65": "https://cdn.kickoffapi.com/images/logos/65.png",
+    "66": "https://cdn.kickoffapi.com/images/logos/66.png",
+    "746": "https://cdn.kickoffapi.com/images/logos/746.png",
+    "1346": "https://cdn.kickoffapi.com/images/logos/1346.png"
+  }
+}

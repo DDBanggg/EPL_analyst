@@ -1,0 +1,296 @@
+{
+  "data": {
+    "home": [
+      {
+        "player_id": "d4aa2f44-a35b-4867-8a4e-ec06a4ecdd64",
+        "name": "D. Raya",
+        "position": "G",
+        "jersey_number": 1,
+        "starter": true
+      },
+      {
+        "player_id": "1dc9ad51-523f-4c57-9e51-056d6b4ecd43",
+        "name": "C. Mosquera",
+        "position": "D",
+        "jersey_number": 3,
+        "starter": true
+      },
+      {
+        "player_id": "f97c93a4-eada-4666-b034-81676522c40c",
+        "name": "B. White",
+        "position": "D",
+        "jersey_number": 4,
+        "starter": true
+      },
+      {
+        "player_id": "bf22363d-7bda-4366-97ed-61572b3334e6",
+        "name": "Gabriel",
+        "position": "D",
+        "jersey_number": 6,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "B. Saka",
+        "position": "M",
+        "jersey_number": 7,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "M. Odegaard",
+        "position": "M",
+        "jersey_number": 8,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "C. Tzolis",
+        "position": "M",
+        "jersey_number": 17,
+        "starter": true
+      },
+      {
+        "player_id": "6cd3b2e7-230e-48de-bf88-1e8f88fed5a2",
+        "name": "K. Havertz",
+        "position": "F",
+        "jersey_number": 29,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "R. Calafiori",
+        "position": "D",
+        "jersey_number": 33,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "D. Rice",
+        "position": "M",
+        "jersey_number": 41,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "M. Lewis-Skelly",
+        "position": "M",
+        "jersey_number": 49,
+        "starter": true
+      },
+      {
+        "player_id": "c36e601b-59bc-4239-9e9a-b5be6592690a",
+        "name": "P. Hincapie",
+        "position": "D",
+        "jersey_number": 5,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "E. Eze",
+        "position": "M",
+        "jersey_number": 10,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "K. Arrizabalaga",
+        "position": "G",
+        "jersey_number": 13,
+        "starter": false
+      },
+      {
+        "player_id": "c047e601-b8b9-4033-9af5-3d1fd52d3e72",
+        "name": "V. Gyökeres",
+        "position": "F",
+        "jersey_number": 14,
+        "starter": false
+      },
+      {
+        "player_id": "ba6c92d9-8787-4439-8ab1-e607e117dfc8",
+        "name": "N. Madueke",
+        "position": "F",
+        "jersey_number": 20,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "E. Nwaneri",
+        "position": "M",
+        "jersey_number": 22,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "M. Merino",
+        "position": "M",
+        "jersey_number": 23,
+        "starter": false
+      },
+      {
+        "player_id": "5f98e632-1436-4c8e-ab52-5ccb06163d4a",
+        "name": "M. Zubimendi",
+        "position": "M",
+        "jersey_number": 36,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "M. Dowman",
+        "position": "M",
+        "jersey_number": 56,
+        "starter": false
+      }
+    ],
+    "away": [
+      {
+        "player_id": null,
+        "name": "J. Dasilva",
+        "position": "D",
+        "jersey_number": 3,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "B. Thomas",
+        "position": "D",
+        "jersey_number": 4,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "M. Grimes",
+        "position": "M",
+        "jersey_number": 6,
+        "starter": true
+      },
+      {
+        "player_id": "d55bf239-6322-47a1-8ab6-08466005daed",
+        "name": "C. Yirenkyi",
+        "position": "M",
+        "jersey_number": 8,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "E. Simms",
+        "position": "F",
+        "jersey_number": 9,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "F. Onyeka",
+        "position": "M",
+        "jersey_number": 16,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "L. Tchaouna",
+        "position": "M",
+        "jersey_number": 18,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "C. Rushworth",
+        "position": "G",
+        "jersey_number": 19,
+        "starter": true
+      },
+      {
+        "player_id": "74fe80da-36ee-40f6-aec9-8d60ae4692d6",
+        "name": "B. Thomas-Asante",
+        "position": "M",
+        "jersey_number": 23,
+        "starter": true
+      },
+      {
+        "player_id": "f48d7eb2-9376-422f-af08-acfb4a0c5dc6",
+        "name": "A. Amenda",
+        "position": "D",
+        "jersey_number": 24,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "M. van Ewijk",
+        "position": "D",
+        "jersey_number": 27,
+        "starter": true
+      },
+      {
+        "player_id": null,
+        "name": "J. Rudoni",
+        "position": "M",
+        "jersey_number": 5,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "T. Sakamoto",
+        "position": "M",
+        "jersey_number": 7,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "B. Wilson",
+        "position": "G",
+        "jersey_number": 13,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "T. Awoniyi",
+        "position": "F",
+        "jersey_number": 14,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "L. Kitching",
+        "position": "D",
+        "jersey_number": 15,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "J. Latibeaudiere",
+        "position": "D",
+        "jersey_number": 22,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "J. Eccles",
+        "position": "M",
+        "jersey_number": 28,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "V. Torp",
+        "position": "M",
+        "jersey_number": 29,
+        "starter": false
+      },
+      {
+        "player_id": null,
+        "name": "G. Hamer",
+        "position": "M",
+        "jersey_number": 38,
+        "starter": false
+      }
+    ]
+  },
+  "meta": {
+    "available": true,
+    "lineup_shape": "players",
+    "formation": {
+      "home": "4-2-3-1",
+      "away": "4-1-4-1"
+    }
+  }
+}

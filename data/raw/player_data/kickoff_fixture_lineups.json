@@ -1,0 +1,414 @@
+{
+  "get": "lineups",
+  "results": 2,
+  "response": [
+    {
+      "id": 621637,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "coachId": 7248,
+      "formation": "4-2-3-1",
+      "startXI": [
+        {
+          "player": {
+            "id": 19465,
+            "pos": "G",
+            "grid": "1:1",
+            "name": "D. Raya",
+            "number": 1
+          }
+        },
+        {
+          "player": {
+            "id": 19959,
+            "pos": "D",
+            "grid": "2:4",
+            "name": "B. White",
+            "number": 4
+          }
+        },
+        {
+          "player": {
+            "id": 333682,
+            "pos": "D",
+            "grid": "2:3",
+            "name": "C. Mosquera",
+            "number": 3
+          }
+        },
+        {
+          "player": {
+            "id": 22224,
+            "pos": "D",
+            "grid": "2:2",
+            "name": "Gabriel",
+            "number": 6
+          }
+        },
+        {
+          "player": {
+            "id": 157052,
+            "pos": "D",
+            "grid": "2:1",
+            "name": "R. Calafiori",
+            "number": 33
+          }
+        },
+        {
+          "player": {
+            "id": 313245,
+            "pos": "M",
+            "grid": "3:2",
+            "name": "M. Lewis-Skelly",
+            "number": 49
+          }
+        },
+        {
+          "player": {
+            "id": 2937,
+            "pos": "M",
+            "grid": "3:1",
+            "name": "D. Rice",
+            "number": 41
+          }
+        },
+        {
+          "player": {
+            "id": 1460,
+            "pos": "M",
+            "grid": "4:3",
+            "name": "B. Saka",
+            "number": 7
+          }
+        },
+        {
+          "player": {
+            "id": 37127,
+            "pos": "M",
+            "grid": "4:2",
+            "name": "M. Odegaard",
+            "number": 8
+          }
+        },
+        {
+          "player": {
+            "id": 161800,
+            "pos": "M",
+            "grid": "4:1",
+            "name": "C. Tzolis",
+            "number": 17
+          }
+        },
+        {
+          "player": {
+            "id": 978,
+            "pos": "F",
+            "grid": "5:1",
+            "name": "K. Havertz",
+            "number": 29
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 2273,
+            "pos": "G",
+            "grid": null,
+            "name": "K. Arrizabalaga",
+            "number": 13
+          }
+        },
+        {
+          "player": {
+            "id": 127817,
+            "pos": "D",
+            "grid": null,
+            "name": "P. Hincapie",
+            "number": 5
+          }
+        },
+        {
+          "player": {
+            "id": 47315,
+            "pos": "M",
+            "grid": null,
+            "name": "M. Zubimendi",
+            "number": 36
+          }
+        },
+        {
+          "player": {
+            "id": 313236,
+            "pos": "M",
+            "grid": null,
+            "name": "E. Nwaneri",
+            "number": 22
+          }
+        },
+        {
+          "player": {
+            "id": 442044,
+            "pos": "M",
+            "grid": null,
+            "name": "M. Dowman",
+            "number": 56
+          }
+        },
+        {
+          "player": {
+            "id": 47311,
+            "pos": "M",
+            "grid": null,
+            "name": "M. Merino",
+            "number": 23
+          }
+        },
+        {
+          "player": {
+            "id": 19586,
+            "pos": "M",
+            "grid": null,
+            "name": "E. Eze",
+            "number": 10
+          }
+        },
+        {
+          "player": {
+            "id": 18979,
+            "pos": "F",
+            "grid": null,
+            "name": "V. Gyökeres",
+            "number": 14
+          }
+        },
+        {
+          "player": {
+            "id": 136723,
+            "pos": "F",
+            "grid": null,
+            "name": "N. Madueke",
+            "number": 20
+          }
+        }
+      ],
+      "source": "api-football",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 621638,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "coachId": 20,
+      "formation": "4-1-4-1",
+      "startXI": [
+        {
+          "player": {
+            "id": 278088,
+            "pos": "G",
+            "grid": "1:1",
+            "name": "C. Rushworth",
+            "number": 19
+          }
+        },
+        {
+          "player": {
+            "id": 37961,
+            "pos": "D",
+            "grid": "2:4",
+            "name": "M. van Ewijk",
+            "number": 27
+          }
+        },
+        {
+          "player": {
+            "id": 264437,
+            "pos": "D",
+            "grid": "2:3",
+            "name": "B. Thomas",
+            "number": 4
+          }
+        },
+        {
+          "player": {
+            "id": 162414,
+            "pos": "D",
+            "grid": "2:2",
+            "name": "A. Amenda",
+            "number": 24
+          }
+        },
+        {
+          "player": {
+            "id": 19260,
+            "pos": "D",
+            "grid": "2:1",
+            "name": "J. Dasilva",
+            "number": 3
+          }
+        },
+        {
+          "player": {
+            "id": 19328,
+            "pos": "M",
+            "grid": "3:1",
+            "name": "M. Grimes",
+            "number": 6
+          }
+        },
+        {
+          "player": {
+            "id": 161621,
+            "pos": "M",
+            "grid": "4:4",
+            "name": "L. Tchaouna",
+            "number": 18
+          }
+        },
+        {
+          "player": {
+            "id": 475575,
+            "pos": "M",
+            "grid": "4:3",
+            "name": "C. Yirenkyi",
+            "number": 8
+          }
+        },
+        {
+          "player": {
+            "id": 15799,
+            "pos": "M",
+            "grid": "4:2",
+            "name": "F. Onyeka",
+            "number": 16
+          }
+        },
+        {
+          "player": {
+            "id": 82090,
+            "pos": "M",
+            "grid": "4:1",
+            "name": "B. Thomas-Asante",
+            "number": 23
+          }
+        },
+        {
+          "player": {
+            "id": 138786,
+            "pos": "F",
+            "grid": "5:1",
+            "name": "E. Simms",
+            "number": 9
+          }
+        }
+      ],
+      "substitutes": [
+        {
+          "player": {
+            "id": 20484,
+            "pos": "G",
+            "grid": null,
+            "name": "B. Wilson",
+            "number": 13
+          }
+        },
+        {
+          "player": {
+            "id": 18202,
+            "pos": "D",
+            "grid": null,
+            "name": "L. Kitching",
+            "number": 15
+          }
+        },
+        {
+          "player": {
+            "id": 16046,
+            "pos": "M",
+            "grid": null,
+            "name": "V. Torp",
+            "number": 29
+          }
+        },
+        {
+          "player": {
+            "id": 145538,
+            "pos": "D",
+            "grid": null,
+            "name": "J. Latibeaudiere",
+            "number": 22
+          }
+        },
+        {
+          "player": {
+            "id": 33462,
+            "pos": "M",
+            "grid": null,
+            "name": "T. Sakamoto",
+            "number": 7
+          }
+        },
+        {
+          "player": {
+            "id": 36929,
+            "pos": "M",
+            "grid": null,
+            "name": "G. Hamer",
+            "number": 38
+          }
+        },
+        {
+          "player": {
+            "id": 19984,
+            "pos": "M",
+            "grid": null,
+            "name": "J. Eccles",
+            "number": 28
+          }
+        },
+        {
+          "player": {
+            "id": 20372,
+            "pos": "M",
+            "grid": null,
+            "name": "J. Rudoni",
+            "number": 5
+          }
+        },
+        {
+          "player": {
+            "id": 8598,
+            "pos": "F",
+            "grid": null,
+            "name": "T. Awoniyi",
+            "number": 14
+          }
+        }
+      ],
+      "source": "api-football",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    }
+  ]
+}

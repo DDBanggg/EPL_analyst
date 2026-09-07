@@ -1,0 +1,1709 @@
+{
+  "data": [
+    {
+      "id": "482e981f-fe0f-45c9-ba88-49cf43631de1",
+      "name": "A. Adli",
+      "position": "Midfielder",
+      "nationality": "Morocco",
+      "jersey_number": "21",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/129682.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "7ae522cc-65c6-4773-aa82-86327999a163",
+      "name": "A. Ahmedhodžić",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "15",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/1949.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "eefffbf1-05b4-4ac7-b314-e421b665da2f",
+      "name": "A. Alese",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "34",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/141133.png",
+      "team": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "f48d7eb2-9376-422f-af08-acfb4a0c5dc6",
+      "name": "A. Amenda",
+      "position": "Defender",
+      "nationality": "Switzerland",
+      "jersey_number": "18",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/162414.png",
+      "team": {
+        "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "name": "Coventry City",
+        "logo_url": "https://crests.football-data.org/1076.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "760ca435-8fb6-49e7-823d-1f26de0df5cd",
+      "name": "A. Areola",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "23",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/253.png",
+      "team": {
+        "id": "b9d28b6f-1a20-4b1f-bd2b-97c84078c614",
+        "name": "West Ham United",
+        "logo_url": "https://crests.football-data.org/563.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "57a68cc4-adca-4b1f-8e3c-87d767ae1589",
+      "name": "A. Bamba",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "8",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/453792.png",
+      "team": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "6b540e0b-828d-41de-b42c-6e61ff434b3a",
+      "name": "A. Browne",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "8",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/19446.png",
+      "team": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "19f85503-d297-4297-919a-478c0a78676d",
+      "name": "A. Cairns",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "21",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/20068.png",
+      "team": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "logo_url": "https://crests.football-data.org/341.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "ca41f8cc-6585-409a-9274-35a7e0a19de4",
+      "name": "A. Cozier-Duberry",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "22",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/309501.png",
+      "team": {
+        "id": "f915ab29-4383-47dc-9a9d-c9a6969d5c6a",
+        "name": "Brighton & Hove Albion",
+        "logo_url": "https://crests.football-data.org/397.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "4d2621ad-f722-4700-9cf4-a5d5ad27da85",
+      "name": "A. Cresswell",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "50",
+      "height": null,
+      "weight": null,
+      "headshot_url": null,
+      "team": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "logo_url": "https://crests.football-data.org/341.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "b55fb123-8fbc-417e-860b-93e8eb56a59e",
+      "name": "A. Dedić",
+      "position": "Defender",
+      "nationality": "Bosnia and Herzegovina",
+      "jersey_number": "7",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/7318.png",
+      "team": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "2c4e3f10-662f-44f2-a10a-9f7899b4afba",
+      "name": "A. Diallo",
+      "position": "Attacker",
+      "nationality": "Ivory Coast",
+      "jersey_number": "15",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/157997.png",
+      "team": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "7954d759-275a-4b97-9aaf-5d923a0b76c6",
+      "name": "A. Elanga",
+      "position": "Attacker",
+      "nationality": "Sweden",
+      "jersey_number": "11",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/153430.png",
+      "team": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "63bb9c4a-6972-4f60-834c-37fffc2912ed",
+      "name": "A. Engels",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "7",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/162210.png",
+      "team": {
+        "id": "b9d28b6f-1a20-4b1f-bd2b-97c84078c614",
+        "name": "West Ham United",
+        "logo_url": "https://crests.football-data.org/563.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "d9d0efbe-b168-45e2-add5-2bff7aeec71f",
+      "name": "A. Fatawu",
+      "position": "Attacker",
+      "nationality": "Ghana",
+      "jersey_number": "7",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/303467.png",
+      "team": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "logo_url": "https://crests.football-data.org/349.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "c1212c4c-870e-4fad-ba5c-dc08a2cc0bc9",
+      "name": "A. Golambeckis",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "58",
+      "height": null,
+      "weight": null,
+      "headshot_url": null,
+      "team": {
+        "id": "b9d28b6f-1a20-4b1f-bd2b-97c84078c614",
+        "name": "West Ham United",
+        "logo_url": "https://crests.football-data.org/563.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "44d9d711-8382-4cb0-b935-adc8b26753dc",
+      "name": "A. Gray",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "14",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/328089.png",
+      "team": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "adbaeba3-be0b-4bba-8990-9726743c540d",
+      "name": "A. Heaven",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "26",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/402329.png",
+      "team": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "1edf6f6d-78f3-46d8-8e4a-e1ed57025b41",
+      "name": "A. Kalimuendo",
+      "position": "Attacker",
+      "nationality": null,
+      "jersey_number": "15",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/147831.png",
+      "team": {
+        "id": "417992e3-3af2-4dd4-a25a-ffb70ddd991b",
+        "name": "Nottingham Forest",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "284941f6-d3fe-4277-8285-76b5a545890e",
+      "name": "A. Khusanov",
+      "position": "Defender",
+      "nationality": "Uzbekistan",
+      "jersey_number": "2",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/360114.png",
+      "team": {
+        "id": "c12cf38c-1e19-4095-b367-c4ef2a184bb4",
+        "name": "Manchester City",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "c02128e3-d518-4568-aa80-45a0b64f48eb",
+      "name": "A. Kinský",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "31",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/265826.png",
+      "team": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "f85940ae-73f4-4e07-81e3-f9ac6ceb7541",
+      "name": "A. Lightfoot",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "59",
+      "height": null,
+      "weight": null,
+      "headshot_url": null,
+      "team": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "55eb7270-461a-40a8-93f9-83998a7bae74",
+      "name": "A. Mac Allister",
+      "position": "Midfielder",
+      "nationality": "Argentina",
+      "jersey_number": "20",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/6716.png",
+      "team": {
+        "id": "74a9c474-32e5-4b48-b9c0-b67122a1617a",
+        "name": "Liverpool",
+        "logo_url": "https://crests.football-data.org/64.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "909a98c9-f805-41fc-af64-219542e5ce00",
+      "name": "A. Onana",
+      "position": "Midfielder",
+      "nationality": "Belgium",
+      "jersey_number": "18",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/162714.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "771770f5-685a-484e-8801-daba2a919065",
+      "name": "A. Robertson",
+      "position": "Defender",
+      "nationality": "Scotland",
+      "jersey_number": "3",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/289.png",
+      "team": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "41200d07-64cb-4d06-8eaa-d3671d02d625",
+      "name": "A. Robinson",
+      "position": "Defender",
+      "nationality": "United States",
+      "jersey_number": "5",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/19549.png",
+      "team": {
+        "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+        "name": "Fulham",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "59a3fa6e-0b93-411c-aaaa-7065e126f83b",
+      "name": "A. Semenyo",
+      "position": "Attacker",
+      "nationality": "Ghana",
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/19281.png",
+      "team": {
+        "id": "c12cf38c-1e19-4095-b367-c4ef2a184bb4",
+        "name": "Manchester City",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "ba0caab0-8138-4262-a3c4-19fdfb73842a",
+      "name": "A. Stach",
+      "position": "Midfielder",
+      "nationality": "Germany",
+      "jersey_number": "23",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/177665.png",
+      "team": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "logo_url": "https://crests.football-data.org/341.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "ecd43cc2-c2bb-4da3-af45-a0db80e5307d",
+      "name": "A. Stokes",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "21",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/363998.png",
+      "team": {
+        "id": "f1dad0f2-fa00-4787-ab2a-4f17699d8aa8",
+        "name": "Brentford",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "fe1c52d2-3e11-4002-b64b-679de0e13449",
+      "name": "A. Tanaka",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "22",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/32966.png",
+      "team": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "logo_url": "https://crests.football-data.org/341.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "e9bc8b47-8322-4022-9915-c370ed0b4b74",
+      "name": "A. Tuanzebe",
+      "position": "Defender",
+      "nationality": "DR Congo",
+      "jersey_number": "4",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/19182.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "9a6de6df-bee0-41b7-9cf1-76037b9a7f1b",
+      "name": "A. Wan-Bissaka",
+      "position": "Defender",
+      "nationality": "DR Congo",
+      "jersey_number": "2",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/18846.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "70b84c74-215a-4d62-9a85-5de7c9d54069",
+      "name": "A. Wharton",
+      "position": "Midfielder",
+      "nationality": "England",
+      "jersey_number": "16",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/288102.png",
+      "team": {
+        "id": "75b48108-aa4a-4b0f-95ee-70fbf8f2fc29",
+        "name": "Crystal Palace",
+        "logo_url": "https://crests.football-data.org/354.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "73fe798e-a577-4400-a0a5-08295d487a4a",
+      "name": "A. Whitehall",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "8",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/353968.png",
+      "team": {
+        "id": "417992e3-3af2-4dd4-a25a-ffb70ddd991b",
+        "name": "Nottingham Forest",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "204620a4-b1ef-4464-ac11-1795d3368c1a",
+      "name": "Aaron Anselmino",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p622758.png",
+      "team": {
+        "id": "544de6be-906a-40c9-8d32-17ed7239348f",
+        "name": "Chelsea",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "15648c00-a459-4b73-b7aa-1aebab9abb2f",
+      "name": "Aaron Bott",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "1",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/329358.png",
+      "team": {
+        "id": "417992e3-3af2-4dd4-a25a-ffb70ddd991b",
+        "name": "Nottingham Forest",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "d2284a26-2029-42d4-92e9-19e6a6bdb206",
+      "name": "Aaron Hickey",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p472713.png",
+      "team": {
+        "id": "f1dad0f2-fa00-4787-ab2a-4f17699d8aa8",
+        "name": "Brentford",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "bdcc1590-36e1-4398-a230-fcefa5eef38c",
+      "name": "Aaron Ramsey",
+      "position": "Attacking Midfield",
+      "nationality": "England",
+      "jersey_number": "21",
+      "height": "1.80 m (5 ft 11 in)",
+      "weight": "",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/vbayw51761861772.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "00033e74-9525-4b5c-856a-b2d885d24994",
+      "name": "Abdoul Ouattara",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p572584.png",
+      "team": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "logo_url": "https://crests.football-data.org/349.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "ce6885d4-0f81-47ef-ae5c-f2442970ce50",
+      "name": "Abdülkadir Ömür",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p208481.png",
+      "team": {
+        "id": "fd1a7234-c96d-4628-a0e6-71c44b29d838",
+        "name": "Hull City",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "14d76144-afa3-41ab-9531-6d9b332f7d5c",
+      "name": "Adam Armstrong",
+      "position": "Centre-Forward",
+      "nationality": "England",
+      "jersey_number": "9",
+      "height": "173 cm",
+      "weight": "150 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/razcf11770477190.png",
+      "team": {
+        "id": "3161f38d-55d2-4dc3-80dc-82b665528c94",
+        "name": "Wolverhampton Wanderers",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "907038bb-ecf3-4da5-9ec2-c802f50cbc51",
+      "name": "Adam Aznou Ben Cheikh",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "39",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/431921.png",
+      "team": {
+        "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+        "name": "Everton",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "7e5a185d-4d2a-4043-97c5-ccf39bc689a5",
+      "name": "Adam Smith",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p54469.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "bd60b018-265f-4391-8355-65468e4f3ca9",
+      "name": "Adrien Truffert",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p494521.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "bebf0bb8-d27c-4ddd-89c6-90bf48a876eb",
+      "name": "Aidan Borland",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "8",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/434180.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "f62661f6-717e-43ea-9bd8-32f2268c2200",
+      "name": "Aidan Harris",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "1",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/365988.png",
+      "team": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "44245870-4637-4817-8826-f300a0a39b6f",
+      "name": "Alejandro Garnacho",
+      "position": "Left Wing",
+      "nationality": "Argentina",
+      "jersey_number": "17",
+      "height": "1.80 m (5 ft 11 in)",
+      "weight": "73 kg (161 lb)",
+      "headshot_url": "https://www.thesportsdb.com/images/media/player/cutout/diaokn1788605013.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "09fd473d-0276-41b6-8373-0d55e7fb27af",
+      "name": "Alex Iwobi",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153133.png",
+      "team": {
+        "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+        "name": "Fulham",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "abb86152-56d1-4d7b-863e-0c3422db065e",
+      "name": "Alex Palmer",
+      "position": "GK",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p112520.png",
+      "team": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "logo_url": "https://crests.football-data.org/349.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "fedb459e-4d78-4fa6-8960-2eb33b72cba0",
+      "name": "Alex Scott",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p503139.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "5ce71217-f3d4-4ce3-831a-e1ec271a8f8c",
+      "name": "Alex Tóth",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p614574.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "119d2420-fae3-4efc-b45f-b2b56f1210e8",
+      "name": "Alexander Isak",
+      "position": "FWD",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219168.png",
+      "team": {
+        "id": "74a9c474-32e5-4b48-b9c0-b67122a1617a",
+        "name": "Liverpool",
+        "logo_url": "https://crests.football-data.org/64.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "032a4df9-e682-42a8-9e9d-b0f7a9f18a07",
+      "name": "Alisson Becker",
+      "position": "Goalkeeper",
+      "nationality": "Brazil",
+      "jersey_number": "1",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/280.png",
+      "team": {
+        "id": "74a9c474-32e5-4b48-b9c0-b67122a1617a",
+        "name": "Liverpool",
+        "logo_url": "https://crests.football-data.org/64.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "64287413-0d42-4470-8f43-e182d5daab91",
+      "name": "Álvaro Rodríguez",
+      "position": "FWD",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p561245.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "cb96659e-6088-4895-8663-3a8459fed1da",
+      "name": "Alysson",
+      "position": "Attacker",
+      "nationality": "Brazil",
+      "jersey_number": "47",
+      "height": "1.82 m (6 ft 0 in)",
+      "weight": "77 kg",
+      "headshot_url": "https://www.thesportsdb.com/images/media/player/cutout/ow9mlh1788605192.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "199fbe65-f2e2-4370-b9f4-efaebefc3f5a",
+      "name": "Anan Khalaili",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p570794.png",
+      "team": {
+        "id": "75b48108-aa4a-4b0f-95ee-70fbf8f2fc29",
+        "name": "Crystal Palace",
+        "logo_url": "https://crests.football-data.org/354.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "25bd0035-2dda-45a6-bcb5-c00065d3ffc2",
+      "name": "André",
+      "position": "Defensive Midfield",
+      "nationality": "Brazil",
+      "jersey_number": "7",
+      "height": "1.76 m (5 ft 9 in)",
+      "weight": "170 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/p5mdl81725566116.png",
+      "team": {
+        "id": "3161f38d-55d2-4dc3-80dc-82b665528c94",
+        "name": "Wolverhampton Wanderers",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "1e03d239-c28a-46bb-bcd7-102032173116",
+      "name": "Andre Harriman-Annous",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p646243.png",
+      "team": {
+        "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "name": "Arsenal",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "1686e709-ebc3-4995-89c1-91a2e18a93c7",
+      "name": "Andréas Hountondji",
+      "position": "Centre-Forward",
+      "nationality": "Benin",
+      "jersey_number": "17",
+      "height": "190 cm",
+      "weight": "139 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/1solce1763567531.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "758fa8d6-ea20-44c5-9335-d95b6fa41dd1",
+      "name": "Andrey Santos",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "17",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/305834.png",
+      "team": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "4742ef8f-4480-43fe-be2a-fd0653fd1d3b",
+      "name": "Anis Mehmeti",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232457.png",
+      "team": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "logo_url": "https://crests.football-data.org/349.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "c8247dd4-810f-4103-a245-0855b05d371a",
+      "name": "António Silva",
+      "position": "Defender",
+      "nationality": "Portugal",
+      "jersey_number": "4",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/331832.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "4112bce8-651b-4241-918e-0ddb6633f34c",
+      "name": "Archie Howard",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "55",
+      "height": null,
+      "weight": null,
+      "headshot_url": null,
+      "team": {
+        "id": "fd1a7234-c96d-4628-a0e6-71c44b29d838",
+        "name": "Hull City",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "d8237578-e99d-425f-8b30-98775b83d8e5",
+      "name": "Armando Broja",
+      "position": "FWD",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440323.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "cd31a054-07d7-4506-a132-191a0fbaf530",
+      "name": "Ashley Barnes",
+      "position": "Centre-Forward",
+      "nationality": "Austria",
+      "jersey_number": "35",
+      "height": "6 ft 1 in (1.86 m)",
+      "weight": "170 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/v37xo41757174205.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "08a8afe1-fed9-4cdf-a6d2-300f8caf2acf",
+      "name": "Azor Matusiwa",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p241117.png",
+      "team": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "logo_url": "https://crests.football-data.org/349.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "bae92eb9-f543-4edd-b97e-ae528c24ad38",
+      "name": "B. Aaronson",
+      "position": "Midfielder",
+      "nationality": "United States",
+      "jersey_number": "11",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/50739.png",
+      "team": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "logo_url": "https://crests.football-data.org/341.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "dc01311f-df29-4175-afcc-39147b258d5d",
+      "name": "B. Austin",
+      "position": "Goalkeeper",
+      "nationality": null,
+      "jersey_number": "40",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/156428.png",
+      "team": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "11420a5e-2299-4a61-870e-95d4ef06cce8",
+      "name": "B. Brobbey",
+      "position": "Attacker",
+      "nationality": "Netherlands",
+      "jersey_number": "9",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/38750.png",
+      "team": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "8f9570dd-b1ea-46c2-94e6-bf49a73ab670",
+      "name": "B. Broggio",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "11",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/380715.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "acce7c26-d64b-4ab9-a3cf-56b2fe833536",
+      "name": "B. Burrows",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "49",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/453101.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "806d284b-a53f-439d-bf87-15b12fcd4383",
+      "name": "B. Clarke",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "15",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/348818.png",
+      "team": {
+        "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "name": "Arsenal",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "a9c12970-12d0-49bb-beea-4bd41d9cdc21",
+      "name": "B. Davies",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "33",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/164.png",
+      "team": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "85962040-82f7-4b6b-ab3e-004ecd13d412",
+      "name": "B. Doak",
+      "position": "Attacker",
+      "nationality": "Scotland",
+      "jersey_number": "17",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/343576.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "2a41784e-202b-4c31-8299-b56dab98e8c3",
+      "name": "B. Kindon",
+      "position": "Defender",
+      "nationality": null,
+      "jersey_number": "99",
+      "height": null,
+      "weight": null,
+      "headshot_url": null,
+      "team": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "a7fbcc11-ae7e-48d8-a648-d63905ab0307",
+      "name": "B. Mbeumo",
+      "position": "Attacker",
+      "nationality": null,
+      "jersey_number": "19",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/20589.png",
+      "team": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "e15e00b0-6159-4120-871d-a75a5ce6bf3d",
+      "name": "B. Pouri-Siewe",
+      "position": "Attacker",
+      "nationality": null,
+      "jersey_number": "11",
+      "height": null,
+      "weight": null,
+      "headshot_url": null,
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "fcc241ba-2caa-4c09-8511-72fb6865b4d8",
+      "name": "B. Šeško",
+      "position": "Attacker",
+      "nationality": null,
+      "jersey_number": "30",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/115589.png",
+      "team": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "74fe80da-36ee-40f6-aec9-8d60ae4692d6",
+      "name": "B. Thomas-Asante",
+      "position": "Attacker",
+      "nationality": "Ghana",
+      "jersey_number": "10",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/82090.png",
+      "team": {
+        "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "name": "Coventry City",
+        "logo_url": "https://crests.football-data.org/1076.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "885746e4-aa1a-45a5-a22e-0877427cd81d",
+      "name": "B. Touré",
+      "position": "Midfielder",
+      "nationality": "Ivory Coast",
+      "jersey_number": "24",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/387643.png",
+      "team": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "a1a2f0f3-d46d-4620-95fb-f015621234f8",
+      "name": "B. Traoré",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "12",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/157912.png",
+      "team": {
+        "id": "3161f38d-55d2-4dc3-80dc-82b665528c94",
+        "name": "Wolverhampton Wanderers",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "13695758-a578-40d8-8557-24a9071e3ae2",
+      "name": "B. Verbruggen",
+      "position": "Goalkeeper",
+      "nationality": "Netherlands",
+      "jersey_number": "1",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/129058.png",
+      "team": {
+        "id": "f915ab29-4383-47dc-9a9d-c9a6969d5c6a",
+        "name": "Brighton & Hove Albion",
+        "logo_url": "https://crests.football-data.org/397.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "f97c93a4-eada-4666-b034-81676522c40c",
+      "name": "B. White",
+      "position": "Defender",
+      "nationality": "England",
+      "jersey_number": "21",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/19959.png",
+      "team": {
+        "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "name": "Arsenal",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "e87fbc5f-8be0-4859-be06-5f4923f8d874",
+      "name": "Bafodé Diakité",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p242882.png",
+      "team": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "656159de-a0e4-4432-a4c7-a1f64448cc62",
+      "name": "Bashir Humphreys",
+      "position": "Centre-Back",
+      "nationality": "England",
+      "jersey_number": "6",
+      "height": "186 cm",
+      "weight": "172 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/z8hbka1757174555.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "d8912c0c-d3ac-4545-85db-dd65b2f3f9f5",
+      "name": "Ben Amos",
+      "position": "Goalkeeper",
+      "nationality": "England",
+      "jersey_number": "13",
+      "height": "1.88 m (6 ft 2 in)",
+      "weight": "152 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/5v3vih1766329197.png",
+      "team": {
+        "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+        "name": "Burnley",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "caaba2e1-46f2-461a-9656-5d3f44175e9d",
+      "name": "Ben Johnson",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222018.png",
+      "team": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "logo_url": "https://crests.football-data.org/349.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "39565267-ebd6-44fc-841d-d2921dceaa7a",
+      "name": "Ben Wilson",
+      "position": "GK",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p110690.png",
+      "team": {
+        "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "name": "Coventry City",
+        "logo_url": "https://crests.football-data.org/1076.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "37f8b17c-c232-4580-a5a1-b969e5f28ab4",
+      "name": "Benjamin Lecomte",
+      "position": "GK",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p86873.png",
+      "team": {
+        "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+        "name": "Fulham",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "642f1bc8-63d2-4f1f-b7b6-09fd4186f5aa",
+      "name": "Benoit Badiashile",
+      "position": "Centre-Back",
+      "nationality": "France",
+      "jersey_number": "",
+      "height": "6 ft 4 in",
+      "weight": "163 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/59w2v01757002174.png",
+      "team": {
+        "id": "544de6be-906a-40c9-8d32-17ed7239348f",
+        "name": "Chelsea",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "977b23b7-3bc8-439c-b09a-bca984e22526",
+      "name": "Bernd Leno",
+      "position": "GK",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80201.png",
+      "team": {
+        "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+        "name": "Fulham",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "7a5320d9-e73e-4ef0-b338-4642d5fd0641",
+      "name": "Beto",
+      "position": "Centre-Forward",
+      "nationality": "Guinea-Bissau",
+      "jersey_number": "9",
+      "height": "194 cm",
+      "weight": "192 lbs",
+      "headshot_url": "https://r2.thesportsdb.com/images/media/player/cutout/hzczd81756977025.png",
+      "team": {
+        "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+        "name": "Everton",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "8ee46469-b089-4de6-804a-1d7035b13a87",
+      "name": "Bobby Thomas",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p461102.png",
+      "team": {
+        "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "name": "Coventry City",
+        "logo_url": "https://crests.football-data.org/1076.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "a7b30cc3-00da-4772-bf51-c45478e0c384",
+      "name": "Borna Sosa",
+      "position": "DEF",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p218364.png",
+      "team": {
+        "id": "75b48108-aa4a-4b0f-95ee-70fbf8f2fc29",
+        "name": "Crystal Palace",
+        "logo_url": "https://crests.football-data.org/354.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "6e40a0d2-58a7-4879-9b7e-2e64b0061abd",
+      "name": "Boubacar Kamara",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226944.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "bb081d9b-9f4b-4284-954f-318af73cef6a",
+      "name": "Braiden Graham",
+      "position": "FWD",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p629068.png",
+      "team": {
+        "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+        "name": "Everton",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "e8393d70-4066-48f0-8864-82cf0a60c42c",
+      "name": "Brennan Johnson",
+      "position": "MID",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p242898.png",
+      "team": {
+        "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+        "name": "Everton",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "ab8c9000-ab52-4384-99dd-56780843e773",
+      "name": "Brian Madjo",
+      "position": "FWD",
+      "nationality": null,
+      "jersey_number": null,
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p690838.png",
+      "team": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "8196864e-909d-49de-8d72-0951784e8086",
+      "name": "Bruno Fernandes",
+      "position": "Midfielder",
+      "nationality": "Portugal",
+      "jersey_number": "8",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/1485.png",
+      "team": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    },
+    {
+      "id": "3c0e191f-f50a-4803-8b55-0c82d253b756",
+      "name": "Bruno Guimarães",
+      "position": "Midfielder",
+      "nationality": null,
+      "jersey_number": "39",
+      "height": null,
+      "weight": null,
+      "headshot_url": "https://media.api-sports.io/football/players/10135.png",
+      "team": {
+        "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "name": "Arsenal",
+        "logo_url": null,
+        "league": "EPL",
+        "sport": "football"
+      }
+    }
+  ],
+  "pagination": {
+    "total": 775,
+    "limit": 100,
+    "offset": 0
+  }
+}

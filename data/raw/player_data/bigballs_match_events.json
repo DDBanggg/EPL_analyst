@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "elapsed": 46,
+      "elapsed_extra": null,
+      "team": "Manchester United",
+      "player_name": "Bryan Mbeumo",
+      "assist_name": "Kobbie Mainoo",
+      "event_type": "Goal",
+      "event_detail": "Normal Goal"
+    },
+    {
+      "elapsed": 83,
+      "elapsed_extra": null,
+      "team": "Everton",
+      "player_name": "Tyrique George",
+      "assist_name": "Hayden Hackney",
+      "event_type": "Goal",
+      "event_detail": "Normal Goal"
+    },
+    {
+      "elapsed": 88,
+      "elapsed_extra": null,
+      "team": "Manchester United",
+      "player_name": "Benjamin Šeško",
+      "assist_name": "Luke Shaw",
+      "event_type": "Goal",
+      "event_detail": "Normal Goal"
+    },
+    {
+      "elapsed": 90,
+      "elapsed_extra": 6,
+      "team": "Everton",
+      "player_name": "Ainsley Maitland-Niles",
+      "assist_name": null,
+      "event_type": "Goal",
+      "event_detail": "Normal Goal"
+    }
+  ],
+  "meta": {
+    "source": "aggregator-paid",
+    "count": 4,
+    "cached": false
+  }
+}

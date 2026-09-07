@@ -1,0 +1,3606 @@
+{
+  "get": "players",
+  "results": 40,
+  "response": [
+    {
+      "id": 6558266,
+      "fixtureId": 1557367,
+      "playerId": 978,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 5,
+            "total": 9
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "games": {
+            "number": 29,
+            "rating": "7.6",
+            "captain": false,
+            "minutes": 90,
+            "position": "F",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": 1,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": 1,
+            "total": 1
+          },
+          "passes": {
+            "key": 1,
+            "total": 24,
+            "accuracy": "19"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": 1
+          },
+          "offsides": 2
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 978,
+        "name": "Kai Havertz",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/978.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558263,
+      "fixtureId": 1557367,
+      "playerId": 1460,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 3,
+            "total": 5
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "games": {
+            "number": 7,
+            "rating": "7.9",
+            "captain": false,
+            "minutes": 68,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": 1,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": 1,
+            "total": 1
+          },
+          "passes": {
+            "key": 2,
+            "total": 34,
+            "accuracy": "30"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": 1,
+            "success": 1,
+            "attempts": 1
+          },
+          "offsides": 1
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 1460,
+        "name": "B. Saka",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/1460.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558272,
+      "fixtureId": 1557367,
+      "playerId": 2273,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 13,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "G",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 2273,
+        "name": "Kepa Arrizabalaga",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/2273.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558262,
+      "fixtureId": 1557367,
+      "playerId": 2937,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": 3
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "games": {
+            "number": 41,
+            "rating": "7.5",
+            "captain": false,
+            "minutes": 68,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": 2
+          },
+          "passes": {
+            "key": null,
+            "total": 73,
+            "accuracy": "69"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": 1,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 2937,
+        "name": "D. Rice",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/2937.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558289,
+      "fixtureId": 1557367,
+      "playerId": 8598,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 1,
+            "total": 1
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "games": {
+            "number": 14,
+            "rating": "6.7",
+            "captain": false,
+            "minutes": 20,
+            "position": "F",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 6,
+            "accuracy": "4"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 8598,
+        "name": "Taiwo Awoniyi",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/8598.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558284,
+      "fixtureId": 1557367,
+      "playerId": 15799,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 6
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 3
+          },
+          "games": {
+            "number": 16,
+            "rating": "6.2",
+            "captain": false,
+            "minutes": 90,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 22,
+            "accuracy": "16"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "dribbles": {
+            "past": 1,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 15799,
+        "name": "F. Onyeka",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/15799.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558287,
+      "fixtureId": 1557367,
+      "playerId": 16046,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": 1
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 29,
+            "rating": "6.6",
+            "captain": false,
+            "minutes": 28,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": 1,
+            "total": 13,
+            "accuracy": "12"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 16046,
+        "name": "V. Torp",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/16046.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558293,
+      "fixtureId": 1557367,
+      "playerId": 18202,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 15,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "D",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 18202,
+        "name": "L. Kitching",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/18202.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558275,
+      "fixtureId": 1557367,
+      "playerId": 18979,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 14,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "F",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 18979,
+        "name": "V. Gyökeres",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/18979.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558280,
+      "fixtureId": 1557367,
+      "playerId": 19260,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 5
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 3,
+            "rating": "6.2",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 28,
+            "accuracy": "22"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": 1,
+            "success": 1,
+            "attempts": 3
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 19260,
+        "name": "J. Dasilva",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/19260.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558281,
+      "fixtureId": 1557367,
+      "playerId": 19328,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 6,
+            "total": 7
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "games": {
+            "number": 6,
+            "rating": "7.2",
+            "captain": true,
+            "minutes": 90,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 55,
+            "accuracy": "49"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 19328,
+        "name": "M. Grimes",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/19328.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558256,
+      "fixtureId": 1557367,
+      "playerId": 19465,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 1,
+            "rating": "7",
+            "captain": false,
+            "minutes": 90,
+            "position": "G",
+            "substitute": false
+          },
+          "goals": {
+            "saves": 1,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 19,
+            "accuracy": "15"
+          },
+          "penalty": {
+            "won": null,
+            "saved": 0,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 19465,
+        "name": "David Raya",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/19465.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558269,
+      "fixtureId": 1557367,
+      "playerId": 19586,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 3
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "games": {
+            "number": 10,
+            "rating": "6.7",
+            "captain": false,
+            "minutes": 14,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": 1
+          },
+          "passes": {
+            "key": null,
+            "total": 7,
+            "accuracy": "6"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": 1
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 19586,
+        "name": "E. Eze",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/19586.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558257,
+      "fixtureId": 1557367,
+      "playerId": 19959,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 4,
+            "total": 7
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "games": {
+            "number": 4,
+            "rating": "7.9",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 1,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": 2,
+            "total": 77,
+            "accuracy": "73"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": 1
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 19959,
+        "name": "B. White",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/19959.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558295,
+      "fixtureId": 1557367,
+      "playerId": 19984,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 28,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 19984,
+        "name": "J. Eccles",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/19984.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558288,
+      "fixtureId": 1557367,
+      "playerId": 20372,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 3,
+            "total": 3
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 5,
+            "rating": "6.6",
+            "captain": false,
+            "minutes": 20,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": 1,
+            "total": 1
+          },
+          "passes": {
+            "key": null,
+            "total": 13,
+            "accuracy": "9"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 20372,
+        "name": "J. Rudoni",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/20372.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558291,
+      "fixtureId": 1557367,
+      "playerId": 20484,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 13,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "G",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 20484,
+        "name": "B. Wilson",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/20484.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558259,
+      "fixtureId": 1557367,
+      "playerId": 22224,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 1
+          },
+          "duels": {
+            "won": 2,
+            "total": 9
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "games": {
+            "number": 6,
+            "rating": "6.3",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": 1
+          },
+          "passes": {
+            "key": null,
+            "total": 58,
+            "accuracy": "55"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 22224,
+        "name": "Gabriel Magalhães",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/22224.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558294,
+      "fixtureId": 1557367,
+      "playerId": 33462,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 7,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 33462,
+        "name": "T. Sakamoto",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/33462.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558290,
+      "fixtureId": 1557367,
+      "playerId": 36929,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 1,
+            "total": 3
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 38,
+            "rating": "6.3",
+            "captain": false,
+            "minutes": 8,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 7,
+            "accuracy": "5"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": 1
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 36929,
+        "name": "G. Hamer",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/36929.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558264,
+      "fixtureId": 1557367,
+      "playerId": 37127,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 4,
+            "total": 6
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "games": {
+            "number": 8,
+            "rating": "8.2",
+            "captain": true,
+            "minutes": 76,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": 1,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": 1,
+            "total": 1
+          },
+          "passes": {
+            "key": 3,
+            "total": 56,
+            "accuracy": "52"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 37127,
+        "name": "M. Ødegaard",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/37127.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558277,
+      "fixtureId": 1557367,
+      "playerId": 37961,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 1,
+            "total": 5
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "games": {
+            "number": 27,
+            "rating": "5.5",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 18,
+            "accuracy": "13"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 37961,
+        "name": "M. van Ewijk",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/37961.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558270,
+      "fixtureId": 1557367,
+      "playerId": 47311,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 1,
+            "total": 2
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "games": {
+            "number": 23,
+            "rating": "7",
+            "captain": false,
+            "minutes": 14,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": 1,
+            "total": 1
+          },
+          "passes": {
+            "key": null,
+            "total": 12,
+            "accuracy": "11"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": 1,
+            "attempts": 1
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 47311,
+        "name": "Mikel Merino",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/47311.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558267,
+      "fixtureId": 1557367,
+      "playerId": 47315,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 1,
+            "total": 1
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 36,
+            "rating": "6.9",
+            "captain": false,
+            "minutes": 22,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 28,
+            "accuracy": "26"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 47315,
+        "name": "Martín Zubimendi",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/47315.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558285,
+      "fixtureId": 1557367,
+      "playerId": 82090,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 4,
+            "total": 9
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "games": {
+            "number": 23,
+            "rating": "6.5",
+            "captain": false,
+            "minutes": 70,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 10,
+            "accuracy": "6"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "dribbles": {
+            "past": 1,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 82090,
+        "name": "B. Thomas-Asante",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/82090.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558271,
+      "fixtureId": 1557367,
+      "playerId": 127817,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": 1
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 5,
+            "rating": "6.7",
+            "captain": false,
+            "minutes": 9,
+            "position": "D",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 4,
+            "accuracy": "4"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 127817,
+        "name": "P. Hincapié",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/127817.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558268,
+      "fixtureId": 1557367,
+      "playerId": 136723,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 3
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 20,
+            "rating": "6.9",
+            "captain": false,
+            "minutes": 22,
+            "position": "F",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": 4,
+            "total": 15,
+            "accuracy": "13"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": 1,
+            "attempts": 2
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 136723,
+        "name": "N. Madueke",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/136723.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558286,
+      "fixtureId": 1557367,
+      "playerId": 138786,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 5,
+            "total": 9
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "games": {
+            "number": 9,
+            "rating": "6.7",
+            "captain": false,
+            "minutes": 70,
+            "position": "F",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": 1,
+            "total": 11,
+            "accuracy": "8"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": 1,
+            "success": 1,
+            "attempts": 2
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 138786,
+        "name": "E. Simms",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/138786.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558292,
+      "fixtureId": 1557367,
+      "playerId": 145538,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 22,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "D",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 145538,
+        "name": "J. Latibeaudiere",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/145538.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558260,
+      "fixtureId": 1557367,
+      "playerId": 157052,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 3
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 33,
+            "rating": "7.3",
+            "captain": false,
+            "minutes": 81,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 1,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": 1,
+            "total": 24,
+            "accuracy": "20"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 157052,
+        "name": "R. Calafiori",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/157052.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558282,
+      "fixtureId": 1557367,
+      "playerId": 161621,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 4,
+            "total": 9
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "games": {
+            "number": 18,
+            "rating": "6.2",
+            "captain": false,
+            "minutes": 82,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": 1
+          },
+          "passes": {
+            "key": null,
+            "total": 28,
+            "accuracy": "21"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": 1,
+            "attempts": 3
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 161621,
+        "name": "L. Tchaouna",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/161621.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558265,
+      "fixtureId": 1557367,
+      "playerId": 161800,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 4,
+            "total": 6
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": null
+          },
+          "games": {
+            "number": 17,
+            "rating": "7.6",
+            "captain": false,
+            "minutes": 76,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": 2,
+            "total": 3
+          },
+          "passes": {
+            "key": 3,
+            "total": 37,
+            "accuracy": "30"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": 1,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": 1
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 161800,
+        "name": "C. Tzolis",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/161800.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558279,
+      "fixtureId": 1557367,
+      "playerId": 162414,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 1,
+            "total": 4
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "games": {
+            "number": 24,
+            "rating": "7",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 31,
+            "accuracy": "27"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": 3,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 162414,
+        "name": "A. Amenda",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/162414.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558278,
+      "fixtureId": 1557367,
+      "playerId": 264437,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 5
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 2
+          },
+          "games": {
+            "number": 4,
+            "rating": "6.9",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": 1
+          },
+          "passes": {
+            "key": 1,
+            "total": 38,
+            "accuracy": "35"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 2,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 264437,
+        "name": "B. Thomas",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/264437.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558276,
+      "fixtureId": 1557367,
+      "playerId": 278088,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 19,
+            "rating": "7.3",
+            "captain": false,
+            "minutes": 90,
+            "position": "G",
+            "substitute": false
+          },
+          "goals": {
+            "saves": 2,
+            "total": null,
+            "assists": 0,
+            "conceded": 3
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 46,
+            "accuracy": "30"
+          },
+          "penalty": {
+            "won": null,
+            "saved": 0,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 278088,
+        "name": "C. Rushworth",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/278088.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 6558273,
+      "fixtureId": 1557367,
+      "playerId": 313236,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 22,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 313236,
+        "name": "E. Nwaneri",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/313236.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558261,
+      "fixtureId": 1557367,
+      "playerId": 313245,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 5,
+            "total": 6
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 1
+          },
+          "games": {
+            "number": 49,
+            "rating": "7.3",
+            "captain": false,
+            "minutes": 90,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": 1
+          },
+          "passes": {
+            "key": 1,
+            "total": 80,
+            "accuracy": "76"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": 1,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 313245,
+        "name": "M. Lewis-Skelly",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/313245.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558258,
+      "fixtureId": 1557367,
+      "playerId": 333682,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": 2,
+            "total": 5
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "games": {
+            "number": 3,
+            "rating": "6.9",
+            "captain": false,
+            "minutes": 90,
+            "position": "D",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 65,
+            "accuracy": "62"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "dribbles": {
+            "past": null,
+            "success": 1,
+            "attempts": 1
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 333682,
+        "name": "C. Mosquera",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/333682.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558274,
+      "fixtureId": 1557367,
+      "playerId": 442044,
+      "teamId": 42,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 0
+          },
+          "duels": {
+            "won": null,
+            "total": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "games": {
+            "number": 56,
+            "rating": null,
+            "captain": false,
+            "minutes": null,
+            "position": "M",
+            "substitute": true
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": null,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": null,
+            "accuracy": null
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 442044,
+        "name": "M. Dowman",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/442044.png?format=webp"
+      },
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 6558283,
+      "fixtureId": 1557367,
+      "playerId": 475575,
+      "teamId": 1346,
+      "updateAt": "2026-08-22T00:52:41.344Z",
+      "statistics": [
+        {
+          "cards": {
+            "red": 0,
+            "yellow": 1
+          },
+          "duels": {
+            "won": null,
+            "total": 2
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "games": {
+            "number": 8,
+            "rating": "6",
+            "captain": false,
+            "minutes": 62,
+            "position": "M",
+            "substitute": false
+          },
+          "goals": {
+            "saves": null,
+            "total": null,
+            "assists": 0,
+            "conceded": 0
+          },
+          "shots": {
+            "on": null,
+            "total": null
+          },
+          "passes": {
+            "key": null,
+            "total": 11,
+            "accuracy": "8"
+          },
+          "penalty": {
+            "won": null,
+            "saved": null,
+            "missed": 0,
+            "scored": 0,
+            "commited": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "dribbles": {
+            "past": null,
+            "success": null,
+            "attempts": null
+          },
+          "offsides": null
+        }
+      ],
+      "source": "api-football",
+      "player": {
+        "id": 475575,
+        "name": "Caleb Marfo Yirenkyi",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/475575.png?format=webp"
+      },
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    }
+  ]
+}

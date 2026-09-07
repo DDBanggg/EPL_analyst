@@ -1,0 +1,23 @@
+{
+  "error": {
+    "code": "forbidden",
+    "message": "Access to rating history requires the Solo plan or higher. This endpoint moved to Solo on 2026-08-16; it was previously available on Free."
+  },
+  "suggested_fix": "Solo is $19/month and unlocks the full Elo time series behind a team, so you can chart form and model momentum. Docs: https://bigballsdata.com/docs/endpoints · Start: https://bigballsdata.com/dashboard/billing?plan=solo",
+  "docs_url": "https://bigballsdata.com/docs/endpoints",
+  "support": {
+    "discord": "https://discord.gg/H2WJBQurbq",
+    "email": "support@bigballsdata.com"
+  },
+  "meta": {
+    "request_id": "39f7e368-9705-4d40-b34b-6517de59605f",
+    "timestamp": "2026-09-07T06:53:25.125Z",
+    "upgrade_path": {
+      "current_tier": "free",
+      "recommended_tier": "solo",
+      "price": "$19/month",
+      "daily_limit": 10000,
+      "url": "https://bigballsdata.com/dashboard/billing?plan=solo"
+    }
+  }
+}

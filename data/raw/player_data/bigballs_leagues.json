@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "epl",
+      "name": "English Premier League",
+      "sport": "football",
+      "country": "england"
+    },
+    {
+      "id": "laliga",
+      "name": "La Liga",
+      "sport": "football",
+      "country": "spain"
+    },
+    {
+      "id": "seriea",
+      "name": "Serie A",
+      "sport": "football",
+      "country": "italy"
+    },
+    {
+      "id": "bundesliga",
+      "name": "Bundesliga",
+      "sport": "football",
+      "country": "germany"
+    },
+    {
+      "id": "ligue1",
+      "name": "Ligue 1",
+      "sport": "football",
+      "country": "france"
+    },
+    {
+      "id": "ucl",
+      "name": "UEFA Champions League",
+      "sport": "football",
+      "country": "international"
+    },
+    {
+      "id": "mls",
+      "name": "Major League Soccer",
+      "sport": "football",
+      "country": "usa"
+    },
+    {
+      "id": "wc2026",
+      "name": "FIFA World Cup 2026",
+      "sport": "football",
+      "country": "international"
+    }
+  ],
+  "meta": {
+    "source": "catalogue",
+    "cached": false,
+    "request_id": "b28eab38-9212-4dd9-9775-ab4fd97b847e"
+  },
+  "error": null
+}

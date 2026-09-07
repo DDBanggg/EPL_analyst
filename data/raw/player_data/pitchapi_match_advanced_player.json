@@ -1,0 +1,67 @@
+{
+  "data": {
+    "player": {
+      "id": "p_3Jf13O",
+      "name": "Martin Ødegaard",
+      "shirt_number": 8
+    },
+    "team_id": "t_1gkhxH",
+    "minutes_played": 75,
+    "actions": 88,
+    "possession_value": {
+      "xt_total": 0.0258,
+      "vaep_total": 0.9234,
+      "vaep_offensive": 0.9359,
+      "vaep_defensive": -0.0124,
+      "pv_total": 0.8997,
+      "pv_offensive": 0.8859,
+      "pv_defensive": 0.0138
+    },
+    "passing": {
+      "passes": 59,
+      "pass_accuracy": 83.1,
+      "progressive_passes": 3,
+      "progressive_pass_distance": 32.7,
+      "passes_into_box": 2,
+      "key_passes": 2,
+      "assists": 0,
+      "through_balls": 0,
+      "crosses": 2,
+      "switches": 0
+    },
+    "carrying": {
+      "carries": 18,
+      "carry_distance": 170.8,
+      "progressive_carries": 2,
+      "progressive_carry_distance": 105.1,
+      "carries_into_final_third": 3,
+      "carries_into_box": 0,
+      "take_ons": 1,
+      "take_ons_won": 0,
+      "miscontrols": 0,
+      "dispossessed": 0
+    },
+    "creation": {
+      "sca": 5,
+      "gca": 0,
+      "chances_created": 2,
+      "second_assists": 0,
+      "sca_breakdown": {
+        "pass_live": 5
+      },
+      "xag": 0.1807,
+      "xg_chain": 1.2735,
+      "xg_buildup": 1.2735
+    },
+    "defending": {
+      "tackles": 3,
+      "interceptions": 0,
+      "blocks": 0,
+      "clearances": 1,
+      "duels_won": 2,
+      "aerials": 2,
+      "aerials_won": 0
+    },
+    "goalkeeping": null
+  }
+}

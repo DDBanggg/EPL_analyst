@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": "epl",
+    "name": "English Premier League",
+    "sport": "football",
+    "country": "england"
+  },
+  "meta": {
+    "source": "catalogue",
+    "cached": false,
+    "request_id": "9a3e1085-bd87-4453-9d1c-67c88b186865"
+  },
+  "error": null
+}

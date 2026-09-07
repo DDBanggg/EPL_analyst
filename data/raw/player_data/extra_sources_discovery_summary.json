@@ -1,0 +1,1418 @@
+[
+  {
+    "source": "PitchAPI",
+    "name": "leagues",
+    "endpoint": "/v1/leagues",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 42,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/leagues",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_leagues.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "league_detail",
+    "endpoint": "/v1/leagues/l_4WFCIZ",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/leagues/l_4WFCIZ",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_league_detail.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "matches",
+    "endpoint": "/v1/leagues/l_4WFCIZ/matches",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 380,
+    "fill_rate": 0.846,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Official season format is YYYY/YYYY for fall-spring leagues.",
+    "url": "https://api.pitchapi.dev/v1/leagues/l_4WFCIZ/matches?season=2026%2F2027&status=all",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_matches.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "team_detail",
+    "endpoint": "/v1/teams/t_1gkhxH",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/teams/t_1gkhxH",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_team_detail.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_detail",
+    "endpoint": "/v1/matches/m_2KvD5f",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_detail.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_shots",
+    "endpoint": "/v1/matches/m_2KvD5f/shots",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 12,
+    "fill_rate": 0.918,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/shots",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_shots.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_momentum",
+    "endpoint": "/v1/matches/m_2KvD5f/momentum",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 94,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/momentum",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_momentum.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_events",
+    "endpoint": "/v1/matches/m_2KvD5f/events",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 14,
+    "fill_rate": 0.806,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/events",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_events.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_player_stats",
+    "endpoint": "/v1/matches/m_2KvD5f/players",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 40,
+    "fill_rate": 0.97,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/players",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_player_stats.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_lineups",
+    "endpoint": "/v1/matches/m_2KvD5f/lineups",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 22,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/lineups",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_lineups.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_h2h",
+    "endpoint": "/v1/matches/m_2KvD5f/h2h",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 3,
+    "fill_rate": 0.733,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/h2h",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_h2h.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_team_stats",
+    "endpoint": "/v1/matches/m_2KvD5f/stats",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 9,
+    "fill_rate": 0.933,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/stats",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_team_stats.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_advanced",
+    "endpoint": "/v1/matches/m_2KvD5f/advanced",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 2,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/advanced",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_advanced.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_advanced_players",
+    "endpoint": "/v1/matches/m_2KvD5f/advanced/players",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 31,
+    "fill_rate": 0.98,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/advanced/players",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_advanced_players.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_pass_network",
+    "endpoint": "/v1/matches/m_2KvD5f/advanced/network",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 84,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/advanced/network",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_pass_network.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_heatmaps",
+    "endpoint": "/v1/matches/m_2KvD5f/heatmaps",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 2,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/heatmaps?frame=home_ltr",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_heatmaps.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "player_detail",
+    "endpoint": "/v1/players/p_3bOETT",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/players/p_3bOETT",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_player_detail.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_player_detail",
+    "endpoint": "/v1/matches/m_2KvD5f/players/p_3bOETT",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.8,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/players/p_3bOETT",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_player_detail.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_player_shots",
+    "endpoint": "/v1/matches/m_2KvD5f/players/p_3bOETT/shots",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.75,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/players/p_3bOETT/shots",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_player_shots.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "match_advanced_player",
+    "endpoint": "/v1/matches/m_2KvD5f/advanced/players/p_3Jf13O",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.98,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/advanced/players/p_3Jf13O",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_match_advanced_player.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "PitchAPI",
+    "name": "shot_detail",
+    "endpoint": "/v1/matches/m_2KvD5f/shots/s_0OtzAE",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.944,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.pitchapi.dev/v1/matches/m_2KvD5f/shots/s_0OtzAE",
+    "saved": "D:\\football\\data\\raw\\player_data\\pitchapi_shot_detail.json",
+    "rate_limit": {}
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "account_status",
+    "endpoint": "account/status",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/account/status",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_account_status.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "29",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "leagues",
+    "endpoint": "leagues",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 46,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/leagues?country=England",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_leagues.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "28",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "teams",
+    "endpoint": "teams",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 0.647,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/teams?league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_teams.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "27",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "fixtures",
+    "endpoint": "fixtures",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 380,
+    "fill_rate": 0.615,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/fixtures?league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_fixtures.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "26",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "standings",
+    "endpoint": "standings",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 0.778,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/standings?league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_standings.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "25",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "players",
+    "endpoint": "players",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 193,
+    "fill_rate": 0.382,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/players?team=51",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_players.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "24",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "squad",
+    "endpoint": "squads",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 33,
+    "fill_rate": 0.602,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/squads?team=51",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_squad.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "23",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "coach",
+    "endpoint": "coaches",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.893,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/coaches?team=51",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_coach.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "22",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "team_statistics",
+    "endpoint": "team-statistics",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.718,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/team-statistics?team=51&league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_team_statistics.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "21",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "injuries",
+    "endpoint": "injuries",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 100,
+    "fill_rate": 0.672,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/injuries?league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_injuries.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "20",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "venue",
+    "endpoint": "venues",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.571,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/venues?name=American+Express+Stadium",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_venue.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "19",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "team_logos",
+    "endpoint": "teams/logos",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "expected EPL count=20",
+    "url": "https://api.kickoffapi.com/api/v1/teams/logos?ids=51%2C42%2C55%2C45%2C64%2C50%2C57%2C63%2C40%2C34%2C49%2C36%2C746%2C35%2C65%2C33%2C52%2C47%2C1346%2C66",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_team_logos.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "18",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "top_scorers",
+    "endpoint": "topscorers",
+    "classification": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/topscorers?league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_top_scorers.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "17",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "top_assists",
+    "endpoint": "topassists",
+    "classification": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/topassists?league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_top_assists.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "16",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "fixture_events",
+    "endpoint": "/fixtures/1557367/events",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 14,
+    "fill_rate": 0.765,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/fixtures/1557367/events",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_fixture_events.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "15",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "fixture_lineups",
+    "endpoint": "/fixtures/1557367/lineups",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 22,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/fixtures/1557367/lineups",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_fixture_lineups.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "14",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "fixture_statistics",
+    "endpoint": "/fixtures/1557367/statistics",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 36,
+    "fill_rate": 0.796,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/fixtures/1557367/statistics",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_fixture_statistics.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "13",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "fixture_players",
+    "endpoint": "/fixtures/1557367/players",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 40,
+    "fill_rate": 0.553,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/fixtures/1557367/players",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_fixture_players.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "12",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "head_to_head",
+    "endpoint": "headtohead",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 0.699,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/headtohead?h2h=51-42&league=39&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_head_to_head.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "11",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "predictions",
+    "endpoint": "predictions",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.841,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/predictions?fixture=1557367",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_predictions.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "10",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "odds",
+    "endpoint": "odds",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 337,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Single tier-probe request; official V1 docs label this Ultra.",
+    "url": "https://api.kickoffapi.com/api/v1/odds?fixture=1557367",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_odds.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "9",
+      "x-ratelimit-reset": "1788763980"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "transfers",
+    "endpoint": "transfers",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 13,
+    "fill_rate": 0.612,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/transfers?player=14",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_transfers.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "29",
+      "x-ratelimit-reset": "1788764040"
+    }
+  },
+  {
+    "source": "KickoffAPI",
+    "name": "trophies",
+    "endpoint": "trophies",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 18,
+    "fill_rate": 0.944,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.kickoffapi.com/api/v1/trophies?player=14",
+    "saved": "D:\\football\\data\\raw\\player_data\\kickoff_trophies.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "30",
+      "x-ratelimit-remaining": "28",
+      "x-ratelimit-reset": "1788764040"
+    }
+  },
+  {
+    "source": "Premierlytics",
+    "name": "authentication",
+    "endpoint": "",
+    "classification": "SKIPPED_MISSING_KEY",
+    "http_status": null,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Expected env: PREMIERLYTICS_API_KEY",
+    "url": "",
+    "saved": "",
+    "rate_limit": {}
+  },
+  {
+    "source": "Big Balls",
+    "name": "user_me",
+    "endpoint": "/v1/user/me",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Contains plan and actual per-minute/per-day limits; never contains the API key.",
+    "url": "https://api.bigballsdata.com/v1/user/me",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_user_me.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "99",
+      "x-ratelimit-reset": "1788764048"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "leagues",
+    "endpoint": "/v1/leagues",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 8,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/leagues?sport=football",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_leagues.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "98",
+      "x-ratelimit-reset": "1788764048"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "league_detail",
+    "endpoint": "/v1/leagues/epl",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/leagues/epl",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_league_detail.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "97",
+      "x-ratelimit-reset": "1788764048"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "matches",
+    "endpoint": "/v1/matches",
+    "classification": "PARTIAL_DATA",
+    "http_status": 200,
+    "rows": 200,
+    "fill_rate": 0.702,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Current EPL feed; this endpoint has no season parameter.; expected EPL count=380",
+    "url": "https://api.bigballsdata.com/v1/matches?sport=football&league=epl&limit=200",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_matches.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "96",
+      "x-ratelimit-reset": "1788764049"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_matches",
+    "endpoint": "/v1/stored/matches",
+    "classification": "TRUNCATED_OR_PAGINATED",
+    "http_status": 200,
+    "rows": 200,
+    "fill_rate": 0.746,
+    "pagination_detected": true,
+    "pagination": {
+      "total": 380,
+      "limit": 200,
+      "offset": 0
+    },
+    "note": "OpenAPI defines 2026 as the 2026/27 campaign start-year label.; pagination={'total': 380, 'limit': 200, 'offset': 0}; expected EPL count=380",
+    "url": "https://api.bigballsdata.com/v1/stored/matches?sport=football&league=epl&season=2026&limit=200&offset=0",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_matches.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "95",
+      "x-ratelimit-reset": "1788764049"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "standings",
+    "endpoint": "/v1/standings",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/standings?sport=football&league=epl&season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_standings.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "94",
+      "x-ratelimit-reset": "1788764049"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "teams",
+    "endpoint": "/v1/teams",
+    "classification": "TRUNCATED_OR_PAGINATED",
+    "http_status": 200,
+    "rows": 20,
+    "fill_rate": 0.771,
+    "pagination_detected": true,
+    "pagination": {
+      "total": 36,
+      "limit": 20,
+      "offset": 0
+    },
+    "note": "pagination={'total': 36, 'limit': 20, 'offset': 0}",
+    "url": "https://api.bigballsdata.com/v1/teams?sport=football&league=epl&limit=20&offset=0",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_teams.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "93",
+      "x-ratelimit-reset": "1788764050"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_detail",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592",
+    "classification": "SPARSE",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_detail.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "92",
+      "x-ratelimit-reset": "1788764050"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_elo",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/elo",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 3,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/elo",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_elo.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "91",
+      "x-ratelimit-reset": "1788764065"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_elo_history",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/elo/history",
+    "classification": "RESTRICTED",
+    "http_status": 403,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/elo/history",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_elo_history.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "90",
+      "x-ratelimit-reset": "1788764066"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_form",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/form",
+    "classification": "RESTRICTED",
+    "http_status": 403,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/form?limit=10",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_form.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "89",
+      "x-ratelimit-reset": "1788764066"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_matches",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/matches",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 38,
+    "fill_rate": 0.692,
+    "pagination_detected": false,
+    "pagination": {
+      "page": 1,
+      "limit": 50,
+      "offset": 0
+    },
+    "note": "pagination={'page': 1, 'limit': 50, 'offset': 0}",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/matches?sport=football&season=2026&limit=50&offset=0",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_matches.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "88",
+      "x-ratelimit-reset": "1788764066"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_schedule_context",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/schedule-context",
+    "classification": "RESTRICTED",
+    "http_status": 403,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/schedule-context",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_schedule_context.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "87",
+      "x-ratelimit-reset": "1788764066"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "team_season",
+    "endpoint": "/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/season",
+    "classification": "SEASON_RESTRICTED",
+    "http_status": 400,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/teams/659f7d1c-8d18-47d8-b083-dc2340708592/season?season=2026",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_team_season.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "86",
+      "x-ratelimit-reset": "1788764067"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "players",
+    "endpoint": "/v1/players",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 33,
+    "fill_rate": 0.855,
+    "pagination_detected": false,
+    "pagination": {
+      "total": 33,
+      "limit": 100,
+      "offset": 0
+    },
+    "note": "Scoped by a discovered EPL team UUID; leagueId requires a UUID unavailable from /v1/leagues.; pagination={'total': 33, 'limit': 100, 'offset': 0}",
+    "url": "https://api.bigballsdata.com/v1/players?sport=football&teamId=659f7d1c-8d18-47d8-b083-dc2340708592&limit=100&offset=0",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_players.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "85",
+      "x-ratelimit-reset": "1788764067"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_players",
+    "endpoint": "/v1/stored/players",
+    "classification": "TRUNCATED_OR_PAGINATED",
+    "http_status": 200,
+    "rows": 100,
+    "fill_rate": 0.761,
+    "pagination_detected": true,
+    "pagination": {
+      "total": 775,
+      "limit": 100,
+      "offset": 0
+    },
+    "note": "pagination={'total': 775, 'limit': 100, 'offset': 0}",
+    "url": "https://api.bigballsdata.com/v1/stored/players?sport=football&league=epl&limit=100&offset=0",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_players.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "84",
+      "x-ratelimit-reset": "1788764068"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "player_detail",
+    "endpoint": "/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 654,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1?sport=football",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_player_detail.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "83",
+      "x-ratelimit-reset": "1788764068"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "player_stats",
+    "endpoint": "/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1/stats",
+    "classification": "SPARSE",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1/stats?sport=football&season=2026&league=epl",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_player_stats.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "82",
+      "x-ratelimit-reset": "1788764084"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "player_transfers",
+    "endpoint": "/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1/transfers",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 3,
+    "fill_rate": 0.8,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1/transfers",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_player_transfers.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "81",
+      "x-ratelimit-reset": "1788764099"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "player_trophies",
+    "endpoint": "/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1/trophies",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 10,
+    "fill_rate": 0.9,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/players/482e981f-fe0f-45c9-ba88-49cf43631de1/trophies",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_player_trophies.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "80",
+      "x-ratelimit-reset": "1788764099"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "match_detail",
+    "endpoint": "/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Bare detail call permits the documented stored-record fallback.",
+    "url": "https://api.bigballsdata.com/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_match_detail.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "79",
+      "x-ratelimit-reset": "1788764099"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "match_statistics",
+    "endpoint": "/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025/statistics",
+    "classification": "RESTRICTED",
+    "http_status": 403,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025/statistics",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_match_statistics.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "78",
+      "x-ratelimit-reset": "1788764100"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "match_events",
+    "endpoint": "/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025/events",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 4,
+    "fill_rate": 0.857,
+    "pagination_detected": false,
+    "pagination": {
+      "count": 4
+    },
+    "note": "pagination={'count': 4}",
+    "url": "https://api.bigballsdata.com/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025/events?sport=football",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_match_events.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "77",
+      "x-ratelimit-reset": "1788764100"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "match_odds",
+    "endpoint": "/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025/odds",
+    "classification": "RESTRICTED",
+    "http_status": 403,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "Single Edge-tier probe request.",
+    "url": "https://api.bigballsdata.com/v1/matches/81e729fe-277e-4e91-b490-3cb14d253025/odds?sport=football",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_match_odds.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "76",
+      "x-ratelimit-reset": "1788764101"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_detail",
+    "endpoint": "/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 2,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_detail.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "75",
+      "x-ratelimit-reset": "1788764101"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_lineups",
+    "endpoint": "/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/lineups",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 22,
+    "fill_rate": 0.873,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/lineups",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_lineups.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "74",
+      "x-ratelimit-reset": "1788764101"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_stats",
+    "endpoint": "/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/stats",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 40,
+    "fill_rate": 0.982,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/stats",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_stats.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "73",
+      "x-ratelimit-reset": "1788764101"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_events",
+    "endpoint": "/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/plays",
+    "classification": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/plays?limit=200",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_events.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "72",
+      "x-ratelimit-reset": "1788764102"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_events_fallback_2",
+    "endpoint": "/v1/stored/matches/45115dda-0099-4728-aec2-a81986332cfb/plays",
+    "classification": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/45115dda-0099-4728-aec2-a81986332cfb/plays?limit=200",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_events_fallback_2.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "71",
+      "x-ratelimit-reset": "1788764102"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_events_fallback_3",
+    "endpoint": "/v1/stored/matches/6a48fad1-2a01-4d3f-8680-65ac54e5ea71/plays",
+    "classification": "EMPTY",
+    "http_status": 200,
+    "rows": 0,
+    "fill_rate": 0.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/6a48fad1-2a01-4d3f-8680-65ac54e5ea71/plays?limit=200",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_events_fallback_3.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "70",
+      "x-ratelimit-reset": "1788764102"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "stored_match_h2h",
+    "endpoint": "/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/h2h",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 1,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/stored/matches/3f9f9913-172a-4f74-bd6e-199b4ccfa8a5/h2h?limit=10",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_stored_match_h2h.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "69",
+      "x-ratelimit-reset": "1788764103"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "league_top_scorers",
+    "endpoint": "/v1/leagues/epl/top-scorers",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 25,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/leagues/epl/top-scorers?season=2026&limit=25",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_league_top_scorers.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "68",
+      "x-ratelimit-reset": "1788764103"
+    }
+  },
+  {
+    "source": "Big Balls",
+    "name": "league_xg_leaders",
+    "endpoint": "/v1/leagues/epl/xg-leaders",
+    "classification": "DATA",
+    "http_status": 200,
+    "rows": 25,
+    "fill_rate": 1.0,
+    "pagination_detected": false,
+    "pagination": {},
+    "note": "",
+    "url": "https://api.bigballsdata.com/v1/leagues/epl/xg-leaders?season=2026&stat=xg&min_minutes=1&limit=25",
+    "saved": "D:\\football\\data\\raw\\player_data\\bigballs_league_xg_leaders.json",
+    "rate_limit": {
+      "x-ratelimit-limit": "100",
+      "x-ratelimit-remaining": "67",
+      "x-ratelimit-reset": "1788764103"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "key_id": "…81c1",
+    "plan": "free",
+    "github_connected": true,
+    "paused": false,
+    "limits": {
+      "per_minute": 100,
+      "per_day": 2000
+    }
+  },
+  "meta": {
+    "request_id": "c47f61d8-6476-4619-9f00-e990106aeb71"
+  },
+  "error": null
+}

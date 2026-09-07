@@ -1,0 +1,426 @@
+{
+  "get": "teams",
+  "results": 20,
+  "response": [
+    {
+      "id": 51,
+      "name": "Brighton",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/51.png?format=webp",
+      "colors": null,
+      "venueId": 508,
+      "squadSynced": true,
+      "venue": {
+        "id": 508,
+        "name": "American Express Stadium",
+        "address": null,
+        "city": "Falmer, East Sussex",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/508.png?format=webp"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Arsenal",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+      "colors": null,
+      "venueId": 494,
+      "squadSynced": false,
+      "venue": {
+        "id": 494,
+        "name": "Emirates Stadium",
+        "address": null,
+        "city": "London",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/494.png?format=webp"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Brentford",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/55.png?format=webp",
+      "colors": null,
+      "venueId": 10503,
+      "squadSynced": true,
+      "venue": {
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "address": null,
+        "city": "Brentford, Middlesex",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/10503.png?format=webp"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Everton",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/45.png?format=webp",
+      "colors": null,
+      "venueId": 22033,
+      "squadSynced": true,
+      "venue": {
+        "id": 22033,
+        "name": "Hill Dickinson Stadium",
+        "address": null,
+        "city": "Liverpool",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/22033.png?format=webp"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Hull City",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/64.png?format=webp",
+      "colors": null,
+      "venueId": 12051,
+      "squadSynced": true,
+      "venue": {
+        "id": 12051,
+        "name": "The MKM Stadium",
+        "address": null,
+        "city": "Hull",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/12051.png?format=webp"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Manchester City",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/50.png?format=webp",
+      "colors": null,
+      "venueId": 555,
+      "squadSynced": true,
+      "venue": {
+        "id": 555,
+        "name": "Etihad Stadium",
+        "address": null,
+        "city": "Manchester",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/555.png?format=webp"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Ipswich",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/57.png?format=webp",
+      "colors": null,
+      "venueId": 545,
+      "squadSynced": true,
+      "venue": {
+        "id": 545,
+        "name": "Portman Road",
+        "address": null,
+        "city": "Ipswich, Suffolk",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/545.png?format=webp"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Leeds",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/63.png?format=webp",
+      "colors": null,
+      "venueId": 546,
+      "squadSynced": true,
+      "venue": {
+        "id": 546,
+        "name": "Elland Road",
+        "address": null,
+        "city": "Leeds",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/546.png?format=webp"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Liverpool",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/40.png?format=webp",
+      "colors": null,
+      "venueId": 550,
+      "squadSynced": true,
+      "venue": {
+        "id": 550,
+        "name": "Anfield",
+        "address": null,
+        "city": "Liverpool",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/550.png?format=webp"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Newcastle",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/34.png?format=webp",
+      "colors": null,
+      "venueId": 562,
+      "squadSynced": true,
+      "venue": {
+        "id": 562,
+        "name": "St James’ Park",
+        "address": null,
+        "city": "Newcastle",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/562.png?format=webp"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Chelsea",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/49.png?format=webp",
+      "colors": null,
+      "venueId": 519,
+      "squadSynced": true,
+      "venue": {
+        "id": 519,
+        "name": "Stamford Bridge",
+        "address": null,
+        "city": "London",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/519.png?format=webp"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Fulham",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/36.png?format=webp",
+      "colors": null,
+      "venueId": 535,
+      "squadSynced": true,
+      "venue": {
+        "id": 535,
+        "name": "Craven Cottage",
+        "address": null,
+        "city": "London",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/535.png?format=webp"
+      }
+    },
+    {
+      "id": 746,
+      "name": "Sunderland",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/746.png?format=webp",
+      "colors": null,
+      "venueId": 589,
+      "squadSynced": true,
+      "venue": {
+        "id": 589,
+        "name": "Stadium of Light",
+        "address": null,
+        "city": "Sunderland",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/589.png?format=webp"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Bournemouth",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/35.png?format=webp",
+      "colors": null,
+      "venueId": 504,
+      "squadSynced": true,
+      "venue": {
+        "id": 504,
+        "name": "Vitality Stadium",
+        "address": null,
+        "city": "Bournemouth, Dorset",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/504.png?format=webp"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Nottingham Forest",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/65.png?format=webp",
+      "colors": null,
+      "venueId": 566,
+      "squadSynced": true,
+      "venue": {
+        "id": 566,
+        "name": "The City Ground",
+        "address": null,
+        "city": "Nottingham, Nottinghamshire",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/566.png?format=webp"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Manchester United",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/33.png?format=webp",
+      "colors": null,
+      "venueId": 556,
+      "squadSynced": true,
+      "venue": {
+        "id": 556,
+        "name": "Old Trafford",
+        "address": null,
+        "city": "Manchester",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/556.png?format=webp"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Crystal Palace",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/52.png?format=webp",
+      "colors": null,
+      "venueId": 525,
+      "squadSynced": true,
+      "venue": {
+        "id": 525,
+        "name": "Selhurst Park",
+        "address": null,
+        "city": "London",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/525.png?format=webp"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Tottenham",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/47.png?format=webp",
+      "colors": null,
+      "venueId": 593,
+      "squadSynced": true,
+      "venue": {
+        "id": 593,
+        "name": "Tottenham Hotspur Stadium",
+        "address": null,
+        "city": "London",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/593.png?format=webp"
+      }
+    },
+    {
+      "id": 1346,
+      "name": "Coventry",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+      "colors": null,
+      "venueId": 11896,
+      "squadSynced": true,
+      "venue": {
+        "id": 11896,
+        "name": "The Coventry Building Society Arena",
+        "address": null,
+        "city": "Coventry, West Midlands",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/11896.png?format=webp"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Aston Villa",
+      "code": null,
+      "countryName": "England",
+      "founded": null,
+      "national": false,
+      "logo": "https://images.kickoffapi.com/images/logos/66.png?format=webp",
+      "colors": null,
+      "venueId": 495,
+      "squadSynced": false,
+      "venue": {
+        "id": 495,
+        "name": "Villa Park",
+        "address": null,
+        "city": "Birmingham",
+        "capacity": null,
+        "surface": null,
+        "image": "https://images.kickoffapi.com/images/venues/495.png?format=webp"
+      }
+    }
+  ]
+}

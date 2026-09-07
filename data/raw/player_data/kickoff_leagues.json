@@ -1,0 +1,3675 @@
+{
+  "get": "leagues",
+  "results": 46,
+  "response": [
+    {
+      "id": 695,
+      "name": "U18 Premier League - North",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/695.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2020,
+          "start": "2020-09-12",
+          "end": "2021-05-15",
+          "current": false,
+          "leagueId": 695
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-05-07",
+          "current": false,
+          "leagueId": 695
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-29",
+          "current": false,
+          "leagueId": 695
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-17",
+          "end": "2025-05-03",
+          "current": false,
+          "leagueId": 695
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-16",
+          "end": "2026-05-09",
+          "current": false,
+          "leagueId": 695
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-05-11",
+          "current": false,
+          "leagueId": 695
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 695
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Non League Premier - Isthmian",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/58.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-10",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-22",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-08",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 58
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 58
+        }
+      ]
+    },
+    {
+      "id": 987,
+      "name": "U18 Premier League - Championship",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/987.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-05-10",
+          "end": "2023-05-10",
+          "current": false,
+          "leagueId": 987
+        },
+        {
+          "year": 2023,
+          "start": "2024-05-14",
+          "end": "2024-05-14",
+          "current": false,
+          "leagueId": 987
+        },
+        {
+          "year": 2024,
+          "start": "2025-05-17",
+          "end": "2025-05-17",
+          "current": false,
+          "leagueId": 987
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-16",
+          "end": "2026-05-09",
+          "current": true,
+          "leagueId": 987
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Non League Premier - Northern",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/59.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-08",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 59
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 59
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Non League Div One - Isthmian South East",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/57.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 57
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-22",
+          "current": false,
+          "leagueId": 57
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 57
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 57
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 57
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 57
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 57
+        }
+      ]
+    },
+    {
+      "id": 1156,
+      "name": "National League Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/1156.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2024,
+          "start": "2024-10-01",
+          "end": "2025-04-29",
+          "current": false,
+          "leagueId": 1156
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-03-17",
+          "current": false,
+          "leagueId": 1156
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 1156
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "League One",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/41.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2004,
+          "start": "2004-01-01",
+          "end": "2004-12-29",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2005,
+          "start": "2005-01-02",
+          "end": "2005-12-31",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2006,
+          "start": "2006-01-01",
+          "end": "2006-12-30",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2007,
+          "start": "2007-01-01",
+          "end": "2007-12-29",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2008,
+          "start": "2008-01-03",
+          "end": "2008-12-28",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2009,
+          "start": "2009-01-02",
+          "end": "2009-12-28",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2011,
+          "start": "2011-08-06",
+          "end": "2012-05-26",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-18",
+          "end": "2013-05-19",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-02",
+          "end": "2014-05-25",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-09",
+          "end": "2015-05-24",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-08",
+          "end": "2016-05-29",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-06",
+          "end": "2017-05-20",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-05",
+          "end": "2018-05-27",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-04",
+          "end": "2019-05-26",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-03",
+          "end": "2020-07-13",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-12",
+          "end": "2021-05-30",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-07",
+          "end": "2022-05-21",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2022,
+          "start": "2022-07-30",
+          "end": "2023-05-29",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-05-18",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-09",
+          "end": "2025-05-25",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-01",
+          "end": "2026-05-02",
+          "current": false,
+          "leagueId": 41
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 41
+        }
+      ]
+    },
+    {
+      "id": 985,
+      "name": "National League - South - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/985.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-05-02",
+          "end": "2023-05-14",
+          "current": false,
+          "leagueId": 985
+        },
+        {
+          "year": 2023,
+          "start": "2024-04-23",
+          "end": "2024-05-06",
+          "current": false,
+          "leagueId": 985
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-29",
+          "end": "2025-05-18",
+          "current": true,
+          "leagueId": 985
+        }
+      ]
+    },
+    {
+      "id": 993,
+      "name": "Non League Premier - Isthmian - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/993.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-04-26",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 993
+        },
+        {
+          "year": 2023,
+          "start": "2024-05-01",
+          "end": "2024-05-06",
+          "current": false,
+          "leagueId": 993
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-30",
+          "end": "2025-05-05",
+          "current": true,
+          "leagueId": 993
+        }
+      ]
+    },
+    {
+      "id": 986,
+      "name": "Non League Div One - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/986.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-04-25",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 986
+        },
+        {
+          "year": 2023,
+          "start": "2024-04-30",
+          "end": "2024-05-06",
+          "current": false,
+          "leagueId": 986
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-29",
+          "end": "2025-05-05",
+          "current": true,
+          "leagueId": 986
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Non League Div One - Isthmian North",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/52.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 52
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-22",
+          "current": false,
+          "leagueId": 52
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 52
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 52
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 52
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-11",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 52
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 52
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Premier League 2 Division One",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/702.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2020,
+          "start": "2020-09-11",
+          "end": "2021-05-24",
+          "current": false,
+          "leagueId": 702
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-13",
+          "end": "2022-05-23",
+          "current": false,
+          "leagueId": 702
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-16",
+          "end": "2025-05-22",
+          "current": false,
+          "leagueId": 702
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-11",
+          "end": "2024-05-26",
+          "current": false,
+          "leagueId": 702
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-15",
+          "end": "2026-04-13",
+          "current": false,
+          "leagueId": 702
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-05",
+          "end": "2023-05-15",
+          "current": false,
+          "leagueId": 702
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 702
+        }
+      ]
+    },
+    {
+      "id": 932,
+      "name": "Non League Div One - Northern East",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/932.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 932
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 932
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 932
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 932
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Professional Development League",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/703.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2020,
+          "start": "2020-09-13",
+          "end": "2021-05-24",
+          "current": false,
+          "leagueId": 703
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-16",
+          "end": "2022-05-17",
+          "current": false,
+          "leagueId": 703
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-08",
+          "end": "2023-05-22",
+          "current": false,
+          "leagueId": 703
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-14",
+          "end": "2024-05-24",
+          "current": false,
+          "leagueId": 703
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-09",
+          "end": "2025-05-21",
+          "current": false,
+          "leagueId": 703
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 703
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-08",
+          "end": "2026-04-21",
+          "current": false,
+          "leagueId": 703
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "name": "Women's Championship",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/699.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 699
+        },
+        {
+          "year": 2025,
+          "start": "2025-09-05",
+          "end": "2026-05-03",
+          "current": false,
+          "leagueId": 699
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-06",
+          "end": "2021-05-02",
+          "current": false,
+          "leagueId": 699
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-29",
+          "end": "2022-05-01",
+          "current": false,
+          "leagueId": 699
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-21",
+          "end": "2023-04-30",
+          "current": false,
+          "leagueId": 699
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-26",
+          "end": "2024-04-28",
+          "current": false,
+          "leagueId": 699
+        },
+        {
+          "year": 2024,
+          "start": "2024-09-08",
+          "end": "2025-05-04",
+          "current": false,
+          "leagueId": 699
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "National League",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/43.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-06-01",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2011,
+          "start": "2011-08-12",
+          "end": "2012-05-20",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-10",
+          "end": "2013-04-20",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-10",
+          "end": "2014-04-26",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-09",
+          "end": "2015-04-25",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-08",
+          "end": "2016-04-30",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-06",
+          "end": "2017-04-29",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-05",
+          "end": "2018-04-28",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-04",
+          "end": "2019-04-27",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-03",
+          "end": "2020-08-02",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2020,
+          "start": "2020-10-03",
+          "end": "2021-06-20",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-21",
+          "end": "2022-06-05",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-06",
+          "end": "2023-05-13",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-05-05",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 43
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 43
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "National League - South",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/51.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-03",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 51
+        },
+        {
+          "year": 2020,
+          "start": "2020-10-06",
+          "end": "2021-05-29",
+          "current": false,
+          "leagueId": 51
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-05-07",
+          "current": false,
+          "leagueId": 51
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-06",
+          "end": "2023-04-29",
+          "current": false,
+          "leagueId": 51
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-04-20",
+          "current": false,
+          "leagueId": 51
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 51
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 51
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 51
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Non League Div One - Southern South",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/56.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 56
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-08",
+          "current": false,
+          "leagueId": 56
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 56
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 56
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 56
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 56
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 56
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "FA Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/45.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2011,
+          "start": "2011-09-17",
+          "end": "2012-05-05",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-10",
+          "end": "2013-05-11",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-16",
+          "end": "2014-05-17",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-15",
+          "end": "2015-05-30",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-14",
+          "end": "2016-05-21",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2016,
+          "start": "2016-11-04",
+          "end": "2017-05-27",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2017,
+          "start": "2017-11-03",
+          "end": "2018-05-19",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2018,
+          "start": "2018-11-09",
+          "end": "2019-05-18",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2020,
+          "start": "2020-08-31",
+          "end": "2021-05-15",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-06",
+          "end": "2022-05-14",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-05",
+          "end": "2023-06-03",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-04",
+          "end": "2024-05-25",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-02",
+          "end": "2025-05-16",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-09",
+          "end": "2020-08-01",
+          "current": false,
+          "leagueId": 45
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 45
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-01",
+          "end": "2026-03-09",
+          "current": false,
+          "leagueId": 45
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "name": "WSL Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/697.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2020,
+          "start": "2020-10-07",
+          "end": "2021-03-14",
+          "current": false,
+          "leagueId": 697
+        },
+        {
+          "year": 2021,
+          "start": "2021-10-13",
+          "end": "2022-03-05",
+          "current": false,
+          "leagueId": 697
+        },
+        {
+          "year": 2022,
+          "start": "2022-10-01",
+          "end": "2023-03-05",
+          "current": false,
+          "leagueId": 697
+        },
+        {
+          "year": 2023,
+          "start": "2023-10-11",
+          "end": "2024-03-31",
+          "current": false,
+          "leagueId": 697
+        },
+        {
+          "year": 2024,
+          "start": "2024-10-02",
+          "end": "2025-03-15",
+          "current": false,
+          "leagueId": 697
+        },
+        {
+          "year": 2025,
+          "start": "2025-09-24",
+          "end": "2026-03-15",
+          "current": true,
+          "leagueId": 697
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Non League Div One - Northern Midlands",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/55.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 55
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-08",
+          "current": false,
+          "leagueId": 55
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 55
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 55
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 55
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 55
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Non League Div One - Isthmian South Central",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/53.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 53
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-22",
+          "current": false,
+          "leagueId": 53
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 53
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 53
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 53
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 53
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 53
+        }
+      ]
+    },
+    {
+      "id": 984,
+      "name": "National League - North - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/984.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-05-02",
+          "end": "2023-05-14",
+          "current": false,
+          "leagueId": 984
+        },
+        {
+          "year": 2023,
+          "start": "2024-04-23",
+          "end": "2024-05-04",
+          "current": false,
+          "leagueId": 984
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-29",
+          "end": "2025-05-17",
+          "current": true,
+          "leagueId": 984
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "National League - North",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/50.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-03",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 50
+        },
+        {
+          "year": 2020,
+          "start": "2020-10-05",
+          "end": "2021-05-29",
+          "current": false,
+          "leagueId": 50
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-05-07",
+          "current": false,
+          "leagueId": 50
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-06",
+          "end": "2023-04-29",
+          "current": false,
+          "leagueId": 50
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 50
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-04-20",
+          "current": false,
+          "leagueId": 50
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 50
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 50
+        }
+      ]
+    },
+    {
+      "id": 1068,
+      "name": "FA Youth Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/1068.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2025,
+          "start": "2026-01-08",
+          "end": "2026-03-14",
+          "current": true,
+          "leagueId": 1068
+        },
+        {
+          "year": 2023,
+          "start": "2023-11-30",
+          "end": "2024-05-04",
+          "current": false,
+          "leagueId": 1068
+        },
+        {
+          "year": 2024,
+          "start": "2024-11-29",
+          "end": "2025-05-03",
+          "current": false,
+          "leagueId": 1068
+        }
+      ]
+    },
+    {
+      "id": 1022,
+      "name": "Premier League - Summer Series",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/1022.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2023,
+          "start": "2023-07-22",
+          "end": "2023-07-30",
+          "current": false,
+          "leagueId": 1022
+        },
+        {
+          "year": 2024,
+          "start": "2025-07-26",
+          "end": "2025-08-03",
+          "current": false,
+          "leagueId": 1022
+        },
+        {
+          "year": 2025,
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "current": true,
+          "leagueId": 1022
+        }
+      ]
+    },
+    {
+      "id": 933,
+      "name": "Non League Div One - Southern Central",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/933.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 933
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 933
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 933
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 933
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "name": "FA Women's Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/698.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-11-10",
+          "end": "2020-11-01",
+          "current": false,
+          "leagueId": 698
+        },
+        {
+          "year": 2020,
+          "start": "2020-12-13",
+          "end": "2021-12-05",
+          "current": false,
+          "leagueId": 698
+        },
+        {
+          "year": 2021,
+          "start": "2021-11-14",
+          "end": "2022-05-15",
+          "current": false,
+          "leagueId": 698
+        },
+        {
+          "year": 2022,
+          "start": "2022-11-13",
+          "end": "2023-05-14",
+          "current": false,
+          "leagueId": 698
+        },
+        {
+          "year": 2023,
+          "start": "2023-10-22",
+          "end": "2024-05-12",
+          "current": false,
+          "leagueId": 698
+        },
+        {
+          "year": 2024,
+          "start": "2024-10-13",
+          "end": "2025-05-17",
+          "current": false,
+          "leagueId": 698
+        },
+        {
+          "year": 2025,
+          "start": "2025-10-25",
+          "end": "2026-04-05",
+          "current": true,
+          "leagueId": 698
+        }
+      ]
+    },
+    {
+      "id": 871,
+      "name": "Premier League Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/871.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2021,
+          "start": "2021-08-11",
+          "end": "2022-05-13",
+          "current": false,
+          "leagueId": 871
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-17",
+          "end": "2023-05-09",
+          "current": false,
+          "leagueId": 871
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-18",
+          "end": "2024-05-16",
+          "current": false,
+          "leagueId": 871
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-27",
+          "end": "2025-05-15",
+          "current": false,
+          "leagueId": 871
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-26",
+          "end": "2026-03-27",
+          "current": false,
+          "leagueId": 871
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 871
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Non League Div One - Northern West",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/54.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-17",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 54
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-08",
+          "current": false,
+          "leagueId": 54
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-22",
+          "current": false,
+          "leagueId": 54
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 54
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 54
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": true,
+          "leagueId": 54
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "EFL Trophy",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/46.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2025,
+          "start": "2025-08-26",
+          "end": "2026-04-12",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2011,
+          "start": "2011-08-30",
+          "end": "2012-03-25",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2012,
+          "start": "2012-09-04",
+          "end": "2013-04-07",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2013,
+          "start": "2013-09-03",
+          "end": "2014-03-30",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2014,
+          "start": "2014-09-02",
+          "end": "2015-03-22",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2015,
+          "start": "2015-09-01",
+          "end": "2016-04-03",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-30",
+          "end": "2017-04-02",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-15",
+          "end": "2018-04-08",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-07",
+          "end": "2019-03-31",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-06",
+          "end": "2020-04-05",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-01",
+          "end": "2021-03-14",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-24",
+          "end": "2022-04-03",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-30",
+          "end": "2023-04-02",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-22",
+          "end": "2024-04-07",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-20",
+          "end": "2025-04-13",
+          "current": false,
+          "leagueId": 46
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 46
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "name": "U18 Premier League - South",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/696.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2020,
+          "start": "2020-09-12",
+          "end": "2021-05-15",
+          "current": false,
+          "leagueId": 696
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-05-07",
+          "current": false,
+          "leagueId": 696
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-13",
+          "end": "2023-04-29",
+          "current": false,
+          "leagueId": 696
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-17",
+          "end": "2025-05-03",
+          "current": false,
+          "leagueId": 696
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-12",
+          "end": "2024-05-11",
+          "current": false,
+          "leagueId": 696
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 696
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-16",
+          "end": "2026-05-09",
+          "current": false,
+          "leagueId": 696
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "National League - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/49.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2018,
+          "start": "2019-05-01",
+          "end": "2019-05-11",
+          "current": true,
+          "leagueId": 49
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Premier League",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/39.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 1888,
+          "start": "1888-09-08",
+          "end": "1889-04-20",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1889,
+          "start": "1889-09-07",
+          "end": "1890-03-31",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1890,
+          "start": "1890-09-06",
+          "end": "1891-04-18",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1891,
+          "start": "1891-09-05",
+          "end": "1892-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1892,
+          "start": "1892-09-03",
+          "end": "1893-04-17",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1893,
+          "start": "1893-09-02",
+          "end": "1894-04-23",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1894,
+          "start": "1894-09-01",
+          "end": "1895-04-24",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1895,
+          "start": "1895-09-02",
+          "end": "1896-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1896,
+          "start": "1896-09-01",
+          "end": "1897-04-26",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1897,
+          "start": "1897-09-01",
+          "end": "1898-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1898,
+          "start": "1898-09-01",
+          "end": "1899-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1899,
+          "start": "1899-09-02",
+          "end": "1900-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1900,
+          "start": "1900-09-01",
+          "end": "1901-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1901,
+          "start": "1901-09-02",
+          "end": "1902-04-28",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1902,
+          "start": "1902-09-01",
+          "end": "1903-04-27",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1903,
+          "start": "1903-09-01",
+          "end": "1904-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1904,
+          "start": "1904-09-01",
+          "end": "1905-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1905,
+          "start": "1905-09-02",
+          "end": "1906-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1906,
+          "start": "1906-09-01",
+          "end": "1907-04-27",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1907,
+          "start": "1907-09-02",
+          "end": "1908-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1908,
+          "start": "1908-09-01",
+          "end": "1909-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1909,
+          "start": "1909-09-01",
+          "end": "1910-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1910,
+          "start": "1910-09-01",
+          "end": "1911-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1911,
+          "start": "1911-09-02",
+          "end": "1912-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1912,
+          "start": "1912-09-02",
+          "end": "1913-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1913,
+          "start": "1913-09-01",
+          "end": "1914-04-27",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1914,
+          "start": "1914-09-01",
+          "end": "1915-04-28",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1919,
+          "start": "1919-08-30",
+          "end": "1920-05-01",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1920,
+          "start": "1920-08-28",
+          "end": "1921-05-07",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1921,
+          "start": "1921-08-27",
+          "end": "1922-05-06",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1922,
+          "start": "1922-08-26",
+          "end": "1923-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1923,
+          "start": "1923-08-25",
+          "end": "1924-05-03",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1924,
+          "start": "1924-08-30",
+          "end": "1925-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1925,
+          "start": "1925-08-29",
+          "end": "1926-05-01",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1926,
+          "start": "1926-08-28",
+          "end": "1927-05-07",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1927,
+          "start": "1927-08-27",
+          "end": "1928-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1928,
+          "start": "1928-08-25",
+          "end": "1929-05-04",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1929,
+          "start": "1929-08-31",
+          "end": "1930-05-03",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1930,
+          "start": "1930-08-30",
+          "end": "1931-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1931,
+          "start": "1931-08-29",
+          "end": "1932-05-07",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1932,
+          "start": "1932-08-27",
+          "end": "1933-05-06",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1933,
+          "start": "1933-08-26",
+          "end": "1934-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1934,
+          "start": "1934-08-25",
+          "end": "1935-05-04",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1935,
+          "start": "1935-08-31",
+          "end": "1936-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1936,
+          "start": "1936-08-29",
+          "end": "1937-05-01",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1937,
+          "start": "1937-08-28",
+          "end": "1938-05-07",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1938,
+          "start": "1938-08-27",
+          "end": "1939-05-06",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1946,
+          "start": "1946-08-31",
+          "end": "1947-06-14",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1947,
+          "start": "1947-08-23",
+          "end": "1948-05-01",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1948,
+          "start": "1948-08-21",
+          "end": "1949-05-07",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1949,
+          "start": "1949-08-20",
+          "end": "1950-05-06",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1950,
+          "start": "1950-08-19",
+          "end": "1951-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1951,
+          "start": "1951-08-18",
+          "end": "1952-05-03",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1952,
+          "start": "1952-08-23",
+          "end": "1953-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1953,
+          "start": "1953-08-19",
+          "end": "1954-04-26",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1954,
+          "start": "1954-08-21",
+          "end": "1955-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1955,
+          "start": "1955-08-20",
+          "end": "1956-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1956,
+          "start": "1956-08-18",
+          "end": "1957-05-01",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1957,
+          "start": "1957-08-24",
+          "end": "1958-04-30",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1958,
+          "start": "1958-08-23",
+          "end": "1959-05-04",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1959,
+          "start": "1959-08-22",
+          "end": "1960-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1960,
+          "start": "1960-08-20",
+          "end": "1961-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1961,
+          "start": "1961-08-19",
+          "end": "1962-05-01",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1962,
+          "start": "1962-08-18",
+          "end": "1963-05-21",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1963,
+          "start": "1963-08-24",
+          "end": "1964-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1964,
+          "start": "1964-08-22",
+          "end": "1965-04-28",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1965,
+          "start": "1965-08-21",
+          "end": "1966-05-19",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1966,
+          "start": "1966-08-20",
+          "end": "1967-05-16",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1967,
+          "start": "1967-08-19",
+          "end": "1968-05-21",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1968,
+          "start": "1968-08-10",
+          "end": "1969-05-17",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1969,
+          "start": "1969-08-09",
+          "end": "1970-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1970,
+          "start": "1970-08-15",
+          "end": "1971-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1971,
+          "start": "1971-08-14",
+          "end": "1972-05-11",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1972,
+          "start": "1972-08-12",
+          "end": "1973-05-09",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1973,
+          "start": "1973-08-25",
+          "end": "1974-05-11",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1974,
+          "start": "1974-08-17",
+          "end": "1975-04-29",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1975,
+          "start": "1975-08-16",
+          "end": "1976-05-04",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1976,
+          "start": "1976-08-21",
+          "end": "1977-05-24",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1977,
+          "start": "1977-08-20",
+          "end": "1978-05-09",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1978,
+          "start": "1978-08-19",
+          "end": "1979-05-18",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1979,
+          "start": "1979-08-18",
+          "end": "1980-05-19",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1980,
+          "start": "1980-08-16",
+          "end": "1981-05-19",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1981,
+          "start": "1981-08-29",
+          "end": "1982-05-21",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1982,
+          "start": "1982-08-28",
+          "end": "1983-05-14",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1983,
+          "start": "1983-08-27",
+          "end": "1984-05-17",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1984,
+          "start": "1984-08-25",
+          "end": "1985-05-28",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1985,
+          "start": "1985-08-17",
+          "end": "1986-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1986,
+          "start": "1986-08-23",
+          "end": "1987-05-11",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1987,
+          "start": "1987-08-15",
+          "end": "1988-05-15",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1988,
+          "start": "1988-08-27",
+          "end": "1989-05-26",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1989,
+          "start": "1989-08-19",
+          "end": "1990-05-05",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1990,
+          "start": "1990-08-25",
+          "end": "1991-05-20",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 1991,
+          "start": "1991-08-17",
+          "end": "1992-05-02",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2010,
+          "start": "2010-08-14",
+          "end": "2011-05-17",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2011,
+          "start": "2011-08-13",
+          "end": "2012-05-13",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-18",
+          "end": "2013-05-19",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-17",
+          "end": "2014-05-11",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-16",
+          "end": "2015-05-24",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-08",
+          "end": "2016-05-17",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-13",
+          "end": "2017-05-21",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-11",
+          "end": "2018-05-13",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-10",
+          "end": "2019-05-12",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-09",
+          "end": "2020-07-26",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-12",
+          "end": "2021-05-23",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-13",
+          "end": "2022-05-22",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-05",
+          "end": "2023-05-28",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-11",
+          "end": "2024-05-19",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-16",
+          "end": "2025-05-25",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-15",
+          "end": "2026-05-24",
+          "current": false,
+          "leagueId": 39
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 39
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "FA Trophy",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/47.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2011,
+          "start": "2011-10-07",
+          "end": "2012-05-12",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2012,
+          "start": "2012-09-15",
+          "end": "2013-03-24",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2013,
+          "start": "2013-10-04",
+          "end": "2014-03-23",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2014,
+          "start": "2014-10-17",
+          "end": "2015-03-29",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2015,
+          "start": "2015-10-02",
+          "end": "2016-05-22",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2016,
+          "start": "2016-10-08",
+          "end": "2017-05-21",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2017,
+          "start": "2017-10-07",
+          "end": "2018-05-20",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2018,
+          "start": "2018-10-12",
+          "end": "2019-05-19",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2019,
+          "start": "2019-09-28",
+          "end": "2020-03-28",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-26",
+          "end": "2021-05-22",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2021,
+          "start": "2021-09-25",
+          "end": "2022-05-22",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2022,
+          "start": "2022-09-12",
+          "end": "2023-05-21",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2023,
+          "start": "2023-09-08",
+          "end": "2024-05-11",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-24",
+          "end": "2025-05-11",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-22",
+          "end": "2026-03-28",
+          "current": false,
+          "leagueId": 47
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 47
+        }
+      ]
+    },
+    {
+      "id": 931,
+      "name": "Non League Premier - Southern Central",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/931.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2022-08-06",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 931
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-26",
+          "current": false,
+          "leagueId": 931
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 931
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 931
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 931
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "League Cup",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/48.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2011,
+          "start": "2011-07-29",
+          "end": "2012-02-26",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-11",
+          "end": "2013-02-24",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-05",
+          "end": "2014-03-02",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-11",
+          "end": "2015-03-01",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-11",
+          "end": "2016-02-28",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-09",
+          "end": "2017-02-26",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-08",
+          "end": "2018-02-25",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-14",
+          "end": "2019-02-24",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-06",
+          "end": "2020-03-01",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2020,
+          "start": "2020-08-29",
+          "end": "2021-04-25",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2021,
+          "start": "2021-07-31",
+          "end": "2022-02-27",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-08",
+          "end": "2024-02-25",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-13",
+          "end": "2025-03-16",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-02",
+          "end": "2023-02-26",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2025,
+          "start": "2025-07-29",
+          "end": "2026-03-22",
+          "current": false,
+          "leagueId": 48
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 48
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "League Two",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2004,
+          "start": "2004-01-01",
+          "end": "2004-12-29",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2005,
+          "start": "2005-01-02",
+          "end": "2005-12-31",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2006,
+          "start": "2006-01-01",
+          "end": "2006-12-30",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2007,
+          "start": "2007-01-01",
+          "end": "2007-12-29",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2008,
+          "start": "2008-01-03",
+          "end": "2008-12-28",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2009,
+          "start": "2009-01-02",
+          "end": "2009-12-28",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2011,
+          "start": "2011-08-06",
+          "end": "2012-05-27",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-18",
+          "end": "2013-05-18",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-03",
+          "end": "2014-05-26",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-09",
+          "end": "2015-05-23",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-08",
+          "end": "2016-05-30",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-06",
+          "end": "2017-05-28",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-05",
+          "end": "2018-05-28",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-04",
+          "end": "2019-05-25",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-03",
+          "end": "2020-06-29",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-12",
+          "end": "2021-05-31",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-07",
+          "end": "2022-05-28",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2022,
+          "start": "2022-07-30",
+          "end": "2023-05-28",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-05-19",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-09",
+          "end": "2025-05-26",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-02",
+          "end": "2026-05-02",
+          "current": false,
+          "leagueId": 42
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 42
+        }
+      ]
+    },
+    {
+      "id": 670,
+      "name": "Community Shield Women",
+      "type": "Cup",
+      "logo": "https://images.kickoffapi.com/images/logos/670.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2020,
+          "start": "2020-08-29",
+          "end": "2020-08-29",
+          "current": true,
+          "leagueId": 670
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Community Shield",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/528.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2012,
+          "start": "2012-08-12",
+          "end": "2012-08-12",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-11",
+          "end": "2013-08-11",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-10",
+          "end": "2014-08-10",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-02",
+          "end": "2015-08-02",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-07",
+          "end": "2016-08-07",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-06",
+          "end": "2017-08-06",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-05",
+          "end": "2018-08-05",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-04",
+          "end": "2019-08-04",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2020,
+          "start": "2020-08-29",
+          "end": "2020-08-29",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-07",
+          "end": "2021-08-07",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2022,
+          "start": "2022-07-31",
+          "end": "2022-07-31",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-06",
+          "end": "2023-08-06",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2024-08-10",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-10",
+          "end": "2025-08-10",
+          "current": false,
+          "leagueId": 528
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 528
+        }
+      ]
+    },
+    {
+      "id": 994,
+      "name": "Non League Premier - Northern - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/994.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-04-25",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 994
+        },
+        {
+          "year": 2023,
+          "start": "2024-04-30",
+          "end": "2024-05-06",
+          "current": false,
+          "leagueId": 994
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-29",
+          "end": "2025-05-05",
+          "current": true,
+          "leagueId": 994
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "name": "Non League Premier - Southern Central - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/996.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-04-26",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 996
+        },
+        {
+          "year": 2023,
+          "start": "2024-05-01",
+          "end": "2024-05-06",
+          "current": false,
+          "leagueId": 996
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-30",
+          "end": "2025-05-05",
+          "current": true,
+          "leagueId": 996
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Non League Premier - Southern South",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/60.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2019,
+          "start": "2019-08-10",
+          "end": "2020-04-25",
+          "current": false,
+          "leagueId": 60
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-19",
+          "end": "2021-05-08",
+          "current": false,
+          "leagueId": 60
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-14",
+          "end": "2022-04-23",
+          "current": false,
+          "leagueId": 60
+        },
+        {
+          "year": 2022,
+          "start": "2022-08-06",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 60
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-10",
+          "end": "2025-04-30",
+          "current": false,
+          "leagueId": 60
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-05",
+          "end": "2024-04-27",
+          "current": false,
+          "leagueId": 60
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 60
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-09",
+          "end": "2026-04-25",
+          "current": false,
+          "leagueId": 60
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "name": "Non League Premier - Southern South - Play-offs",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/995.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2022,
+          "start": "2023-04-26",
+          "end": "2023-05-01",
+          "current": false,
+          "leagueId": 995
+        },
+        {
+          "year": 2023,
+          "start": "2024-05-01",
+          "end": "2024-05-06",
+          "current": false,
+          "leagueId": 995
+        },
+        {
+          "year": 2024,
+          "start": "2025-04-30",
+          "end": "2025-05-05",
+          "current": true,
+          "leagueId": 995
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "FA WSL",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/44.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2016,
+          "start": "2017-04-22",
+          "end": "2017-06-03",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2017,
+          "start": "2017-09-22",
+          "end": "2018-05-20",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2018,
+          "start": "2018-09-09",
+          "end": "2019-05-11",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2019,
+          "start": "2019-09-07",
+          "end": "2020-05-15",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-05",
+          "end": "2021-05-09",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2021,
+          "start": "2021-09-03",
+          "end": "2022-05-08",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2022,
+          "start": "2022-09-11",
+          "end": "2023-05-28",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2023,
+          "start": "2023-10-01",
+          "end": "2024-05-18",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2024,
+          "start": "2024-09-22",
+          "end": "2025-05-11",
+          "current": false,
+          "leagueId": 44
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 44
+        },
+        {
+          "year": 2025,
+          "start": "2025-09-05",
+          "end": "2026-05-16",
+          "current": false,
+          "leagueId": 44
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Championship",
+      "type": "League",
+      "logo": "https://images.kickoffapi.com/images/logos/40.png?format=webp",
+      "countryName": "England",
+      "seasons": [
+        {
+          "year": 2004,
+          "start": "2004-01-01",
+          "end": "2004-12-28",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2005,
+          "start": "2005-01-02",
+          "end": "2005-12-31",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2006,
+          "start": "2006-01-01",
+          "end": "2006-12-30",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2007,
+          "start": "2007-01-01",
+          "end": "2007-12-30",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2008,
+          "start": "2008-01-09",
+          "end": "2008-12-29",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2009,
+          "start": "2009-01-08",
+          "end": "2009-12-28",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2011,
+          "start": "2011-08-05",
+          "end": "2012-05-19",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2012,
+          "start": "2012-08-17",
+          "end": "2013-05-27",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2013,
+          "start": "2013-08-03",
+          "end": "2014-05-24",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2014,
+          "start": "2014-08-08",
+          "end": "2015-05-25",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2015,
+          "start": "2015-08-07",
+          "end": "2016-05-28",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2016,
+          "start": "2016-08-05",
+          "end": "2017-05-29",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2017,
+          "start": "2017-08-04",
+          "end": "2018-05-26",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2018,
+          "start": "2018-08-03",
+          "end": "2019-05-27",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2019,
+          "start": "2019-08-02",
+          "end": "2020-08-04",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2020,
+          "start": "2020-09-11",
+          "end": "2021-05-29",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2021,
+          "start": "2021-08-06",
+          "end": "2022-05-29",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2022,
+          "start": "2022-07-29",
+          "end": "2023-05-27",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2023,
+          "start": "2023-08-04",
+          "end": "2024-05-26",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2024,
+          "start": "2024-08-09",
+          "end": "2025-05-23",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2025,
+          "start": "2025-08-08",
+          "end": "2026-05-02",
+          "current": false,
+          "leagueId": 40
+        },
+        {
+          "year": 2026,
+          "start": "2026-01-01",
+          "end": "2026-12-31",
+          "current": true,
+          "leagueId": 40
+        }
+      ]
+    }
+  ]
+}

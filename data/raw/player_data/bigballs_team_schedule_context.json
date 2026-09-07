@@ -1,0 +1,23 @@
+{
+  "error": {
+    "code": "forbidden",
+    "message": "Access to schedule context requires the Edge plan or higher."
+  },
+  "suggested_fix": "Edge is $149/month and unlocks model-ready rest and fatigue features — days_rest, back-to-back flags, games in the last 7 days, and last-5 form — computed per team for any date. Docs: https://bigballsdata.com/docs/endpoints · Start: https://bigballsdata.com/dashboard/billing?plan=edge",
+  "docs_url": "https://bigballsdata.com/docs/endpoints",
+  "support": {
+    "discord": "https://discord.gg/H2WJBQurbq",
+    "email": "support@bigballsdata.com"
+  },
+  "meta": {
+    "request_id": "29fa0aba-a0f9-44a8-ba72-18fbad49163e",
+    "timestamp": "2026-09-07T06:53:25.965Z",
+    "upgrade_path": {
+      "current_tier": "free",
+      "recommended_tier": "edge",
+      "price": "$149/month",
+      "daily_limit": 100000,
+      "url": "https://bigballsdata.com/dashboard/billing?plan=edge"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "error": {
+    "code": "bad_request",
+    "message": "Historical season data not loaded. Available: 2025-26 (2025)."
+  },
+  "docs_url": "https://bigballsdata.com/docs/endpoints",
+  "support": {
+    "discord": "https://discord.gg/H2WJBQurbq",
+    "email": "support@bigballsdata.com"
+  },
+  "meta": {
+    "request_id": "76be5419-a9f0-4848-a0bd-ff7d850850c3",
+    "timestamp": "2026-09-07T06:53:26.599Z"
+  }
+}

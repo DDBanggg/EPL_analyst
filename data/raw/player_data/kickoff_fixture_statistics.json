@@ -1,0 +1,690 @@
+{
+  "get": "statistics",
+  "results": 36,
+  "response": [
+    {
+      "id": 9116334,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Shots on Goal",
+      "value": "6",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116335,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Shots off Goal",
+      "value": "6",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116336,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Total Shots",
+      "value": "20",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116337,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Blocked Shots",
+      "value": "8",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116338,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Shots insidebox",
+      "value": "10",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116339,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Shots outsidebox",
+      "value": "10",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116340,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Fouls",
+      "value": "10",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116341,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Corner Kicks",
+      "value": "8",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116342,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Offsides",
+      "value": "5",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116343,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Ball Possession",
+      "value": "65%",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116344,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Yellow Cards",
+      "value": "1",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116345,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Red Cards",
+      "value": null,
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116346,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Goalkeeper Saves",
+      "value": "1",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116347,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Total passes",
+      "value": "613",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116348,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Passes accurate",
+      "value": "561",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116349,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "Passes %",
+      "value": "92%",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116350,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "expected_goals",
+      "value": "1.80",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116351,
+      "fixtureId": 1557367,
+      "teamId": 42,
+      "type": "goals_prevented",
+      "value": "-0.38",
+      "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+        "colors": null,
+        "venueId": 494,
+        "squadSynced": false
+      }
+    },
+    {
+      "id": 9116352,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Shots on Goal",
+      "value": "1",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116353,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Shots off Goal",
+      "value": "2",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116354,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Total Shots",
+      "value": "4",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116355,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Blocked Shots",
+      "value": "1",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116356,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Shots insidebox",
+      "value": "1",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116357,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Shots outsidebox",
+      "value": "3",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116358,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Fouls",
+      "value": "13",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116359,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Corner Kicks",
+      "value": "2",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116360,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Offsides",
+      "value": "0",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116361,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Ball Possession",
+      "value": "35%",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116362,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Yellow Cards",
+      "value": "1",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116363,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Red Cards",
+      "value": null,
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116364,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Goalkeeper Saves",
+      "value": "2",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116365,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Total passes",
+      "value": "337",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116366,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Passes accurate",
+      "value": "265",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116367,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "Passes %",
+      "value": "79%",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116368,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "expected_goals",
+      "value": "0.28",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    },
+    {
+      "id": 9116369,
+      "fixtureId": 1557367,
+      "teamId": 1346,
+      "type": "goals_prevented",
+      "value": "-0.38",
+      "team": {
+        "id": 1346,
+        "name": "Coventry",
+        "code": null,
+        "countryName": "England",
+        "founded": null,
+        "national": false,
+        "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+        "colors": null,
+        "venueId": 11896,
+        "squadSynced": true
+      }
+    }
+  ]
+}

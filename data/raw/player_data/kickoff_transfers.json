@@ -1,0 +1,265 @@
+{
+  "get": "transfers",
+  "results": 13,
+  "response": [
+    {
+      "id": 1601,
+      "playerId": 14,
+      "date": "2026-06-29T00:00:00.000Z",
+      "type": "Free agent",
+      "teamInId": null,
+      "teamOutId": 169,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/14.png?format=webp"
+      }
+    },
+    {
+      "id": 1596,
+      "playerId": 14,
+      "date": "2024-08-30T00:00:00.000Z",
+      "type": "Free",
+      "teamInId": 169,
+      "teamOutId": 51,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/14.png?format=webp"
+      }
+    },
+    {
+      "id": 1597,
+      "playerId": 14,
+      "date": "2024-07-01T00:00:00.000Z",
+      "type": "N/A",
+      "teamInId": 51,
+      "teamOutId": 172,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/14.png?format=webp"
+      }
+    },
+    {
+      "id": 1598,
+      "playerId": 14,
+      "date": "2024-02-01T00:00:00.000Z",
+      "type": "Loan",
+      "teamInId": 172,
+      "teamOutId": 51,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/14.png?format=webp"
+      }
+    },
+    {
+      "id": 1599,
+      "playerId": 14,
+      "date": "2023-07-01T00:00:00.000Z",
+      "type": "Free",
+      "teamInId": 51,
+      "teamOutId": 165,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/14.png?format=webp"
+      }
+    },
+    {
+      "id": 1600,
+      "playerId": 14,
+      "date": "2017-07-01T00:00:00.000Z",
+      "type": "€ 12M",
+      "teamInId": 165,
+      "teamOutId": 163,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "birth": null,
+        "nationality": null,
+        "height": null,
+        "weight": null,
+        "injured": null,
+        "photo": "https://images.kickoffapi.com/images/players/14.png?format=webp"
+      }
+    },
+    {
+      "id": 1000111767,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2024-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": 51,
+          "name": "Brighton & Hove Albion F.C."
+        },
+        "in": {
+          "id": 169,
+          "name": "Eintracht Frankfurt"
+        }
+      }
+    },
+    {
+      "id": 1000111768,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2023-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": null,
+          "name": "Germany men's national association football team"
+        },
+        "in": {
+          "id": 51,
+          "name": "Brighton & Hove Albion F.C."
+        }
+      }
+    },
+    {
+      "id": 1000111769,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2020-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": 165,
+          "name": "Borussia Dortmund"
+        },
+        "in": {
+          "id": null,
+          "name": "Germany men's national association football team"
+        }
+      }
+    },
+    {
+      "id": 1000111770,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2017-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": null,
+          "name": "Germany national under-21 football team"
+        },
+        "in": {
+          "id": 165,
+          "name": "Borussia Dortmund"
+        }
+      }
+    },
+    {
+      "id": 1000111771,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2016-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": null,
+          "name": "Germany national under-19 football team"
+        },
+        "in": {
+          "id": null,
+          "name": "Germany national under-21 football team"
+        }
+      }
+    },
+    {
+      "id": 1000111772,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2014-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": 163,
+          "name": "Borussia Mönchengladbach"
+        },
+        "in": {
+          "id": null,
+          "name": "Germany national under-18 football team"
+        }
+      }
+    },
+    {
+      "id": 1000111773,
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud"
+      },
+      "date": "2014-01-01T00:00:00.000Z",
+      "type": null,
+      "teams": {
+        "out": {
+          "id": null,
+          "name": "Germany national under-18 football team"
+        },
+        "in": {
+          "id": null,
+          "name": "Germany national under-19 football team"
+        }
+      }
+    }
+  ]
+}

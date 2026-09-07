@@ -1,0 +1,201 @@
+{
+  "get": "predictions",
+  "results": 1,
+  "response": [
+    {
+      "id": 248154,
+      "fixtureId": 1557367,
+      "predictions": {
+        "goals": {
+          "away": null,
+          "home": null
+        },
+        "advice": "Double chance : Arsenal or draw",
+        "winner": {
+          "id": 42,
+          "name": "Arsenal",
+          "comment": "Win or draw"
+        },
+        "percent": {
+          "away": "0%",
+          "draw": "50%",
+          "home": "50%"
+        },
+        "under_over": null,
+        "win_or_draw": true
+      },
+      "comparison": {
+        "att": {
+          "away": "0%",
+          "home": "0%"
+        },
+        "def": {
+          "away": "0%",
+          "home": "0%"
+        },
+        "h2h": {
+          "away": "0%",
+          "home": "100%"
+        },
+        "form": {
+          "away": "0%",
+          "home": "0%"
+        },
+        "goals": {
+          "away": "9%",
+          "home": "91%"
+        },
+        "total": {
+          "away": "9.0%",
+          "home": "91.0%"
+        },
+        "poisson_distribution": {
+          "away": "0%",
+          "home": "0%"
+        }
+      },
+      "h2h": [
+        {
+          "goals": {
+            "away": 0,
+            "home": 4
+          },
+          "score": {
+            "penalty": {
+              "away": null,
+              "home": null
+            },
+            "fulltime": {
+              "away": 0,
+              "home": 4
+            },
+            "halftime": {
+              "away": 0,
+              "home": 2
+            },
+            "extratime": {
+              "away": null,
+              "home": null
+            }
+          },
+          "teams": {
+            "away": {
+              "id": 1346,
+              "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+              "name": "Coventry",
+              "winner": false
+            },
+            "home": {
+              "id": 42,
+              "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+              "name": "Arsenal",
+              "winner": true
+            }
+          },
+          "league": {
+            "id": 45,
+            "flag": "https://images.kickoffapi.com/images/flags/gb-eng.svg?format=webp",
+            "logo": "https://images.kickoffapi.com/images/logos/45.png?format=webp",
+            "name": "FA Cup",
+            "round": "4th Round",
+            "season": 2013,
+            "country": "England",
+            "standings": false
+          },
+          "fixture": {
+            "id": 450085,
+            "date": "2014-01-24T19:45:00+00:00",
+            "venue": {
+              "id": 494,
+              "city": "London",
+              "name": "Emirates Stadium"
+            },
+            "status": {
+              "long": "Match Finished",
+              "extra": null,
+              "short": "FT",
+              "elapsed": 90
+            },
+            "periods": {
+              "first": 1390592700,
+              "second": 1390596300
+            },
+            "referee": null,
+            "timezone": "UTC",
+            "timestamp": 1390592700
+          }
+        },
+        {
+          "goals": {
+            "away": 1,
+            "home": 6
+          },
+          "score": {
+            "penalty": {
+              "away": null,
+              "home": null
+            },
+            "fulltime": {
+              "away": 1,
+              "home": 6
+            },
+            "halftime": {
+              "away": 0,
+              "home": 1
+            },
+            "extratime": {
+              "away": null,
+              "home": null
+            }
+          },
+          "teams": {
+            "away": {
+              "id": 1346,
+              "logo": "https://images.kickoffapi.com/images/logos/1346.png?format=webp",
+              "name": "Coventry",
+              "winner": false
+            },
+            "home": {
+              "id": 42,
+              "logo": "https://images.kickoffapi.com/images/logos/42.png?format=webp",
+              "name": "Arsenal",
+              "winner": true
+            }
+          },
+          "league": {
+            "id": 48,
+            "flag": "https://images.kickoffapi.com/images/flags/gb-eng.svg?format=webp",
+            "logo": "https://images.kickoffapi.com/images/logos/48.png?format=webp",
+            "name": "League Cup",
+            "round": "3rd Round",
+            "season": 2012,
+            "country": "England",
+            "standings": false
+          },
+          "fixture": {
+            "id": 455533,
+            "date": "2012-09-26T18:45:00+00:00",
+            "venue": {
+              "id": null,
+              "city": null,
+              "name": "Emirates Stadium"
+            },
+            "status": {
+              "long": "Match Finished",
+              "extra": null,
+              "short": "FT",
+              "elapsed": 90
+            },
+            "periods": {
+              "first": 1348685100,
+              "second": 1348688700
+            },
+            "referee": null,
+            "timezone": "UTC",
+            "timestamp": 1348685100
+          }
+        }
+      ]
+    }
+  ]
+}

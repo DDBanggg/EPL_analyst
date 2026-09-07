@@ -1,0 +1,150 @@
+{
+  "get": "trophies",
+  "results": 18,
+  "response": [
+    {
+      "id": 187,
+      "playerId": 14,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2023/2024",
+      "place": "2nd Place"
+    },
+    {
+      "id": 188,
+      "playerId": 14,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2022/2023",
+      "place": "2nd Place"
+    },
+    {
+      "id": 189,
+      "playerId": 14,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2021/2022",
+      "place": "2nd Place"
+    },
+    {
+      "id": 190,
+      "playerId": 14,
+      "league": "Super Cup",
+      "country": "Germany",
+      "season": "2021",
+      "place": "2nd Place"
+    },
+    {
+      "id": 191,
+      "playerId": 14,
+      "league": "DFB Pokal",
+      "country": "Germany",
+      "season": "2020/2021",
+      "place": "Winner"
+    },
+    {
+      "id": 192,
+      "playerId": 14,
+      "league": "Super Cup",
+      "country": "Germany",
+      "season": "2020",
+      "place": "2nd Place"
+    },
+    {
+      "id": 193,
+      "playerId": 14,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2019/2020",
+      "place": "2nd Place"
+    },
+    {
+      "id": 194,
+      "playerId": 14,
+      "league": "Super Cup",
+      "country": "Germany",
+      "season": "2019",
+      "place": "Winner"
+    },
+    {
+      "id": 195,
+      "playerId": 14,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2018/2019",
+      "place": "2nd Place"
+    },
+    {
+      "id": 196,
+      "playerId": 14,
+      "league": "UEFA U21 Championship",
+      "country": "Europe",
+      "season": "2017/2019",
+      "place": "2nd Place"
+    },
+    {
+      "id": 197,
+      "playerId": 14,
+      "league": "Super Cup",
+      "country": "Germany",
+      "season": "2017",
+      "place": "2nd Place"
+    },
+    {
+      "id": 198,
+      "playerId": 14,
+      "league": "UEFA U21 Championship",
+      "country": "Europe",
+      "season": "2015/2017",
+      "place": "Winner"
+    },
+    {
+      "id": 199,
+      "playerId": 14,
+      "league": "Super Cup",
+      "country": "Germany",
+      "season": null,
+      "place": "Winner"
+    },
+    {
+      "id": 200,
+      "playerId": 14,
+      "league": "Super Cup",
+      "country": "Germany",
+      "season": null,
+      "place": "2nd Place"
+    },
+    {
+      "id": 201,
+      "playerId": 14,
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": null,
+      "place": "2nd Place"
+    },
+    {
+      "id": 202,
+      "playerId": 14,
+      "league": "DFB Pokal",
+      "country": "Germany",
+      "season": null,
+      "place": "Winner"
+    },
+    {
+      "id": 203,
+      "playerId": 14,
+      "league": "UEFA U21 Championship",
+      "country": "Europe",
+      "season": null,
+      "place": "Winner"
+    },
+    {
+      "id": 204,
+      "playerId": 14,
+      "league": "UEFA U21 Championship",
+      "country": "Europe",
+      "season": null,
+      "place": "2nd Place"
+    }
+  ]
+}

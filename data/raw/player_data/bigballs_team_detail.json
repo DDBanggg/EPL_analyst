@@ -1,0 +1,18 @@
+{
+  "data": {
+    "stats": null
+  },
+  "meta": {
+    "source": "none",
+    "confidence": 0,
+    "cached": false,
+    "cache_age_ms": 0,
+    "request_id": "194d6702-5c06-4330-b3af-3949b2bf3822",
+    "fields_missing": [
+      "stats"
+    ],
+    "coverage": false,
+    "message": "No data available for this sport/league combination yet."
+  },
+  "error": null
+}

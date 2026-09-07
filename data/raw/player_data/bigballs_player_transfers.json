@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "date": "2025-08-21",
+      "from_club": "Bayer Leverkusen",
+      "to_club": "Bournemouth",
+      "type": "Transfer",
+      "fee": null
+    },
+    {
+      "date": "2025-08-19",
+      "from_club": "Bayer Leverkusen",
+      "to_club": "Bournemouth",
+      "type": "Transfer",
+      "fee": null
+    },
+    {
+      "date": "2021-08-26",
+      "from_club": "Toulouse",
+      "to_club": "Bayer Leverkusen",
+      "type": "N/A",
+      "fee": null
+    }
+  ],
+  "meta": {
+    "cached": true,
+    "cache_age_ms": 23148421
+  }
+}

@@ -1,0 +1,5257 @@
+{
+  "data": {
+    "players": {
+      "value": [
+        {
+          "id": "bb_player_46vjqlvzstot",
+          "sport": "football",
+          "full_name": "David Raya Martín",
+          "display_name": "Raya",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_xjtujmf4ai5z",
+          "sport": "football",
+          "full_name": "Kepa Arrizabalaga Revuelta",
+          "display_name": "Arrizabalaga",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_5msryrpgprs3",
+          "sport": "football",
+          "full_name": "Illan Meslier",
+          "display_name": "Meslier",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_ylliwyhg4fwc",
+          "sport": "football",
+          "full_name": "Gabriel dos Santos Magalhães",
+          "display_name": "Gabriel",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_i3xwqczhfiks",
+          "sport": "football",
+          "full_name": "Jurriën Timber",
+          "display_name": "J.Timber",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xcsicil4fbmg",
+          "sport": "football",
+          "full_name": "William Saliba",
+          "display_name": "Saliba",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_t3jon3vknrap",
+          "sport": "football",
+          "full_name": "Myles Lewis-Skelly",
+          "display_name": "Lewis-Skelly",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pn3bgpylgbtg",
+          "sport": "football",
+          "full_name": "Riccardo Calafiori",
+          "display_name": "Calafiori",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qgtckt5w2sfx",
+          "sport": "football",
+          "full_name": "Piero Hincapié",
+          "display_name": "Hincapie",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_hf5f4zwhbpsr",
+          "sport": "football",
+          "full_name": "Benjamin White",
+          "display_name": "White",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_mlhb5t7pemlb",
+          "sport": "football",
+          "full_name": "Cristhian Mosquera",
+          "display_name": "Mosquera",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_2sn4oov7ej6b",
+          "sport": "football",
+          "full_name": "Bukayo Saka",
+          "display_name": "Saka",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_4vw7ycs6vduv",
+          "sport": "football",
+          "full_name": "Declan Rice",
+          "display_name": "Rice",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ystvrgn6cirl",
+          "sport": "football",
+          "full_name": "Eberechi Eze",
+          "display_name": "Eze",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_i7v74wqev4fb",
+          "sport": "football",
+          "full_name": "Martin Ødegaard",
+          "display_name": "Ødegaard",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_nldnfgciaqnr",
+          "sport": "football",
+          "full_name": "Noni Madueke",
+          "display_name": "Madueke",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_rf3hiwivle6x",
+          "sport": "football",
+          "full_name": "Mikel Merino Zazón",
+          "display_name": "Merino",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5i6syl7prans",
+          "sport": "football",
+          "full_name": "Gabriel Martinelli Silva",
+          "display_name": "Martinelli",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_uswiwcijgjfg",
+          "sport": "football",
+          "full_name": "Martín Zubimendi Ibáñez",
+          "display_name": "Zubimendi",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qqwebyppmdyg",
+          "sport": "football",
+          "full_name": "Max Dowman",
+          "display_name": "Dowman",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_abfzk45dbdla",
+          "sport": "football",
+          "full_name": "Ethan Nwaneri",
+          "display_name": "Nwaneri",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_v5tgzfc7hktg",
+          "sport": "football",
+          "full_name": "Fábio Ferreira Vieira",
+          "display_name": "Fábio Vieira",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_6jo7w6zcxj4v",
+          "sport": "football",
+          "full_name": "Reiss Nelson",
+          "display_name": "Nelson",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xoovdjrfyjrb",
+          "sport": "football",
+          "full_name": "Viktor Gyökeres",
+          "display_name": "Gyökeres",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_otx6ens34m3x",
+          "sport": "football",
+          "full_name": "Kai Havertz",
+          "display_name": "Havertz",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_7tzuektxte23",
+          "sport": "football",
+          "full_name": "Gabriel Fernando de Jesus",
+          "display_name": "G.Jesus",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_syby53garvok",
+          "sport": "football",
+          "full_name": "Ezri Konsa Ngoyo",
+          "display_name": "Konsa",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_2eb7kqrgconl",
+          "sport": "football",
+          "full_name": "Bruno Guimarães Rodriguez Moura",
+          "display_name": "Bruno G.",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_b6344etnqmqm",
+          "sport": "football",
+          "full_name": "Christos Tzolis",
+          "display_name": "Tzolis",
+          "current_team_id": "bb_team_ystlemhszu5r",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_st6i5ikifry6",
+          "sport": "football",
+          "full_name": "Marco Bizot",
+          "display_name": "M.Bizot",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_m5kikzkufznj",
+          "sport": "football",
+          "full_name": "Lucas Digne",
+          "display_name": "Digne",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_edfo37cqaqlw",
+          "sport": "football",
+          "full_name": "Matty Cash",
+          "display_name": "Cash",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_an4yptcxn2p7",
+          "sport": "football",
+          "full_name": "Tyrone Mings",
+          "display_name": "Mings",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_hq3popyfaqiz",
+          "sport": "football",
+          "full_name": "Pau Torres",
+          "display_name": "Pau",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ny2q4tysya6z",
+          "sport": "football",
+          "full_name": "Lamare Bogarde",
+          "display_name": "Bogarde",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5vtytz4uzfn3",
+          "sport": "football",
+          "full_name": "Ian Maatsen",
+          "display_name": "Maatsen",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_flpve5dbnr5p",
+          "sport": "football",
+          "full_name": "Victor Lindelöf",
+          "display_name": "Lindelöf",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_lepxpqtveh3z",
+          "sport": "football",
+          "full_name": "Andrés García",
+          "display_name": "A.García",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zkzve7zp5wcn",
+          "sport": "football",
+          "full_name": "Kosta Nedeljkovic",
+          "display_name": "Nedeljkovic",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zozpyscv6cfp",
+          "sport": "football",
+          "full_name": "Emiliano Buendía Stati",
+          "display_name": "Buendía",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_sxiimfxw7rft",
+          "sport": "football",
+          "full_name": "Leon Bailey",
+          "display_name": "Bailey",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3zuc4hjlztzc",
+          "sport": "football",
+          "full_name": "John McGinn",
+          "display_name": "McGinn",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jhooanhekwcf",
+          "sport": "football",
+          "full_name": "Ross Barkley",
+          "display_name": "Barkley",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_s5r5wowtgkyc",
+          "sport": "football",
+          "full_name": "Boubacar Kamara",
+          "display_name": "Kamara",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_djlzfsvbxnrc",
+          "sport": "football",
+          "full_name": "Amadou Onana",
+          "display_name": "Onana",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_g24rd7b5wblt",
+          "sport": "football",
+          "full_name": "Samuel Iling-Junior",
+          "display_name": "Iling Jr",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_syqu54gcs4nz",
+          "sport": "football",
+          "full_name": "Bradley Burrowes",
+          "display_name": "Burrowes",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_usld4mu5tejv",
+          "sport": "football",
+          "full_name": "George Hemmings",
+          "display_name": "George Hemmings",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ebcstbts5bs2",
+          "sport": "football",
+          "full_name": "Alysson Edward Franco da Rocha dos Santos",
+          "display_name": "Alysson",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pemlivsiwxw3",
+          "sport": "football",
+          "full_name": "Johan Manzambi",
+          "display_name": "Manzambi",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qxowr23ujaqn",
+          "sport": "football",
+          "full_name": "Joao Gomes",
+          "display_name": "Gomes",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_wnus6aqhzjwt",
+          "sport": "football",
+          "full_name": "Ollie Watkins",
+          "display_name": "Watkins",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_p7udle3d2zd6",
+          "sport": "football",
+          "full_name": "Tammy Abraham",
+          "display_name": "Abraham",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_l2wvk65wbp5j",
+          "sport": "football",
+          "full_name": "Alejandro Garnacho Ferreyra",
+          "display_name": "Garnacho",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xtcmg7ts5fyq",
+          "sport": "football",
+          "full_name": "Nicolas Jackson",
+          "display_name": "N.Jackson",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_2mclkg2zsnb2",
+          "sport": "football",
+          "full_name": "Brian Madjo",
+          "display_name": "Madjo",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_kfhyhuegtwt3",
+          "sport": "football",
+          "full_name": "Matteo Ruggeri",
+          "display_name": "Ruggeri",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_np7sxhfr5mi5",
+          "sport": "football",
+          "full_name": "Zion Suzuki",
+          "display_name": "Suzuki",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_yv2cimizzkgi",
+          "sport": "football",
+          "full_name": "Triston Rowe",
+          "display_name": "Rowe",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_z6isvsem6drb",
+          "sport": "football",
+          "full_name": "Luka Lynch",
+          "display_name": "Lynch",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zfvafvyjsmop",
+          "sport": "football",
+          "full_name": "Aaron Wan-Bissaka",
+          "display_name": "Wan-Bissaka",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4eluvro4iavj",
+          "sport": "football",
+          "full_name": "Leon Goretzka",
+          "display_name": "Goretzka",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_luwmqrt5hicl",
+          "sport": "football",
+          "full_name": "Taylor Harwood-Bellis",
+          "display_name": "Harwood-Bellis",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_viglgalxgem4",
+          "sport": "football",
+          "full_name": "Ibrahim Mbaye",
+          "display_name": "Mbaye",
+          "current_team_id": "bb_team_heb3mkg2mlzi",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ate7p27aqs4y",
+          "sport": "football",
+          "full_name": "Đorđe Petrović",
+          "display_name": "Petrović",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_fcmm5befxst3",
+          "sport": "football",
+          "full_name": "Fraser Forster",
+          "display_name": "Forster",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_qsrojwjguglt",
+          "sport": "football",
+          "full_name": "Will Dennis",
+          "display_name": "Dennis",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_avlrrrijk25g",
+          "sport": "football",
+          "full_name": "James Hill",
+          "display_name": "Hill",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_hyoqeh6ng57j",
+          "sport": "football",
+          "full_name": "Adrien Truffert",
+          "display_name": "Truffert",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qccjugn3dnls",
+          "sport": "football",
+          "full_name": "Bafodé Diakité",
+          "display_name": "Diakité",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_swkmlue5bihg",
+          "sport": "football",
+          "full_name": "Veljko Milosavljevic",
+          "display_name": "Milosavljević",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fskgogntvgmb",
+          "sport": "football",
+          "full_name": "Adam Smith",
+          "display_name": "Smith",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_uyz7srddjbhd",
+          "sport": "football",
+          "full_name": "Julián Araujo Zúñiga",
+          "display_name": "J.Araujo",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_o3vzt4zpagqy",
+          "sport": "football",
+          "full_name": "Julio Soler Barreto",
+          "display_name": "Soler",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3qxlgvt5sede",
+          "sport": "football",
+          "full_name": "Rayan Vitor Simplício Rocha",
+          "display_name": "Rayan",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3zhjeszrjwdy",
+          "sport": "football",
+          "full_name": "Marcus Tavernier",
+          "display_name": "Tavernier",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_sxdlwkzoiibz",
+          "sport": "football",
+          "full_name": "Alex Scott",
+          "display_name": "Scott",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_fdmt5hopzlvz",
+          "sport": "football",
+          "full_name": "Justin Kluivert",
+          "display_name": "Kluivert",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_uoul3vxcsm6v",
+          "sport": "football",
+          "full_name": "Lewis Cook",
+          "display_name": "Cook",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_4dydjtm4zqjh",
+          "sport": "football",
+          "full_name": "Ben Gannon-Doak",
+          "display_name": "Gannon-Doak",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_k735issbf7tk",
+          "sport": "football",
+          "full_name": "Tyler Adams",
+          "display_name": "Adams",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_likvwscgswoq",
+          "sport": "football",
+          "full_name": "David Brooks",
+          "display_name": "Brooks",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pwmlmlmc6rjy",
+          "sport": "football",
+          "full_name": "Ryan Christie",
+          "display_name": "Christie",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5mw34qfmfc4v",
+          "sport": "football",
+          "full_name": "Alex Tóth",
+          "display_name": "Tóth.A",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qv3ykx7jkxrp",
+          "sport": "football",
+          "full_name": "Amine Adli",
+          "display_name": "Adli",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_f6fgumrhayzh",
+          "sport": "football",
+          "full_name": "Junior Kroupi",
+          "display_name": "Kroupi.Jr",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_tvuavtcjzto7",
+          "sport": "football",
+          "full_name": "Francisco Evanilson de Lima Barbosa",
+          "display_name": "Evanilson",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_r764sd6avjuu",
+          "sport": "football",
+          "full_name": "Enes Ünal",
+          "display_name": "Enes Ünal",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_grefbvg7xlz2",
+          "sport": "football",
+          "full_name": "Álvaro Rodríguez",
+          "display_name": "Rodríguez",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_35duhb5jbd33",
+          "sport": "football",
+          "full_name": "António João Pereira de Albuquerque Tavares da Silva",
+          "display_name": "Silva",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_vbvqugvy35i5",
+          "sport": "football",
+          "full_name": "Juanlu Sánchez",
+          "display_name": "Sanchez",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_lklpnnp4urwv",
+          "sport": "football",
+          "full_name": "Daniel Jebbison",
+          "display_name": "Jebbison",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_pvo7vuoke5gg",
+          "sport": "football",
+          "full_name": "Michele Di Gregorio",
+          "display_name": "Di Gregorio",
+          "current_team_id": "bb_team_qzp4oo7y2dwf",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_2yj3yj5xrgip",
+          "sport": "football",
+          "full_name": "Caoimhín Kelleher",
+          "display_name": "Kelleher",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_ci3ilayjgp6r",
+          "sport": "football",
+          "full_name": "Hákon Rafn Valdimarsson",
+          "display_name": "Valdimarsson",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_6gbu7rcueeyh",
+          "sport": "football",
+          "full_name": "Nathan Collins",
+          "display_name": "Collins",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_o34bvadk25le",
+          "sport": "football",
+          "full_name": "Sepp van den Berg",
+          "display_name": "Van den Berg",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_s2v3mlql3v6t",
+          "sport": "football",
+          "full_name": "Keane Lewis-Potter",
+          "display_name": "Lewis-Potter",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gxqv5vrmgfqv",
+          "sport": "football",
+          "full_name": "Kristoffer Ajer",
+          "display_name": "Ajer",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_djvcltxq6fjh",
+          "sport": "football",
+          "full_name": "Michael Kayode",
+          "display_name": "Kayode",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_gjd2jaotszeb",
+          "sport": "football",
+          "full_name": "Rico Henry",
+          "display_name": "Henry",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fsz4fwtbeuuh",
+          "sport": "football",
+          "full_name": "Aaron Hickey",
+          "display_name": "Hickey",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4ejejtosafsn",
+          "sport": "football",
+          "full_name": "Kim Ji-soo",
+          "display_name": "Ji-soo",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_uizep64anyl2",
+          "sport": "football",
+          "full_name": "Jannik Schuster",
+          "display_name": "Schuster",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_koolphggbqet",
+          "sport": "football",
+          "full_name": "Kevin Schade",
+          "display_name": "Schade",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xyv7ldwz5vpy",
+          "sport": "football",
+          "full_name": "Dango Ouattara",
+          "display_name": "O.Dango",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_uirkkzmnxwrj",
+          "sport": "football",
+          "full_name": "Mikkel Damsgaard",
+          "display_name": "Damsgaard",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3datlahky2li",
+          "sport": "football",
+          "full_name": "Mathias Jensen",
+          "display_name": "Jensen",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_2chwiggdxyud",
+          "sport": "football",
+          "full_name": "Vitaly Janelt",
+          "display_name": "Janelt",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_cdmtttcb4sgt",
+          "sport": "football",
+          "full_name": "Antoni Milambo",
+          "display_name": "Milambo",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dy33nzbufv7u",
+          "sport": "football",
+          "full_name": "Fábio Freitas Gouveia Carvalho",
+          "display_name": "Carvalho",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7r26idkhkfql",
+          "sport": "football",
+          "full_name": "Yehor Yarmoliuk",
+          "display_name": "Yarmoliuk",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hpusmr62tcc5",
+          "sport": "football",
+          "full_name": "Josh Dasilva",
+          "display_name": "Dasilva",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_eon74fwwoua3",
+          "sport": "football",
+          "full_name": "Jaidon Anthony",
+          "display_name": "Anthony",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_upldbqfwndwf",
+          "sport": "football",
+          "full_name": "Igor Thiago Nascimento Rodrigues",
+          "display_name": "Thiago",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_krej4gkdsnas",
+          "sport": "football",
+          "full_name": "Kaye Furo",
+          "display_name": "Furo",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_blmawln73huu",
+          "sport": "football",
+          "full_name": "Callum Wilson",
+          "display_name": "Wilson",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_al7tcfqjibxf",
+          "sport": "football",
+          "full_name": "Mamadou Sangaré",
+          "display_name": "M.Sangaré",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5hipbeathd2c",
+          "sport": "football",
+          "full_name": "El Hadji Malick Diouf",
+          "display_name": "Diouf",
+          "current_team_id": "bb_team_6clgd4ghpqt4",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_kx722q56ie2s",
+          "sport": "football",
+          "full_name": "Bart Verbruggen",
+          "display_name": "Verbruggen",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_cdnuouygoplj",
+          "sport": "football",
+          "full_name": "Jason Steele",
+          "display_name": "Steele",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_2gob3gkeku5t",
+          "sport": "football",
+          "full_name": "Ferdi Kadıoğlu",
+          "display_name": "F.Kadıoğlu",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_x3cjrsr5r7yh",
+          "sport": "football",
+          "full_name": "Olivier Boscagli",
+          "display_name": "Boscagli",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_h32n4y3dlycn",
+          "sport": "football",
+          "full_name": "Maxim De Cuyper",
+          "display_name": "De Cuyper",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_sfxtvfy4bxok",
+          "sport": "football",
+          "full_name": "Lewis Dunk",
+          "display_name": "Dunk",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_yqu47uh6jxja",
+          "sport": "football",
+          "full_name": "Diego Coppola",
+          "display_name": "Coppola",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ncbqn6h3pxgm",
+          "sport": "football",
+          "full_name": "Igor Julio dos Santos de Paulo",
+          "display_name": "Igor",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_nfuxap3rqz7i",
+          "sport": "football",
+          "full_name": "João Pedro Loureiro da Costa",
+          "display_name": "Costinha",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qmawjjc6nhbl",
+          "sport": "football",
+          "full_name": "Michael Svoboda",
+          "display_name": "Svoboda",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ps7pwum3m3r5",
+          "sport": "football",
+          "full_name": "Mitoma Kaoru",
+          "display_name": "Mitoma",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_p7v4efdgyz6z",
+          "sport": "football",
+          "full_name": "Yankuba Minteh",
+          "display_name": "Minteh",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_es3tdri3r45l",
+          "sport": "football",
+          "full_name": "Jack Hinshelwood",
+          "display_name": "Hinshelwood",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_nkhpn7bsphgo",
+          "sport": "football",
+          "full_name": "Pascal Groß",
+          "display_name": "Groß",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ukncfk7jizkr",
+          "sport": "football",
+          "full_name": "Georginio Rutter",
+          "display_name": "Georginio",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_cslvthj5d57o",
+          "sport": "football",
+          "full_name": "Matt O'Riley",
+          "display_name": "O'Riley",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yk5dbw7sez2g",
+          "sport": "football",
+          "full_name": "Diego Gómez Amarilla",
+          "display_name": "Gomez",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gektik4rscnw",
+          "sport": "football",
+          "full_name": "Facundo Buonanotte",
+          "display_name": "Buonanotte",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_igkny455pork",
+          "sport": "football",
+          "full_name": "Yasin Ayari",
+          "display_name": "Ayari",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_32lcf4uxtzjn",
+          "sport": "football",
+          "full_name": "Mats Wieffer",
+          "display_name": "Wieffer",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ejmqsblka7qs",
+          "sport": "football",
+          "full_name": "Harry Howell",
+          "display_name": "Howell",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_s73wpladnyh6",
+          "sport": "football",
+          "full_name": "Tom Watson",
+          "display_name": "Watson",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mm3y3wta6dke",
+          "sport": "football",
+          "full_name": "Nehemiah Oriola",
+          "display_name": "Oriola",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dipuk35tfex4",
+          "sport": "football",
+          "full_name": "Zadok Yohanna",
+          "display_name": "Yohanna",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_6ii7itm4xogh",
+          "sport": "football",
+          "full_name": "Stefanos Tzimas",
+          "display_name": "Tzimas",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_ettgvsirew2a",
+          "sport": "football",
+          "full_name": "Charalampos Kostoulas",
+          "display_name": "Kostoulas",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_nlvrtnabqc34",
+          "sport": "football",
+          "full_name": "Evan Ferguson",
+          "display_name": "Ferguson",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_waxgbwnpnjzo",
+          "sport": "football",
+          "full_name": "Pascal Struijk",
+          "display_name": "Struijk",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3ieojauboeek",
+          "sport": "football",
+          "full_name": "Luka Vušković",
+          "display_name": "Vuskovic",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xulbgs3wfs5w",
+          "sport": "football",
+          "full_name": "Promise David",
+          "display_name": "David",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_rokju2jo5y32",
+          "sport": "football",
+          "full_name": "Ibrahim Osman",
+          "display_name": "Osman",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_36bjwmuu3fmi",
+          "sport": "football",
+          "full_name": "Malick Yalcouyé",
+          "display_name": "Yalcouyé",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hleiveimcogn",
+          "sport": "football",
+          "full_name": "Jaouen Hadjam",
+          "display_name": "Hadjam",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_34lysckbzof2",
+          "sport": "football",
+          "full_name": "Amario Cozier-Duberry",
+          "display_name": "Cozier-Duberry",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_nfpa3mpjfodl",
+          "sport": "football",
+          "full_name": "José María Andrés Baixauli",
+          "display_name": "Andrés",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gnlc3akescwu",
+          "sport": "football",
+          "full_name": "Femi Azeez",
+          "display_name": "Azeez",
+          "current_team_id": "bb_team_2ezrsvcfhqzl",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3ei4dw2sqfmq",
+          "sport": "football",
+          "full_name": "Emiliano Martínez Romero",
+          "display_name": "Martinez",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_i7n4unzcg5ru",
+          "sport": "football",
+          "full_name": "Morgan Rogers",
+          "display_name": "Rogers",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pp6e4zqnu5uy",
+          "sport": "football",
+          "full_name": "Jordan Henderson",
+          "display_name": "Henderson",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ji5i7aeajkxn",
+          "sport": "football",
+          "full_name": "Danny Welbeck",
+          "display_name": "Welbeck",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_kus3buekbzqi",
+          "sport": "football",
+          "full_name": "Robert Lynch Sánchez",
+          "display_name": "Sánchez",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_ebtpwgs6wnjw",
+          "sport": "football",
+          "full_name": "Filip Jörgensen",
+          "display_name": "Jörgensen",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_v3tf53x4pt3p",
+          "sport": "football",
+          "full_name": "Reece James",
+          "display_name": "James",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_jdi5zlx2la5u",
+          "sport": "football",
+          "full_name": "Trevoh Chalobah",
+          "display_name": "Chalobah",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5prirrpzxijl",
+          "sport": "football",
+          "full_name": "Malo Gusto",
+          "display_name": "Gusto",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_aa6irxgn4kvo",
+          "sport": "football",
+          "full_name": "Wesley Fofana",
+          "display_name": "Fofana",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_mtk2ktbjl26a",
+          "sport": "football",
+          "full_name": "Benoît Badiashile Mukinayi",
+          "display_name": "B.Badiashile",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fpxz23kcqeew",
+          "sport": "football",
+          "full_name": "Jorrel Hato",
+          "display_name": "Hato",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_s66dvpcpjrcg",
+          "sport": "football",
+          "full_name": "Levi Samuels Colwill",
+          "display_name": "Colwill",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4z2aasmw4glb",
+          "sport": "football",
+          "full_name": "Mamadou Sarr",
+          "display_name": "M.Sarr",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_hccdkzsvg5l3",
+          "sport": "football",
+          "full_name": "Josh Acheampong",
+          "display_name": "Acheampong",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3zojhpuxz4he",
+          "sport": "football",
+          "full_name": "Marco Palestra",
+          "display_name": "Palestra",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_d6prrdrep4ho",
+          "sport": "football",
+          "full_name": "Cole Palmer",
+          "display_name": "Palmer",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xh774yqjphea",
+          "sport": "football",
+          "full_name": "Pedro Lomba Neto",
+          "display_name": "Neto",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_proxaojo3coz",
+          "sport": "football",
+          "full_name": "Estêvão Almeida de Oliveira Gonçalves",
+          "display_name": "Estêvão",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_tor7wf2dcnbx",
+          "sport": "football",
+          "full_name": "Jamie Bynoe-Gittens",
+          "display_name": "Gittens",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_aq2orqnehiil",
+          "sport": "football",
+          "full_name": "Moisés Caicedo Corozo",
+          "display_name": "Caicedo",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_nhdu6zeln5dy",
+          "sport": "football",
+          "full_name": "Roméo Lavia",
+          "display_name": "Lavia",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3ntrgqkyig3t",
+          "sport": "football",
+          "full_name": "Dário Luís Essugo",
+          "display_name": "D.Essugo",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_s2yphymgbzt6",
+          "sport": "football",
+          "full_name": "Geovany Quenda",
+          "display_name": "Quenda",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_275kg3hm34zt",
+          "sport": "football",
+          "full_name": "João Pedro Junqueira de Jesus",
+          "display_name": "João Pedro",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_ishcbbjznc3i",
+          "sport": "football",
+          "full_name": "Marc Guiu Paz",
+          "display_name": "Marc Guiu",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_6kjibup3lmit",
+          "sport": "football",
+          "full_name": "Shumaira Mheuka",
+          "display_name": "Mheuka",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_dyqiq2viavwe",
+          "sport": "football",
+          "full_name": "Emmanuel Emegha",
+          "display_name": "Emegha",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_5sfo66j2zcw4",
+          "sport": "football",
+          "full_name": "Maxence Lacroix",
+          "display_name": "Lacroix",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_eclmjv52djza",
+          "sport": "football",
+          "full_name": "Mike Penders",
+          "display_name": "Penders",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_iebeh6dexfxz",
+          "sport": "football",
+          "full_name": "Aaron Anselmino",
+          "display_name": "Anselmino",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qj4a342myg24",
+          "sport": "football",
+          "full_name": "Valentín Barco",
+          "display_name": "Barco",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hw3grcswkotn",
+          "sport": "football",
+          "full_name": "Pep Chavarría",
+          "display_name": "Chavarria",
+          "current_team_id": "bb_team_mbeua47ptkus",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xgx7zza6eadf",
+          "sport": "football",
+          "full_name": "Ethan Pinnock",
+          "display_name": "Pinnock",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ebfv5cvbtnup",
+          "sport": "football",
+          "full_name": "Frank Onyeka",
+          "display_name": "Onyeka",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_sqhxfcwrvpiq",
+          "sport": "football",
+          "full_name": "Carl Rushworth",
+          "display_name": "Rushworth",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_mi5qboxeetbp",
+          "sport": "football",
+          "full_name": "Oliver Dovin",
+          "display_name": "Dovin",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_dvrkyykkje6g",
+          "sport": "football",
+          "full_name": "Ben Wilson",
+          "display_name": "Wilson",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_avdclf4h63da",
+          "sport": "football",
+          "full_name": "Bobby Thomas",
+          "display_name": "Thomas",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_sbgm3tnfxzkb",
+          "sport": "football",
+          "full_name": "Liam Kitching",
+          "display_name": "Kitching",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_6qtuv6ppwv6y",
+          "sport": "football",
+          "full_name": "Milan van Ewijk",
+          "display_name": "van Ewijk",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ka6inrbcq7cr",
+          "sport": "football",
+          "full_name": "Jay Dasilva",
+          "display_name": "Dasilva",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4bpvnarqniad",
+          "sport": "football",
+          "full_name": "Kaine Kesler-Hayden",
+          "display_name": "Kesler-Hayden",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_wuzmhpvspubx",
+          "sport": "football",
+          "full_name": "Jake Bidwell",
+          "display_name": "Bidwell",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_a3g6h4byreyj",
+          "sport": "football",
+          "full_name": "Joel Latibeaudiere",
+          "display_name": "Latibeaudiere",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_jqpbr6ojypnp",
+          "sport": "football",
+          "full_name": "Luke Woolfenden",
+          "display_name": "Woolfenden",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qalrr3eolwna",
+          "sport": "football",
+          "full_name": "Miguel Brau",
+          "display_name": "Brau",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5svbsxndgwdr",
+          "sport": "football",
+          "full_name": "Aurèle Amenda",
+          "display_name": "Amenda",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_pyqg237lfbva",
+          "sport": "football",
+          "full_name": "Jack Rudoni",
+          "display_name": "Rudoni",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_iiulr5fkvn4f",
+          "sport": "football",
+          "full_name": "Matt Grimes",
+          "display_name": "Grimes",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_acyio27l2h3v",
+          "sport": "football",
+          "full_name": "Tatsuhiro Sakamoto",
+          "display_name": "Sakamoto",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_36sha4wsdmvt",
+          "sport": "football",
+          "full_name": "Ephron Mason-Clark",
+          "display_name": "Mason-Clark",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_p5pnjqmeccca",
+          "sport": "football",
+          "full_name": "Josh Eccles",
+          "display_name": "Eccles",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_rzabdyifxfqb",
+          "sport": "football",
+          "full_name": "Victor Torp",
+          "display_name": "Torp",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_v6hkvwnaxxid",
+          "sport": "football",
+          "full_name": "George Shepherd",
+          "display_name": "Shepherd",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_wwcvm2iulpkb",
+          "sport": "football",
+          "full_name": "Loum Tchaouna",
+          "display_name": "Tchaouna",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qm6pgmwcvhhp",
+          "sport": "football",
+          "full_name": "Raphael Borges Rodrigues",
+          "display_name": "Borges Rodrigues",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mlgfgujwk3yu",
+          "sport": "football",
+          "full_name": "Kai Andrews",
+          "display_name": "Andrews",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3m5agdv7cfsd",
+          "sport": "football",
+          "full_name": "Haji Wright",
+          "display_name": "Wright",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_lstk3s2ogghy",
+          "sport": "football",
+          "full_name": "Brandon Thomas-Asante",
+          "display_name": "Thomas-Asante",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_pu3pyjdn6luo",
+          "sport": "football",
+          "full_name": "Ellis Simms",
+          "display_name": "Simms",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_wb3bzzbr6f4j",
+          "sport": "football",
+          "full_name": "Jahnoah Markelo",
+          "display_name": "Markelo",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_4qhxueimduwu",
+          "sport": "football",
+          "full_name": "Norman Bassette",
+          "display_name": "Bassette",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_fgmzpdthobxn",
+          "sport": "football",
+          "full_name": "Taiwo Awoniyi",
+          "display_name": "Awoniyi",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_geoisrmyflmr",
+          "sport": "football",
+          "full_name": "Caleb Yirenkyi",
+          "display_name": "Yirenkyi",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_nwywhcdjwbgb",
+          "sport": "football",
+          "full_name": "Gustavo Hamer",
+          "display_name": "Hamer",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mrokj6hzwbyw",
+          "sport": "football",
+          "full_name": "Sidiki Cherif",
+          "display_name": "Cherif",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_2clmuq5eojhk",
+          "sport": "football",
+          "full_name": "Dan Bentley",
+          "display_name": "Bentley",
+          "current_team_id": "bb_team_d2kupo3vnb3k",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_k52er66yjtef",
+          "sport": "football",
+          "full_name": "Evann Guessand",
+          "display_name": "Guessand",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5ho53x2saxpo",
+          "sport": "football",
+          "full_name": "Axel Disasi",
+          "display_name": "Disasi",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_igcsuaxex5et",
+          "sport": "football",
+          "full_name": "Dean Henderson",
+          "display_name": "Henderson",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_2blos6xv6eke",
+          "sport": "football",
+          "full_name": "Walter Benítez",
+          "display_name": "Benitez",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_wk5uv3kqq4qi",
+          "sport": "football",
+          "full_name": "Chris Richards",
+          "display_name": "Richards",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xbpx33mdnzwq",
+          "sport": "football",
+          "full_name": "Jaydee Canvot",
+          "display_name": "Canvot",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_6zysjgszb22e",
+          "sport": "football",
+          "full_name": "Tyrick Mitchell",
+          "display_name": "Mitchell",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_mg36vhcvhmyy",
+          "sport": "football",
+          "full_name": "Borna Sosa",
+          "display_name": "Sosa",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_2ycyqiitj3oz",
+          "sport": "football",
+          "full_name": "Chadi Riad Dnanou",
+          "display_name": "Chadi Riad",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_votrwyqs7utn",
+          "sport": "football",
+          "full_name": "Oscar Mingueza",
+          "display_name": "Mingueza",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_sbscyczf6sdh",
+          "sport": "football",
+          "full_name": "Ismaïla Sarr",
+          "display_name": "Sarr",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qhdd7fl6k6lz",
+          "sport": "football",
+          "full_name": "Adam Wharton",
+          "display_name": "Wharton",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_opqelryu2jf6",
+          "sport": "football",
+          "full_name": "Yéremy Pino Santos",
+          "display_name": "Yeremy",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_fvo6vjae3dqy",
+          "sport": "football",
+          "full_name": "Will Hughes",
+          "display_name": "Hughes",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pm5sdkig5lih",
+          "sport": "football",
+          "full_name": "Jefferson Lerma Solís",
+          "display_name": "Lerma",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_r3a3qbkzw4ha",
+          "sport": "football",
+          "full_name": "Daichi Kamada",
+          "display_name": "Kamada",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pjecvl5qwtq5",
+          "sport": "football",
+          "full_name": "Justin Devenny",
+          "display_name": "Devenny",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qnxsotd7v4le",
+          "sport": "football",
+          "full_name": "Romain Esse",
+          "display_name": "Esse",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_sdse25yux45y",
+          "sport": "football",
+          "full_name": "Matheus França de Oliveira",
+          "display_name": "M.França",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jm5ts2ruknn5",
+          "sport": "football",
+          "full_name": "Cheick Doucouré",
+          "display_name": "Doucouré",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_vuwvqfuw7kbr",
+          "sport": "football",
+          "full_name": "Jesurun Rak-Sakyi",
+          "display_name": "J.Rak-Sakyi",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zjmfubzj2nhs",
+          "sport": "football",
+          "full_name": "Rio Cardines",
+          "display_name": "Cardines",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_f65uj3ss5k3x",
+          "sport": "football",
+          "full_name": "Joél Drakes-Thomas",
+          "display_name": "Drakes-Thomas",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mbm3gtzar3pr",
+          "sport": "football",
+          "full_name": "Jørgen Strand Larsen",
+          "display_name": "Strand Larsen",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_ok3ge67zhecz",
+          "sport": "football",
+          "full_name": "Jean-Philippe Mateta",
+          "display_name": "Mateta",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_6x3gwladwy5u",
+          "sport": "football",
+          "full_name": "Eddie Nketiah",
+          "display_name": "Nketiah",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_xttmwm3d57co",
+          "sport": "football",
+          "full_name": "Christantus Uche",
+          "display_name": "Uche",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_p3kaqacp5kca",
+          "sport": "football",
+          "full_name": "Dwight McNeil",
+          "display_name": "McNeil",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_wssnb3rn3izv",
+          "sport": "football",
+          "full_name": "Remi Matthews",
+          "display_name": "Matthews",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_gsiy57kitqrs",
+          "sport": "football",
+          "full_name": "Takehiro Tomiyasu",
+          "display_name": "Tomiyasu",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_cus77efpbqai",
+          "sport": "football",
+          "full_name": "Anan Khalaili",
+          "display_name": "Khalaili",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_6rqjqgyynpth",
+          "sport": "football",
+          "full_name": "Zavier Gozo",
+          "display_name": "Gozo",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dc2ueknqyrbn",
+          "sport": "football",
+          "full_name": "Honest Ahanor",
+          "display_name": "Ahanor",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fnrhwj5t4qeb",
+          "sport": "football",
+          "full_name": "Ben Chilwell",
+          "display_name": "Chilwell",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_tzjb6rm242ae",
+          "sport": "football",
+          "full_name": "Quinten Timber",
+          "display_name": "Timber",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_elsqfvfzutku",
+          "sport": "football",
+          "full_name": "Darío Osorio",
+          "display_name": "Osorio",
+          "current_team_id": "bb_team_p533bkihfhyw",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mp2qbgrl7wsc",
+          "sport": "football",
+          "full_name": "Christian Nørgaard",
+          "display_name": "Nørgaard",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_547ikc5c4exb",
+          "sport": "football",
+          "full_name": "Brennan Johnson",
+          "display_name": "Johnson",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xqjk6npjfhs4",
+          "sport": "football",
+          "full_name": "Jordan Pickford",
+          "display_name": "Pickford",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_nznwwrsqlg3z",
+          "sport": "football",
+          "full_name": "Mark Travers",
+          "display_name": "Travers",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_tflgd5b5tm37",
+          "sport": "football",
+          "full_name": "Tom King",
+          "display_name": "King",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_ysbleh4igb4f",
+          "sport": "football",
+          "full_name": "James Tarkowski",
+          "display_name": "Tarkowski",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_bcufo5j4axov",
+          "sport": "football",
+          "full_name": "Jarrad Branthwaite",
+          "display_name": "Branthwaite",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qt43kuscwyi6",
+          "sport": "football",
+          "full_name": "Michael Keane",
+          "display_name": "Keane",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_b5rchfp4btch",
+          "sport": "football",
+          "full_name": "Jake O'Brien",
+          "display_name": "O'Brien",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xc6rdor4ryjd",
+          "sport": "football",
+          "full_name": "Vitalii Mykolenko",
+          "display_name": "Mykolenko",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_bgsw2unkd4pw",
+          "sport": "football",
+          "full_name": "Nathan Patterson",
+          "display_name": "Patterson",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_vr2oaswke3he",
+          "sport": "football",
+          "full_name": "Adam Aznou",
+          "display_name": "Aznou",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4mju5cegnnnq",
+          "sport": "football",
+          "full_name": "Kiernan Dewsbury-Hall",
+          "display_name": "Dewsbury-Hall",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_eoxblyzrwrvk",
+          "sport": "football",
+          "full_name": "Jack Grealish",
+          "display_name": "Grealish",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_vp4sdwq5k7xv",
+          "sport": "football",
+          "full_name": "James Garner",
+          "display_name": "Garner",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_z2g6jzhwpuv5",
+          "sport": "football",
+          "full_name": "Tyrique George",
+          "display_name": "George",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_p3fvefcxegjv",
+          "sport": "football",
+          "full_name": "Carlos Alcaraz Durán",
+          "display_name": "Alcaraz",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ja7opcf2kodo",
+          "sport": "football",
+          "full_name": "Harrison Armstrong",
+          "display_name": "Armstrong",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_j32dfgfv2zpu",
+          "sport": "football",
+          "full_name": "Tyler Dibling",
+          "display_name": "Dibling",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_b5lkhrwyfmjt",
+          "sport": "football",
+          "full_name": "Merlin Röhl",
+          "display_name": "Röhl",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_d3m4zkyhg6f3",
+          "sport": "football",
+          "full_name": "Hayden Hackney",
+          "display_name": "Hackney",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hjxnlprkh7hi",
+          "sport": "football",
+          "full_name": "Norberto Bercique Gomes Betuncal",
+          "display_name": "Beto",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_igzs4gjhjtzs",
+          "sport": "football",
+          "full_name": "Thierno Barry",
+          "display_name": "Barry",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_z7xdybh6d7lj",
+          "sport": "football",
+          "full_name": "Ainsley Maitland-Niles",
+          "display_name": "Maitland-Niles",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_kzv2ywzxexk7",
+          "sport": "football",
+          "full_name": "Braiden Graham",
+          "display_name": "Graham",
+          "current_team_id": "bb_team_phaya5vi2nha",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_2w6jjv27f4i7",
+          "sport": "football",
+          "full_name": "Bernd Leno",
+          "display_name": "Leno",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_7fj6apyihgzd",
+          "sport": "football",
+          "full_name": "Benjamin Lecomte",
+          "display_name": "Lecomte",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_afcyktnhsxdg",
+          "sport": "football",
+          "full_name": "Alfie McNally",
+          "display_name": "McNally",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_xizvgezzke36",
+          "sport": "football",
+          "full_name": "Joachim Andersen",
+          "display_name": "Andersen",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_o3yin6nb6efs",
+          "sport": "football",
+          "full_name": "Antonee Robinson",
+          "display_name": "Robinson",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4prnko5szwew",
+          "sport": "football",
+          "full_name": "Jorge Cuenca Barreno",
+          "display_name": "J.Cuenca",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fhuqm4stje7x",
+          "sport": "football",
+          "full_name": "Kenny Tete",
+          "display_name": "Tete",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_34b7reg2ptms",
+          "sport": "football",
+          "full_name": "Calvin Bassey",
+          "display_name": "Bassey",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ios66ux45c6x",
+          "sport": "football",
+          "full_name": "Timothy Castagne",
+          "display_name": "Castagne",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5lpqttp6mbjq",
+          "sport": "football",
+          "full_name": "Alex Iwobi",
+          "display_name": "Iwobi",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_fgf67knjflh5",
+          "sport": "football",
+          "full_name": "Emile Smith Rowe",
+          "display_name": "Smith Rowe",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_btzszleqfe5p",
+          "sport": "football",
+          "full_name": "Kevin Santos Lopes de Macedo",
+          "display_name": "Kevin",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_x6l2zwr2zfgj",
+          "sport": "football",
+          "full_name": "Oscar Bobb",
+          "display_name": "Bobb",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7fs2sxfckjrj",
+          "sport": "football",
+          "full_name": "Sander Berge",
+          "display_name": "Berge",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_klyjgbbnbj6k",
+          "sport": "football",
+          "full_name": "Tom Cairney",
+          "display_name": "Cairney",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_rp44mthkuqes",
+          "sport": "football",
+          "full_name": "Josh King",
+          "display_name": "King",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5kgc2chpduyf",
+          "sport": "football",
+          "full_name": "Ryan Sessegnon",
+          "display_name": "Sessegnon",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_jcg37t2kptuj",
+          "sport": "football",
+          "full_name": "Harrison Reed",
+          "display_name": "Reed",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_snrb6tzhrkau",
+          "sport": "football",
+          "full_name": "Rodrigo Muniz Carvalho",
+          "display_name": "Muniz",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_x2f776btrrs4",
+          "sport": "football",
+          "full_name": "Jonah Kusi-Asare",
+          "display_name": "Kusi-Asare",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_nf34culmyvfa",
+          "sport": "football",
+          "full_name": "Gonzalo García",
+          "display_name": "Gonzalo",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_iqga7p5r3kjx",
+          "sport": "football",
+          "full_name": "César Palacios",
+          "display_name": "Palacios",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yb73bbas2vgh",
+          "sport": "football",
+          "full_name": "Shea Charles",
+          "display_name": "Charles",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_toosx27fa42l",
+          "sport": "football",
+          "full_name": "Luc De Fougerolles",
+          "display_name": "De Fougerolles",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ixcxjsr7jzrs",
+          "sport": "football",
+          "full_name": "Macauley Zepa",
+          "display_name": "Zepa",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yjkzi2lfrkmu",
+          "sport": "football",
+          "full_name": "Hugo Larsson",
+          "display_name": "Larsson",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_o2ln6665cnof",
+          "sport": "football",
+          "full_name": "Manuel Ángel Morán Ibáñez",
+          "display_name": "Ángel",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_g2s5zd4tr455",
+          "sport": "football",
+          "full_name": "David Affengruber",
+          "display_name": "Affengruber",
+          "current_team_id": "bb_team_2wwhx5slz5zt",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_dizgfcd43u3f",
+          "sport": "football",
+          "full_name": "Tim Iroegbunam",
+          "display_name": "Iroegbunam",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_urdu45qphyea",
+          "sport": "football",
+          "full_name": "Dillon Phillips",
+          "display_name": "Phillips",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_l634b5qrod5g",
+          "sport": "football",
+          "full_name": "Jack Butland",
+          "display_name": "Butland",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_freltsujdn4d",
+          "sport": "football",
+          "full_name": "Harvey Cartwright",
+          "display_name": "Cartwright",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_gmnit5njdu3y",
+          "sport": "football",
+          "full_name": "Thimothée Lo-Tutala",
+          "display_name": "Lo-Tutala",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_xg2vr5ropwwb",
+          "sport": "football",
+          "full_name": "John Egan",
+          "display_name": "Egan",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_kz6mzipkwgun",
+          "sport": "football",
+          "full_name": "Charlie Hughes",
+          "display_name": "Hughes",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_u4hfaaplcrup",
+          "sport": "football",
+          "full_name": "Semi Ajayi",
+          "display_name": "Ajayi",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_y63nsp5vcxk7",
+          "sport": "football",
+          "full_name": "Lewie Coyle",
+          "display_name": "Coyle",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_mwkximrk52wf",
+          "sport": "football",
+          "full_name": "Cody Drameh",
+          "display_name": "Drameh",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3rd7hf2vsic5",
+          "sport": "football",
+          "full_name": "Ryan Giles",
+          "display_name": "Giles",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_pixmvjvdbb6x",
+          "sport": "football",
+          "full_name": "Matty Jacob",
+          "display_name": "Jacob",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_d3t6ongmszje",
+          "sport": "football",
+          "full_name": "Cathal McCarthy",
+          "display_name": "McCarthy",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_awtxf2sxrlvh",
+          "sport": "football",
+          "full_name": "Paddy McNair",
+          "display_name": "McNair",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_wux2hbhusulk",
+          "sport": "football",
+          "full_name": "Mohamed Belloumi",
+          "display_name": "Belloumi",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_vmgi4t3elq7q",
+          "sport": "football",
+          "full_name": "Liam Millar",
+          "display_name": "Millar",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yoi3n5ltu66s",
+          "sport": "football",
+          "full_name": "Kieran Dowell",
+          "display_name": "Dowell",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yghdgemeuow3",
+          "sport": "football",
+          "full_name": "Matt Crooks",
+          "display_name": "Crooks",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_w4kp4osmspib",
+          "sport": "football",
+          "full_name": "Regan Slater",
+          "display_name": "Slater",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_p7egq6ibrk62",
+          "sport": "football",
+          "full_name": "Eliot Matazo",
+          "display_name": "Matazo",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_esadcqzqgem3",
+          "sport": "football",
+          "full_name": "Abdülkadir Ömür",
+          "display_name": "Ömür",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_falksrdpeirf",
+          "sport": "football",
+          "full_name": "Abu Kamara",
+          "display_name": "Kamara",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_nsuik3w5pfhq",
+          "sport": "football",
+          "full_name": "Óscar Zambrano",
+          "display_name": "Zambrano",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dacdbcck7fgh",
+          "sport": "football",
+          "full_name": "Oli McBurnie",
+          "display_name": "McBurnie",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_tzulf32fhcaw",
+          "sport": "football",
+          "full_name": "David Akintola",
+          "display_name": "Akintola",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yihzun7q5atm",
+          "sport": "football",
+          "full_name": "Darko Gyabi",
+          "display_name": "Gyabi",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jype7emvxa4s",
+          "sport": "football",
+          "full_name": "Enis Destan",
+          "display_name": "Destan",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_xbdl47esvl7d",
+          "sport": "football",
+          "full_name": "Mason Burstow",
+          "display_name": "Burstow",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_drhnf73ukjow",
+          "sport": "football",
+          "full_name": "Joe Gelhardt",
+          "display_name": "Gelhardt",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_j4reea7guw6v",
+          "sport": "football",
+          "full_name": "Matt Targett",
+          "display_name": "Targett",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fuersjyt2ctp",
+          "sport": "football",
+          "full_name": "Hidemasa Morita",
+          "display_name": "Morita",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_b3ca7hajhk2f",
+          "sport": "football",
+          "full_name": "Konstantinos Tzolakis",
+          "display_name": "Tzolakis",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_75t2sypgd2bt",
+          "sport": "football",
+          "full_name": "Jens Hjertø-Dahl",
+          "display_name": "Hjertø-Dahl",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_wzdggl34rknj",
+          "sport": "football",
+          "full_name": "Elliot Stroud",
+          "display_name": "Stroud",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_bflnh3e7tahf",
+          "sport": "football",
+          "full_name": "Lucas Herrington",
+          "display_name": "Herrington",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zw2xslnjdkzb",
+          "sport": "football",
+          "full_name": "Nobel Mendy",
+          "display_name": "Mendy",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_uvfrkpcry65n",
+          "sport": "football",
+          "full_name": "Lucas Gourna-Douath",
+          "display_name": "Gourna-Douath",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_k44nodeslggr",
+          "sport": "football",
+          "full_name": "Mohamed-Ali Cho",
+          "display_name": "Cho",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ecrnsouslfyn",
+          "sport": "football",
+          "full_name": "Ilyas Ansah",
+          "display_name": "Ansah",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_vsraduwqvrir",
+          "sport": "football",
+          "full_name": "Robinio Vaz",
+          "display_name": "Vaz",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_xxqnhmyymbzv",
+          "sport": "football",
+          "full_name": "Brooke Norton-Cuffy",
+          "display_name": "Norton-Cuffy",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qvuvi5e5rgca",
+          "sport": "football",
+          "full_name": "Sorba Thomas",
+          "display_name": "Thomas",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zyiagj5jrih5",
+          "sport": "football",
+          "full_name": "Christos Mouzakitis",
+          "display_name": "Mouzakitis",
+          "current_team_id": "bb_team_mxg4mubrsfn2",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_iqqiemj6qlkr",
+          "sport": "football",
+          "full_name": "Issa Diop",
+          "display_name": "Diop",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_gsoglby7buif",
+          "sport": "football",
+          "full_name": "Saša Lukić",
+          "display_name": "Lukić",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ejjt7uyfyhi5",
+          "sport": "football",
+          "full_name": "Christian Walton",
+          "display_name": "Walton",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_rkcz2fylud64",
+          "sport": "football",
+          "full_name": "Alex Palmer",
+          "display_name": "Palmer",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_fs5lcsbvwe7a",
+          "sport": "football",
+          "full_name": "David Button",
+          "display_name": "Button",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_lgtfq4zxuimc",
+          "sport": "football",
+          "full_name": "Cédric Kipré",
+          "display_name": "Kipré",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_rzggnj5f2eb5",
+          "sport": "football",
+          "full_name": "Dara O'Shea",
+          "display_name": "O'Shea",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_auqtdm6g3jxi",
+          "sport": "football",
+          "full_name": "Leif Davis",
+          "display_name": "Davis",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5l3faydx5p5s",
+          "sport": "football",
+          "full_name": "Jacob Greaves",
+          "display_name": "Greaves",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_pz7t2fkxtgbh",
+          "sport": "football",
+          "full_name": "Ben Johnson",
+          "display_name": "Johnson",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qpb3ipawfrqy",
+          "sport": "football",
+          "full_name": "Darnell Furlong",
+          "display_name": "Furlong",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_vbotvatpo65p",
+          "sport": "football",
+          "full_name": "Marcelino Núñez",
+          "display_name": "Núñez",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gid63eytdyc4",
+          "sport": "football",
+          "full_name": "Azor Matusiwa",
+          "display_name": "Matusiwa",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_djakrgkll66x",
+          "sport": "football",
+          "full_name": "Wes Burns",
+          "display_name": "Burns",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_oyvrzi2zf7yo",
+          "sport": "football",
+          "full_name": "Jack Taylor",
+          "display_name": "Taylor",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ghdrvelyjnc6",
+          "sport": "football",
+          "full_name": "Jack Clarke",
+          "display_name": "Clarke",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hxl6nze55lpm",
+          "sport": "football",
+          "full_name": "Chiedozie Ogbene",
+          "display_name": "Ogbene",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_aweebxgk5ymz",
+          "sport": "football",
+          "full_name": "Abdul Fatawu",
+          "display_name": "Fatawu",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gjb33bmqjvww",
+          "sport": "football",
+          "full_name": "Emersonn Correia da Silva",
+          "display_name": "Emersonn",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_dywgb433aw7b",
+          "sport": "football",
+          "full_name": "George Hirst",
+          "display_name": "Hirst",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_odzv5lqztmty",
+          "sport": "football",
+          "full_name": "Jaden Philogene",
+          "display_name": "Philogene",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_cfpiknqgm6nd",
+          "sport": "football",
+          "full_name": "Sam Szmodics",
+          "display_name": "Szmodics",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ov4vpsqaxedc",
+          "sport": "football",
+          "full_name": "Chuba Akpom",
+          "display_name": "Akpom",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_5xllm6pjdveh",
+          "sport": "football",
+          "full_name": "Sindre Walle Egeli",
+          "display_name": "Walle Egeli",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_btxc3xbybbmq",
+          "sport": "football",
+          "full_name": "Ali Al-Hamadi",
+          "display_name": "Al-Hamadi",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_gxgucqrmgy56",
+          "sport": "football",
+          "full_name": "Kasey McAteer",
+          "display_name": "McAteer",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_kr5sjreivty4",
+          "sport": "football",
+          "full_name": "Anis Mehmeti",
+          "display_name": "Mehmeti",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jmdtqxkuwbnx",
+          "sport": "football",
+          "full_name": "Kayne van Oevelen",
+          "display_name": "Van Oevelen",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_7fddmcdxe2ls",
+          "sport": "football",
+          "full_name": "Daizen Maeda",
+          "display_name": "Maeda",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xhulnjipsqxq",
+          "sport": "football",
+          "full_name": "Kjell Scherpen",
+          "display_name": "Scherpen",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_tm6r4mmhxawv",
+          "sport": "football",
+          "full_name": "Florentino Ibrain Morris Luís",
+          "display_name": "Florentino",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yxjbaeqdw5cs",
+          "sport": "football",
+          "full_name": "Julio Enciso",
+          "display_name": "Enciso",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_v6ahdfnmxwe3",
+          "sport": "football",
+          "full_name": "Abdoul Ouattara",
+          "display_name": "Ouattara",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_sryyff6rey7h",
+          "sport": "football",
+          "full_name": "Cameron Humphreys",
+          "display_name": "Humphreys",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_43a3xwhic6km",
+          "sport": "football",
+          "full_name": "Exequiel Palacios",
+          "display_name": "Palacios",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5p7bgda7rwyu",
+          "sport": "football",
+          "full_name": "Zian Flemming",
+          "display_name": "Flemming",
+          "current_team_id": "bb_team_zk5pu4aly5in",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_tnfrnnvfsrms",
+          "sport": "football",
+          "full_name": "Harry Wilson",
+          "display_name": "Wilson",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_2wx3dugcsisl",
+          "sport": "football",
+          "full_name": "Lucas Estella Perri",
+          "display_name": "Perri",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_tnecf7ynof6e",
+          "sport": "football",
+          "full_name": "Jaka Bijol",
+          "display_name": "Bijol",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_e7ynmy2b3725",
+          "sport": "football",
+          "full_name": "Joe Rodon",
+          "display_name": "Rodon",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4xtogtdv3npo",
+          "sport": "football",
+          "full_name": "Jayden Bogle",
+          "display_name": "Bogle",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_tfzwybl5zioz",
+          "sport": "football",
+          "full_name": "Gabriel Gudmundsson",
+          "display_name": "Gudmundsson",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ruz5x2ca34qa",
+          "sport": "football",
+          "full_name": "James Justin",
+          "display_name": "Justin",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_p7o5uf5mygaz",
+          "sport": "football",
+          "full_name": "Sebastiaan Bornauw",
+          "display_name": "Bornauw",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_gj6valgqugqe",
+          "sport": "football",
+          "full_name": "Tarik Muharemović",
+          "display_name": "Muharemović",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ol4ptpevnogx",
+          "sport": "football",
+          "full_name": "Anton Stach",
+          "display_name": "Stach",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gttp7nsh2335",
+          "sport": "football",
+          "full_name": "Noah Okafor",
+          "display_name": "Okafor",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_fwyk7mpgavjt",
+          "sport": "football",
+          "full_name": "Brenden Aaronson",
+          "display_name": "Aaronson",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_23apndceaoi3",
+          "sport": "football",
+          "full_name": "Ethan Ampadu",
+          "display_name": "Ampadu",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_fsjjoqtymqt2",
+          "sport": "football",
+          "full_name": "Sean Longstaff",
+          "display_name": "Longstaff",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_6fk77yllvbcr",
+          "sport": "football",
+          "full_name": "Wilfried Gnonto",
+          "display_name": "Gnonto",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_lugtgxry6kwo",
+          "sport": "football",
+          "full_name": "Jack Harrison",
+          "display_name": "Harrison",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_b26jt4brpchy",
+          "sport": "football",
+          "full_name": "Daniel James",
+          "display_name": "James",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xpcufdfpjmei",
+          "sport": "football",
+          "full_name": "Ilia Gruev",
+          "display_name": "Gruev",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_atg4jb3c5g42",
+          "sport": "football",
+          "full_name": "Tanaka Ao",
+          "display_name": "Tanaka",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_kkbqclgy4cjg",
+          "sport": "football",
+          "full_name": "Dominic Calvert-Lewin",
+          "display_name": "Calvert-Lewin",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_gkstchfpioc6",
+          "sport": "football",
+          "full_name": "Lukas Nmecha",
+          "display_name": "Nmecha",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_e4o7jfpcujkq",
+          "sport": "football",
+          "full_name": "Joël Piroe",
+          "display_name": "Piroe",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_qosrmdazxcw5",
+          "sport": "football",
+          "full_name": "Mateo Joseph Fernández-Regatillo",
+          "display_name": "Mateo Joseph",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_pdtlqvby3qzl",
+          "sport": "football",
+          "full_name": "James Trafford",
+          "display_name": "Trafford",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_ursjma4jlnva",
+          "sport": "football",
+          "full_name": "Nico Elvedi",
+          "display_name": "Elvedi",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_z22przo7wpxu",
+          "sport": "football",
+          "full_name": "Jayden Lienou",
+          "display_name": "Lienou",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_bzicnzqh223o",
+          "sport": "football",
+          "full_name": "Alfie Cresswell",
+          "display_name": "Cresswell",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5bzs5llrzshw",
+          "sport": "football",
+          "full_name": "Alex Cairns",
+          "display_name": "Cairns",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_iile2yi27rvx",
+          "sport": "football",
+          "full_name": "Michael Zetterer",
+          "display_name": "Zetterer",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_utvm7jonct7x",
+          "sport": "football",
+          "full_name": "Melvin Bard",
+          "display_name": "Bard",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_vfx7qoq3r3l6",
+          "sport": "football",
+          "full_name": "Jean-Mattéo Bahoya",
+          "display_name": "Bahoya",
+          "current_team_id": "bb_team_uckufnxeel5p",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_f4xakga754lf",
+          "sport": "football",
+          "full_name": "Alisson Becker",
+          "display_name": "A.Becker",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_rr5ru7bfkl2s",
+          "sport": "football",
+          "full_name": "Giorgi Mamardashvili",
+          "display_name": "Mamardashvili",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_s6mp7bnhbsvn",
+          "sport": "football",
+          "full_name": "Freddie Woodman",
+          "display_name": "Woodman",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_x7v4m32zdfap",
+          "sport": "football",
+          "full_name": "Armin Pecsi",
+          "display_name": "Pecsi",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_e5ekjwvv5dsx",
+          "sport": "football",
+          "full_name": "Vitezslav Jaros",
+          "display_name": "Jaros",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_j2mxcoepn2l7",
+          "sport": "football",
+          "full_name": "Harvey Davies",
+          "display_name": "Davies",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_544ftqe6hzck",
+          "sport": "football",
+          "full_name": "Virgil van Dijk",
+          "display_name": "Virgil",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_r7de6bhczln5",
+          "sport": "football",
+          "full_name": "Jeremie Frimpong",
+          "display_name": "Frimpong",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_oxkkng4cpdih",
+          "sport": "football",
+          "full_name": "Milos Kerkez",
+          "display_name": "Kerkez",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ufbswrk4jrxg",
+          "sport": "football",
+          "full_name": "Joe Gomez",
+          "display_name": "Gomez",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_6qebovrss3wt",
+          "sport": "football",
+          "full_name": "Conor Bradley",
+          "display_name": "Bradley",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_lohou642ilj5",
+          "sport": "football",
+          "full_name": "Wellity Lucky",
+          "display_name": "Lucky",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_a77dabia4e5x",
+          "sport": "football",
+          "full_name": "Jeremy Jacquet",
+          "display_name": "Jacquet",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_rqdykz5kn2pk",
+          "sport": "football",
+          "full_name": "Giovanni Leoni",
+          "display_name": "Leoni",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ein34hvrkfsl",
+          "sport": "football",
+          "full_name": "Kostas Tsimikas",
+          "display_name": "Tsimikas",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zjn5y72jhfx3",
+          "sport": "football",
+          "full_name": "Calvin Ramsay",
+          "display_name": "Ramsay",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_bui2jdjxuxvi",
+          "sport": "football",
+          "full_name": "Florian Wirtz",
+          "display_name": "Wirtz",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_55gocuapl6jo",
+          "sport": "football",
+          "full_name": "Cody Gakpo",
+          "display_name": "Gakpo",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_bvt7y4vtbpen",
+          "sport": "football",
+          "full_name": "Dominik Szoboszlai",
+          "display_name": "Szoboszlai",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_2gd43mf6l7es",
+          "sport": "football",
+          "full_name": "Rio Ngumoha",
+          "display_name": "Ngumoha",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_uhyurkbh46o4",
+          "sport": "football",
+          "full_name": "Federico Chiesa",
+          "display_name": "Chiesa",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7pprb7gqdcog",
+          "sport": "football",
+          "full_name": "Ryan Gravenberch",
+          "display_name": "Gravenberch",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_etfnhzgcrvm7",
+          "sport": "football",
+          "full_name": "Alexis Mac Allister",
+          "display_name": "Mac Allister",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zimmizc7qxlo",
+          "sport": "football",
+          "full_name": "Curtis Jones",
+          "display_name": "C.Jones",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ab2cu4gmtlo4",
+          "sport": "football",
+          "full_name": "Endo Wataru",
+          "display_name": "Endo",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gvdvhtui4y72",
+          "sport": "football",
+          "full_name": "Trey Nyoni",
+          "display_name": "Nyoni",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_g6wtc7knrlte",
+          "sport": "football",
+          "full_name": "Stefan Bajčetić Maquieira",
+          "display_name": "Bajcetic",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_cbfsfsmeoxp3",
+          "sport": "football",
+          "full_name": "Victor Munoz",
+          "display_name": "Munoz",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dv3x26fcod54",
+          "sport": "football",
+          "full_name": "James McConnell",
+          "display_name": "McConnell",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_juua4amdloye",
+          "sport": "football",
+          "full_name": "Alexander Isak",
+          "display_name": "Isak",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_qqbs4gfxm2lm",
+          "sport": "football",
+          "full_name": "Hugo Ekitiké",
+          "display_name": "Ekitiké",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_4igr46ka5knu",
+          "sport": "football",
+          "full_name": "Lewis Koumas",
+          "display_name": "Koumas",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_bmxoa6e6z4ct",
+          "sport": "football",
+          "full_name": "Jayden Danns",
+          "display_name": "Danns",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_446ng3ww3ino",
+          "sport": "football",
+          "full_name": "Harvey Elliott",
+          "display_name": "Elliott",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pjgwewju5ish",
+          "sport": "football",
+          "full_name": "Ronald Araujo",
+          "display_name": "Araujo",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_6p3nszfk72x2",
+          "sport": "football",
+          "full_name": "Bradley Barcola",
+          "display_name": "Barcola",
+          "current_team_id": "bb_team_44h3ntdndqyo",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_y3pa622skf3u",
+          "sport": "football",
+          "full_name": "Enzo Fernández",
+          "display_name": "Enzo",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_sq22ckyxbxcm",
+          "sport": "football",
+          "full_name": "Iliman Ndiaye",
+          "display_name": "Ndiaye",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_swaqriyix3qf",
+          "sport": "football",
+          "full_name": "Gianluigi Donnarumma",
+          "display_name": "Donnarumma",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_73m3ayd7nd3u",
+          "sport": "football",
+          "full_name": "Marcus Bettinelli",
+          "display_name": "Bettinelli",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_z4jeksz573pk",
+          "sport": "football",
+          "full_name": "Nico O'Reilly",
+          "display_name": "O'Reilly",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_hffgz6u4up6x",
+          "sport": "football",
+          "full_name": "Marc Guéhi",
+          "display_name": "Guéhi",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_wrrsponnto5g",
+          "sport": "football",
+          "full_name": "Matheus Nunes",
+          "display_name": "Matheus N.",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_64gafou7azad",
+          "sport": "football",
+          "full_name": "Rúben dos Santos Gato Alves Dias",
+          "display_name": "Rúben",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_amehug5xn3s2",
+          "sport": "football",
+          "full_name": "Joško Gvardiol",
+          "display_name": "Gvardiol",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ndhai27x24gw",
+          "sport": "football",
+          "full_name": "Rayan Aït-Nouri",
+          "display_name": "Aït-Nouri",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_cb74gblzrexe",
+          "sport": "football",
+          "full_name": "Abdukodir Khusanov",
+          "display_name": "Khusanov",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ltqsrgvwbenn",
+          "sport": "football",
+          "full_name": "Max Alleyne",
+          "display_name": "Alleyne",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_vsmriocq5tju",
+          "sport": "football",
+          "full_name": "Rico Lewis",
+          "display_name": "Lewis",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4mslsbk4yyfs",
+          "sport": "football",
+          "full_name": "Vitor de Oliveira Nunes dos Reis",
+          "display_name": "Vitor Reis",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qeji7sm5sq5f",
+          "sport": "football",
+          "full_name": "Antoine Semenyo",
+          "display_name": "Semenyo",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xshjyvadgeda",
+          "sport": "football",
+          "full_name": "Phil Foden",
+          "display_name": "Foden",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_thfltjfvi65i",
+          "sport": "football",
+          "full_name": "Rayan Cherki",
+          "display_name": "Cherki",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_og3v7igcfeec",
+          "sport": "football",
+          "full_name": "Jérémy Doku",
+          "display_name": "Doku",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jwqzfxjhhv7j",
+          "sport": "football",
+          "full_name": "Rodrigo 'Rodri' Hernandez Cascante",
+          "display_name": "Rodrigo",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hzdnda4wexr3",
+          "sport": "football",
+          "full_name": "Tijjani Reijnders",
+          "display_name": "Reijnders",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jwuxrdtltwgr",
+          "sport": "football",
+          "full_name": "Mateo Kovačić",
+          "display_name": "Kovačić",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dseega2swzky",
+          "sport": "football",
+          "full_name": "Claudio Echeverri",
+          "display_name": "Echeverri",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_scxcvvir7rou",
+          "sport": "football",
+          "full_name": "Kalvin Phillips",
+          "display_name": "Phillips",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_pn5ybrxdpffd",
+          "sport": "football",
+          "full_name": "Divine Mukasa",
+          "display_name": "Mukasa",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7mk7csfgeglc",
+          "sport": "football",
+          "full_name": "Jeremy Monga",
+          "display_name": "Monga",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7mjvf2zz53o4",
+          "sport": "football",
+          "full_name": "Erling Haaland",
+          "display_name": "Haaland",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_d64j27jlpa2n",
+          "sport": "football",
+          "full_name": "Elliot Anderson",
+          "display_name": "Anderson",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xrlzqwiupjdz",
+          "sport": "football",
+          "full_name": "Gerónimo Rulli",
+          "display_name": "Rulli",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_gwonjmyz2zlk",
+          "sport": "football",
+          "full_name": "Ayyoub Bouaddi",
+          "display_name": "Bouaddi",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mzf6t6jq6zml",
+          "sport": "football",
+          "full_name": "Ryan McAidoo",
+          "display_name": "McAidoo",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_z2p4mglblpv4",
+          "sport": "football",
+          "full_name": "Kaden Braithwaite",
+          "display_name": "Braithwaite",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zs6ot7sxkwwh",
+          "sport": "football",
+          "full_name": "Allan Andrade Elias",
+          "display_name": "Allan",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_h6jyylz5tdcp",
+          "sport": "football",
+          "full_name": "Floyd Samba",
+          "display_name": "Samba",
+          "current_team_id": "bb_team_owagc2ykgcab",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_s6ipbxcl6bdo",
+          "sport": "football",
+          "full_name": "Youri Tielemans",
+          "display_name": "Tielemans",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_37bajjx55uou",
+          "sport": "football",
+          "full_name": "Carlos Baleba",
+          "display_name": "Baleba",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_cg24uknygfrg",
+          "sport": "football",
+          "full_name": "Andrey Nascimento dos Santos",
+          "display_name": "Andrey Santos",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_cq6joqg33b5p",
+          "sport": "football",
+          "full_name": "Karl Darlow",
+          "display_name": "Darlow",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_oiww5nf3iaep",
+          "sport": "football",
+          "full_name": "Senne Lammens",
+          "display_name": "Lammens",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_66eayyxeb56c",
+          "sport": "football",
+          "full_name": "Altay Bayındır",
+          "display_name": "Bayindir",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_h4zwpmcgoxhz",
+          "sport": "football",
+          "full_name": "Tom Heaton",
+          "display_name": "Heaton",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_w2xulkefxe5y",
+          "sport": "football",
+          "full_name": "Patrick Dorgu",
+          "display_name": "Dorgu",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_w666xq2a4pru",
+          "sport": "football",
+          "full_name": "Matthijs de Ligt",
+          "display_name": "De Ligt",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_iugtbhry5a7f",
+          "sport": "football",
+          "full_name": "Diogo Dalot Teixeira",
+          "display_name": "Dalot",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_mj2g6osrowjg",
+          "sport": "football",
+          "full_name": "Harry Maguire",
+          "display_name": "Maguire",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3nd2feriast4",
+          "sport": "football",
+          "full_name": "Lisandro Martínez",
+          "display_name": "Martinez",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_snsol3p2sjo7",
+          "sport": "football",
+          "full_name": "Leny Yoro",
+          "display_name": "Yoro",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5yyhm32o3p5z",
+          "sport": "football",
+          "full_name": "Ayden Heaven",
+          "display_name": "Heaven",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_z2vu6qcbktya",
+          "sport": "football",
+          "full_name": "Noussair Mazraoui",
+          "display_name": "Mazraoui",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_w4c7wc3hoqyw",
+          "sport": "football",
+          "full_name": "Luke Shaw",
+          "display_name": "Shaw",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_okza3yrc7hzc",
+          "sport": "football",
+          "full_name": "Harry Amass",
+          "display_name": "Amass",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_masssyvw7sz7",
+          "sport": "football",
+          "full_name": "Tyler Fredricson",
+          "display_name": "Fredricson",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zgrclkug6a5s",
+          "sport": "football",
+          "full_name": "Bruno Borges Fernandes",
+          "display_name": "B.Fernandes",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_muvjsxccyidw",
+          "sport": "football",
+          "full_name": "Bryan Mbeumo",
+          "display_name": "Mbeumo",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zl3xrro7t7r2",
+          "sport": "football",
+          "full_name": "Matheus Santos Carneiro da Cunha",
+          "display_name": "Cunha",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_xtmple7o2whg",
+          "sport": "football",
+          "full_name": "Marcus Rashford",
+          "display_name": "Rashford",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_4nj63vm57kbo",
+          "sport": "football",
+          "full_name": "Mason Mount",
+          "display_name": "Mount",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_4dbovwb3j4lc",
+          "sport": "football",
+          "full_name": "Amad Diallo",
+          "display_name": "Amad",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_rl5c32hc4qor",
+          "sport": "football",
+          "full_name": "Kobbie Mainoo",
+          "display_name": "Mainoo",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7t2osjpbv3n3",
+          "sport": "football",
+          "full_name": "Manuel Ugarte Ribeiro",
+          "display_name": "Ugarte",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5iioavbagf2w",
+          "sport": "football",
+          "full_name": "Jack Fletcher",
+          "display_name": "J.Fletcher",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ujbbju6p6gv3",
+          "sport": "football",
+          "full_name": "Shea Lacey",
+          "display_name": "Lacey",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qws2vru2wbsk",
+          "sport": "football",
+          "full_name": "Toby Collyer",
+          "display_name": "Collyer",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_x7354h7ivbtg",
+          "sport": "football",
+          "full_name": "Bendito Mantato",
+          "display_name": "Bendito Mantato",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qs5eoa7xcsli",
+          "sport": "football",
+          "full_name": "Tyler Fletcher",
+          "display_name": "Fletcher",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_7e7fuipfikxe",
+          "sport": "football",
+          "full_name": "Benjamin Sesko",
+          "display_name": "Šeško",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_5fcvyrupjpkx",
+          "sport": "football",
+          "full_name": "Joshua Zirkzee",
+          "display_name": "Zirkzee",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_bvbxpzdyml4l",
+          "sport": "football",
+          "full_name": "Chido Obi",
+          "display_name": "Obi",
+          "current_team_id": "bb_team_rrzjayf3yzla",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_rh74meriyidr",
+          "sport": "football",
+          "full_name": "Nico González Iglesias",
+          "display_name": "N.Gonzalez",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_g7jmwhk2bff3",
+          "sport": "football",
+          "full_name": "Nick Pope",
+          "display_name": "Pope",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_hfj2clzsc4rc",
+          "sport": "football",
+          "full_name": "Mark Gillespie",
+          "display_name": "Gillespie",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_o7ukdjfeqazc",
+          "sport": "football",
+          "full_name": "Ewen Jaouen",
+          "display_name": "Jaouen",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_a3urkolb57h2",
+          "sport": "football",
+          "full_name": "Malick Thiaw",
+          "display_name": "Thiaw",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5fy54zojku4l",
+          "sport": "football",
+          "full_name": "Fabian Schär",
+          "display_name": "Schär",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_lzj4mh4sv4mn",
+          "sport": "football",
+          "full_name": "Sven Botman",
+          "display_name": "Botman",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3ko6hc7ewnjs",
+          "sport": "football",
+          "full_name": "Dan Burn",
+          "display_name": "Burn",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xmrwnbbs247e",
+          "sport": "football",
+          "full_name": "Lewis Hall",
+          "display_name": "Hall",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3ww4l6q5pqpn",
+          "sport": "football",
+          "full_name": "Tino Livramento",
+          "display_name": "Livramento",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_u7qgqwv5te3y",
+          "sport": "football",
+          "full_name": "Alex Murphy",
+          "display_name": "A.Murphy",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_tgy2pj2m5szc",
+          "sport": "football",
+          "full_name": "Harvey Barnes",
+          "display_name": "Barnes",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ifqv7nj6q5tw",
+          "sport": "football",
+          "full_name": "Anthony Elanga",
+          "display_name": "Elanga",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_quyutjryawo3",
+          "sport": "football",
+          "full_name": "Jacob Ramsey",
+          "display_name": "J.Ramsey",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_fr7rr6ijd6wh",
+          "sport": "football",
+          "full_name": "Jacob Murphy",
+          "display_name": "J.Murphy",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_2smuxtt74cga",
+          "sport": "football",
+          "full_name": "Joelinton Cássio Apolinário de Lira",
+          "display_name": "Joelinton",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gu7rnmdb7cy7",
+          "sport": "football",
+          "full_name": "Lewis Miley",
+          "display_name": "L.Miley",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_f63fgx6qqjpb",
+          "sport": "football",
+          "full_name": "Joe Willock",
+          "display_name": "Willock",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_srtmbkr4hdtg",
+          "sport": "football",
+          "full_name": "Bazoumana Touré",
+          "display_name": "Touré",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_stpjnry5jecx",
+          "sport": "football",
+          "full_name": "Sean Steur",
+          "display_name": "Steur",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_3ac3whamsvxk",
+          "sport": "football",
+          "full_name": "Nick Woltemade",
+          "display_name": "Woltemade",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_gp576ybpnzbt",
+          "sport": "football",
+          "full_name": "Yoane Wissa",
+          "display_name": "Wissa",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_iqij525pspqt",
+          "sport": "football",
+          "full_name": "William Osula",
+          "display_name": "Osula",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_zvdi6alvhytm",
+          "sport": "football",
+          "full_name": "Sean Neave",
+          "display_name": "Neave",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_s43sl55q3pze",
+          "sport": "football",
+          "full_name": "Aladji Bamba",
+          "display_name": "Bamba",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_uyqw3exijkbr",
+          "sport": "football",
+          "full_name": "Lukás Hornícek",
+          "display_name": "Horníček",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_yoq2ewo6qud6",
+          "sport": "football",
+          "full_name": "Amar Dedic",
+          "display_name": "Dedić",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xzt5sqfvqss4",
+          "sport": "football",
+          "full_name": "Leo Shahar",
+          "display_name": "Shahar",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_dk727plv7q4c",
+          "sport": "football",
+          "full_name": "Matias Fernandez-Pardo",
+          "display_name": "Fernandez-Pardo",
+          "current_team_id": "bb_team_led5ks67nzbj",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_vzuqplscgwo4",
+          "sport": "football",
+          "full_name": "Liam Delap",
+          "display_name": "Delap",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_cwgjjeixgu3b",
+          "sport": "football",
+          "full_name": "Daniel Muñoz Mejía",
+          "display_name": "Muñoz",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_u6mirqb7dhrj",
+          "sport": "football",
+          "full_name": "Matz Sels",
+          "display_name": "Sels",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_3hcm2rqfcztm",
+          "sport": "football",
+          "full_name": "John Victor Maciel Furtado",
+          "display_name": "John",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_7f3sypmmkd5j",
+          "sport": "football",
+          "full_name": "Neco Williams",
+          "display_name": "N.Williams",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_2loxgyztpfzi",
+          "sport": "football",
+          "full_name": "Felipe Rodrigues da Silva",
+          "display_name": "Morato",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_52dolrp6e2yb",
+          "sport": "football",
+          "full_name": "Nikola Milenković",
+          "display_name": "Milenković",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5lo3mjgbmit7",
+          "sport": "football",
+          "full_name": "Murillo Costa dos Santos",
+          "display_name": "Murillo",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_kmyo2zjwax7g",
+          "sport": "football",
+          "full_name": "Ola Aina",
+          "display_name": "Aina",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_5gy4sgixf7fy",
+          "sport": "football",
+          "full_name": "Jair Paula da Cunha Filho",
+          "display_name": "Jair Cunha",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_uvtm7kqeri3j",
+          "sport": "football",
+          "full_name": "Nicolò Savona",
+          "display_name": "Savona",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_iklcpetbhuas",
+          "sport": "football",
+          "full_name": "Omar Richards",
+          "display_name": "O.Richards",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_dvbrfpymec4w",
+          "sport": "football",
+          "full_name": "Zach Abbott",
+          "display_name": "Abbott",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_sm2hihg6bw4v",
+          "sport": "football",
+          "full_name": "Luca Netz",
+          "display_name": "Netz",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_7zow5iyslcvw",
+          "sport": "football",
+          "full_name": "Tyler Bindon",
+          "display_name": "Bindon",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4ew7qpyl2sy2",
+          "sport": "football",
+          "full_name": "Morgan Gibbs-White",
+          "display_name": "Gibbs-White",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_4u4uagdu6a3t",
+          "sport": "football",
+          "full_name": "Callum Hudson-Odoi",
+          "display_name": "Hudson-Odoi",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_k6keyrrszs4q",
+          "sport": "football",
+          "full_name": "Dan Ndoye",
+          "display_name": "Ndoye",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_i7zo5vzij5wf",
+          "sport": "football",
+          "full_name": "Omari Hutchinson",
+          "display_name": "Hutchinson",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_n2vcyvotqolz",
+          "sport": "football",
+          "full_name": "Dilane Bakwa",
+          "display_name": "Bakwa",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_esgn6b5lokrw",
+          "sport": "football",
+          "full_name": "James McAtee",
+          "display_name": "McAtee",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_ildwqntcoiq3",
+          "sport": "football",
+          "full_name": "Nicolás Domínguez",
+          "display_name": "Dominguez",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_72mm5yiv3bhu",
+          "sport": "football",
+          "full_name": "Ibrahim Sangaré",
+          "display_name": "I.Sangaré",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_svunc3nvebx6",
+          "sport": "football",
+          "full_name": "Ryan Yates",
+          "display_name": "Yates",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_33oe7b3f3gfb",
+          "sport": "football",
+          "full_name": "Chris Wood",
+          "display_name": "Wood",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_lz2ta65rnqpl",
+          "sport": "football",
+          "full_name": "Igor Jesus Maciel da Cruz",
+          "display_name": "Igor Jesus",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_pvkuq2ia55ig",
+          "sport": "football",
+          "full_name": "Arnaud Kalimuendo",
+          "display_name": "Kalimuendo",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_dlhgim6rayv2",
+          "sport": "football",
+          "full_name": "Xaver Schlager",
+          "display_name": "Schlager",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5beepp56hc4i",
+          "sport": "football",
+          "full_name": "Ousmane Diomande",
+          "display_name": "Diomande",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_vdkydyx7xdr6",
+          "sport": "football",
+          "full_name": "Steven Benda",
+          "display_name": "Benda",
+          "current_team_id": "bb_team_eabuvb7wao4v",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_l5z47bycmjr2",
+          "sport": "football",
+          "full_name": "Jan Paul van Hecke",
+          "display_name": "Van Hecke",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ouzfpxbb3al4",
+          "sport": "football",
+          "full_name": "Tosin Adarabioyo",
+          "display_name": "Tosin",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_w2ig4cenfkoi",
+          "sport": "football",
+          "full_name": "Omar Marmoush",
+          "display_name": "Marmoush",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_c6q3bleswmml",
+          "sport": "football",
+          "full_name": "Sávio Moreira de Oliveira",
+          "display_name": "Sávio",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_kwtjj5buhqzg",
+          "sport": "football",
+          "full_name": "Sandro Tonali",
+          "display_name": "Tonali",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zxji7rxqkudc",
+          "sport": "football",
+          "full_name": "Guglielmo Vicario",
+          "display_name": "Vicario",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_gvnrul4a7idw",
+          "sport": "football",
+          "full_name": "Brandon Austin",
+          "display_name": "Austin",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_gnvdmpcd2rjg",
+          "sport": "football",
+          "full_name": "Antonín Kinský",
+          "display_name": "Kinsky",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_zfd53iigpqwc",
+          "sport": "football",
+          "full_name": "Martin Dubravka",
+          "display_name": "Dubravka",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_kmryjmns5jrk",
+          "sport": "football",
+          "full_name": "Marcos Senesi Barón",
+          "display_name": "Senesi",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3yhqobw2uba3",
+          "sport": "football",
+          "full_name": "Pedro Porro Sauceda",
+          "display_name": "Pedro Porro",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_krwgg3i5qzvg",
+          "sport": "football",
+          "full_name": "Cristian Romero",
+          "display_name": "Romero",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_kpk6u7j3ojpn",
+          "sport": "football",
+          "full_name": "Andrew Robertson",
+          "display_name": "Robertson",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_d2be26xysxoo",
+          "sport": "football",
+          "full_name": "Micky van de Ven",
+          "display_name": "Van de Ven",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_a4k5iuloo4ip",
+          "sport": "football",
+          "full_name": "Djed Spence",
+          "display_name": "Spence",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_koxvxj75kcnn",
+          "sport": "football",
+          "full_name": "Destiny Udogie",
+          "display_name": "Udogie",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_hbs4h3xlzkys",
+          "sport": "football",
+          "full_name": "Ashley Phillips",
+          "display_name": "Phillips",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_uvx2ba3oiw7t",
+          "sport": "football",
+          "full_name": "Ben Davies",
+          "display_name": "Davies",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_wledk522y4xv",
+          "sport": "football",
+          "full_name": "Jun'ai Byfield",
+          "display_name": "Byfield",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xo4dfqghjza2",
+          "sport": "football",
+          "full_name": "James Rowswell",
+          "display_name": "Rowswell",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_3f257f76kqfd",
+          "sport": "football",
+          "full_name": "João Victor de Souza Menezes",
+          "display_name": "Souza",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_zhaqmznxdqji",
+          "sport": "football",
+          "full_name": "Mohammed Kudus",
+          "display_name": "Kudus",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_lzsagmd6x4kv",
+          "sport": "football",
+          "full_name": "Xavi Simons",
+          "display_name": "Xavi",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_vuxhbtbedurh",
+          "sport": "football",
+          "full_name": "Mathys Tel",
+          "display_name": "Tel",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_25fe67c2jkbe",
+          "sport": "football",
+          "full_name": "James Maddison",
+          "display_name": "Maddison",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dqvfty4z476j",
+          "sport": "football",
+          "full_name": "Rodrigo Bentancur",
+          "display_name": "Bentancur",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_64k7fjswdyha",
+          "sport": "football",
+          "full_name": "Wilson Odobert",
+          "display_name": "Odobert",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_elvtirjkvtrh",
+          "sport": "football",
+          "full_name": "Pape Matar Sarr",
+          "display_name": "P.M.Sarr",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_dljyct6zzp7y",
+          "sport": "football",
+          "full_name": "Conor Gallagher",
+          "display_name": "Gallagher",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5coms5eh53tt",
+          "sport": "football",
+          "full_name": "Lucas Bergvall",
+          "display_name": "Bergvall",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_mixp52a5g2cm",
+          "sport": "football",
+          "full_name": "Dejan Kulusevski",
+          "display_name": "Kulusevski",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_cki4vc3xlfi5",
+          "sport": "football",
+          "full_name": "Archie Gray",
+          "display_name": "Gray",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qc2jyo4hnsnw",
+          "sport": "football",
+          "full_name": "Mikey Moore",
+          "display_name": "Moore",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_woqraqrtfy3i",
+          "sport": "football",
+          "full_name": "Callum Olusesi",
+          "display_name": "Olusesi",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_qpnvhmqukhfc",
+          "sport": "football",
+          "full_name": "Mateus Fernandes",
+          "display_name": "Fernandes",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_v63efkmzwyns",
+          "sport": "football",
+          "full_name": "Dominic Solanke-Mitchell",
+          "display_name": "Solanke",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_oa3hq7v6amdm",
+          "sport": "football",
+          "full_name": "Richarlison de Andrade",
+          "display_name": "Richarlison",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_j5n4g72ywdft",
+          "sport": "football",
+          "full_name": "Dane Scarlett",
+          "display_name": "Scarlett",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_l3gp4noq6u3f",
+          "sport": "football",
+          "full_name": "Mykhailo Mudryk",
+          "display_name": "Mudryk",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_jclkh3etfzvn",
+          "sport": "football",
+          "full_name": "Luca Williams-Barnett",
+          "display_name": "Williams-Barnett",
+          "current_team_id": "bb_team_4hgpl4yv64tp",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_23iiv72apoqu",
+          "sport": "football",
+          "full_name": "Kevin Danso",
+          "display_name": "Danso",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_fxaechvra75x",
+          "sport": "football",
+          "full_name": "Robin Roefs",
+          "display_name": "Roefs",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_tzwhbhyvpdt6",
+          "sport": "football",
+          "full_name": "Anthony Patterson",
+          "display_name": "Patterson",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_uwbnpmomsm7b",
+          "sport": "football",
+          "full_name": "Melker Ellborg",
+          "display_name": "Ellborg",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": "bb_player_hqoeumzgvxgb",
+          "sport": "football",
+          "full_name": "Daniel Ballard",
+          "display_name": "Ballard",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_mu25rya6jfws",
+          "sport": "football",
+          "full_name": "Nordi Mukiele",
+          "display_name": "Mukiele",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_xvfso6bkoixh",
+          "sport": "football",
+          "full_name": "Trai Hume",
+          "display_name": "Hume",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_rhlrwfcbzi72",
+          "sport": "football",
+          "full_name": "Omar Alderete",
+          "display_name": "Alderete",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ke7ofa6hif7d",
+          "sport": "football",
+          "full_name": "Reinildo Mandava",
+          "display_name": "Reinildo",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_jwbn64ymgvod",
+          "sport": "football",
+          "full_name": "Jenson Seelt",
+          "display_name": "Seelt",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_flv52gtahyyk",
+          "sport": "football",
+          "full_name": "Leo Fuhr Hjelde",
+          "display_name": "Hjelde",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ywy3gu5p2fyh",
+          "sport": "football",
+          "full_name": "Luke O'Nien",
+          "display_name": "O'Nien",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_cb4pg2oddc2b",
+          "sport": "football",
+          "full_name": "Arthur Masuaku",
+          "display_name": "Masuaku",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_4tiiaoyba6f7",
+          "sport": "football",
+          "full_name": "Thomas Meunier",
+          "display_name": "Meunier",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_ff6sou4p3ajk",
+          "sport": "football",
+          "full_name": "Enzo Le Fée",
+          "display_name": "E.Le Fée",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_grhct2lhgtbz",
+          "sport": "football",
+          "full_name": "Habib Diarra",
+          "display_name": "Diarra",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_yp63wkbzmfbx",
+          "sport": "football",
+          "full_name": "Granit Xhaka",
+          "display_name": "Xhaka",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_6gl663emrlfh",
+          "sport": "football",
+          "full_name": "Noah Sadiki",
+          "display_name": "Sadiki",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_5qpzia2aumny",
+          "sport": "football",
+          "full_name": "Simon Adingra",
+          "display_name": "Adingra",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_hnflfzfegvie",
+          "sport": "football",
+          "full_name": "Romaine Mundle",
+          "display_name": "Mundle",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_bk36fu4wucx7",
+          "sport": "football",
+          "full_name": "Chris Rigg",
+          "display_name": "Rigg",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_zzyc4kidn6ly",
+          "sport": "football",
+          "full_name": "Chemsdine Talbi",
+          "display_name": "Talbi",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_tiylmz275ffi",
+          "sport": "football",
+          "full_name": "Djiamgone Jocelin Ta Bi",
+          "display_name": "Jocelin.T",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_gesdcbv6oz6l",
+          "sport": "football",
+          "full_name": "Nilson Angulo",
+          "display_name": "N.Angulo",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_tkcetms6zwxp",
+          "sport": "football",
+          "full_name": "Brian Brobbey",
+          "display_name": "Brobbey",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_d3p7ef5d6ujh",
+          "sport": "football",
+          "full_name": "Wilson Isidor",
+          "display_name": "Isidor",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Forward"
+        },
+        {
+          "id": "bb_player_edc5pmafvsjq",
+          "sport": "football",
+          "full_name": "Dayann Méthalie",
+          "display_name": "Methalie",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Defender"
+        },
+        {
+          "id": "bb_player_qn5xdgaqs4zc",
+          "sport": "football",
+          "full_name": "Jules Ahoka",
+          "display_name": "Ahoka",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_eeanem3kubhg",
+          "sport": "football",
+          "full_name": "Malick Fofana",
+          "display_name": "Fofana",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Midfielder"
+        },
+        {
+          "id": "bb_player_bxerkb4rexc6",
+          "sport": "football",
+          "full_name": "Juan Angulo",
+          "display_name": "J.Angulo",
+          "current_team_id": "bb_team_w3exvkqkgddc",
+          "position": "Forward"
+        }
+      ],
+      "source": "official-league",
+      "via": "api",
+      "confidence": 0.85,
+      "fetchedAt": "2026-09-07T05:33:54.283Z",
+      "ttlSeconds": 86400
+    },
+    "stats": null
+  },
+  "meta": {
+    "source": "official-league",
+    "confidence": 0.85,
+    "cached": false,
+    "cache_age_ms": 4788449,
+    "request_id": "2fce9b1f-e5fb-47c8-ab2f-e066c10c18ad",
+    "fields_missing": [
+      "stats"
+    ]
+  },
+  "error": null
+}

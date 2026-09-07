@@ -1,0 +1,23 @@
+{
+  "error": {
+    "code": "forbidden",
+    "message": "Access to bookmaker odds requires the Edge plan or higher."
+  },
+  "suggested_fix": "Edge is $149/month and unlocks live and stored bookmaker lines across every book — moneyline, spread and totals — plus opening→closing movement and CLV. Docs: https://bigballsdata.com/docs/endpoints#odds · Start: https://bigballsdata.com/dashboard/billing?plan=edge",
+  "docs_url": "https://bigballsdata.com/docs/endpoints#odds",
+  "support": {
+    "discord": "https://discord.gg/H2WJBQurbq",
+    "email": "support@bigballsdata.com"
+  },
+  "meta": {
+    "request_id": "90a82226-4618-4801-8d31-2b7f5f8f57f7",
+    "timestamp": "2026-09-07T06:54:00.058Z",
+    "upgrade_path": {
+      "current_tier": "free",
+      "recommended_tier": "edge",
+      "price": "$149/month",
+      "daily_limit": 100000,
+      "url": "https://bigballsdata.com/dashboard/billing?plan=edge"
+    }
+  }
+}

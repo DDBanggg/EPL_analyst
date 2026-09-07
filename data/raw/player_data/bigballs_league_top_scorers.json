@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "player_name": "Bruno Fernandes",
+      "team": "Manchester United",
+      "goals": 3,
+      "assists": 1,
+      "minutes": 188,
+      "matches": 2
+    },
+    {
+      "rank": 2,
+      "player_name": "João Pedro",
+      "team": "Chelsea",
+      "goals": 2,
+      "assists": 2,
+      "minutes": 180,
+      "matches": 2
+    },
+    {
+      "rank": 3,
+      "player_name": "R. Cherki",
+      "team": "Manchester City",
+      "goals": 2,
+      "assists": 2,
+      "minutes": 109,
+      "matches": 2
+    },
+    {
+      "rank": 4,
+      "player_name": "C. Palmer",
+      "team": "Chelsea",
+      "goals": 2,
+      "assists": 1,
+      "minutes": 173,
+      "matches": 2
+    },
+    {
+      "rank": 5,
+      "player_name": "J. Hinshelwood",
+      "team": "Brighton & Hove Albion",
+      "goals": 2,
+      "assists": 0,
+      "minutes": 64,
+      "matches": 1
+    },
+    {
+      "rank": 6,
+      "player_name": "E. Haaland",
+      "team": "Manchester City",
+      "goals": 2,
+      "assists": 0,
+      "minutes": 180,
+      "matches": 2
+    },
+    {
+      "rank": 7,
+      "player_name": "A. Elanga",
+      "team": "Newcastle United",
+      "goals": 2,
+      "assists": 0,
+      "minutes": 158,
+      "matches": 2
+    },
+    {
+      "rank": 8,
+      "player_name": "K. Lewis-Potter",
+      "team": "Brentford",
+      "goals": 1,
+      "assists": 1,
+      "minutes": 178,
+      "matches": 2
+    },
+    {
+      "rank": 9,
+      "player_name": "Y. Wissa",
+      "team": "Newcastle United",
+      "goals": 1,
+      "assists": 1,
+      "minutes": 171,
+      "matches": 2
+    },
+    {
+      "rank": 10,
+      "player_name": "C. Gakpo",
+      "team": "Liverpool",
+      "goals": 1,
+      "assists": 1,
+      "minutes": 161,
+      "matches": 2
+    },
+    {
+      "rank": 11,
+      "player_name": "M. Gibbs-White",
+      "team": "Nottingham Forest",
+      "goals": 1,
+      "assists": 1,
+      "minutes": 180,
+      "matches": 2
+    },
+    {
+      "rank": 12,
+      "player_name": "J. Gvardiol",
+      "team": "Manchester City",
+      "goals": 1,
+      "assists": 1,
+      "minutes": 165,
+      "matches": 2
+    },
+    {
+      "rank": 13,
+      "player_name": "M. Rogers",
+      "team": "Chelsea",
+      "goals": 1,
+      "assists": 1,
+      "minutes": 172,
+      "matches": 2
+    },
+    {
+      "rank": 14,
+      "player_name": "J. Clarke",
+      "team": "Ipswich Town",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 19,
+      "matches": 1
+    },
+    {
+      "rank": 15,
+      "player_name": "M. Tavernier",
+      "team": "AFC Bournemouth",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 180,
+      "matches": 2
+    },
+    {
+      "rank": 16,
+      "player_name": "B. Mbeumo",
+      "team": "Manchester United",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 188,
+      "matches": 2
+    },
+    {
+      "rank": 17,
+      "player_name": "V. Janelt",
+      "team": "Brentford",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 180,
+      "matches": 2
+    },
+    {
+      "rank": 18,
+      "player_name": "M. Ødegaard",
+      "team": "Arsenal",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 76,
+      "matches": 1
+    },
+    {
+      "rank": 19,
+      "player_name": "L. Millar",
+      "team": "Hull City",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 56,
+      "matches": 2
+    },
+    {
+      "rank": 20,
+      "player_name": "D. Ndoye",
+      "team": "Nottingham Forest",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 128,
+      "matches": 2
+    },
+    {
+      "rank": 21,
+      "player_name": "M. Guéhi",
+      "team": "Manchester City",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 180,
+      "matches": 2
+    },
+    {
+      "rank": 22,
+      "player_name": "W. Isidor",
+      "team": "Sunderland",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 49,
+      "matches": 2
+    },
+    {
+      "rank": 23,
+      "player_name": "K. Dewsbury-Hall",
+      "team": "Everton",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 179,
+      "matches": 2
+    },
+    {
+      "rank": 24,
+      "player_name": "M. De Cuyper",
+      "team": "Brighton & Hove Albion",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 168,
+      "matches": 2
+    },
+    {
+      "rank": 25,
+      "player_name": "A. Stach",
+      "team": "Leeds United",
+      "goals": 1,
+      "assists": 0,
+      "minutes": 180,
+      "matches": 2
+    }
+  ],
+  "updated_at": "2026-09-01T08:54:01.183Z",
+  "meta": {
+    "league": "epl",
+    "season": 2026,
+    "category": "goals",
+    "cached": false,
+    "cache_age_ms": 0
+  }
+}

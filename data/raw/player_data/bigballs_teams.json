@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+      "name": "AFC Bournemouth",
+      "short_name": "BOU",
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+      "name": "Aston Villa",
+      "short_name": "AVL",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "f1dad0f2-fa00-4787-ab2a-4f17699d8aa8",
+      "name": "Brentford",
+      "short_name": "BRE",
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "f915ab29-4383-47dc-9a9d-c9a6969d5c6a",
+      "name": "Brighton & Hove Albion",
+      "short_name": "BHA",
+      "logo_url": "https://crests.football-data.org/397.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "410f522a-5fa5-44a5-afc2-128b4f482a96",
+      "name": "Burnley",
+      "short_name": "BUR",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "e5c3fbbb-ca78-4dbd-a4f6-7da636ec980f",
+      "name": "Cardiff",
+      "short_name": null,
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "544de6be-906a-40c9-8d32-17ed7239348f",
+      "name": "Chelsea",
+      "short_name": "CHE",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+      "name": "Coventry City",
+      "short_name": "COV",
+      "logo_url": "https://crests.football-data.org/1076.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "75b48108-aa4a-4b0f-95ee-70fbf8f2fc29",
+      "name": "Crystal Palace",
+      "short_name": "CRY",
+      "logo_url": "https://crests.football-data.org/354.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+      "name": "Everton",
+      "short_name": "EVE",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+      "name": "Fulham",
+      "short_name": "FUL",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "6746e4ab-5d93-422b-993f-4ec30967fed8",
+      "name": "Huddersfield",
+      "short_name": null,
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "fd1a7234-c96d-4628-a0e6-71c44b29d838",
+      "name": "Hull City",
+      "short_name": "HUL",
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+      "name": "Ipswich Town",
+      "short_name": "IPS",
+      "logo_url": "https://crests.football-data.org/349.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+      "name": "Leeds United",
+      "short_name": "LEE",
+      "logo_url": "https://crests.football-data.org/341.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "ad212045-60f0-4c93-ae86-9c28c8d5d54e",
+      "name": "Leicester",
+      "short_name": null,
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "74a9c474-32e5-4b48-b9c0-b67122a1617a",
+      "name": "Liverpool",
+      "short_name": "LIV",
+      "logo_url": "https://crests.football-data.org/64.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "5b4706c9-dbd9-454e-be43-eefd06922065",
+      "name": "Luton",
+      "short_name": null,
+      "logo_url": null,
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    },
+    {
+      "id": "c12cf38c-1e19-4095-b367-c4ef2a184bb4",
+      "name": "Manchester City",
+      "short_name": "MNC",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+      "flag_url": null,
+      "sport": "football",
+      "league": "EPL"
+    }
+  ],
+  "pagination": {
+    "total": 36,
+    "limit": 20,
+    "offset": 0
+  }
+}

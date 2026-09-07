@@ -1,0 +1,52 @@
+{
+  "get": "coaches",
+  "results": 1,
+  "response": [
+    {
+      "id": 19253,
+      "name": "F. Hürzeler",
+      "firstname": "Fabian Marc",
+      "lastname": "Hürzeler",
+      "age": 32,
+      "birth": {
+        "date": "1993-02-26",
+        "place": "Houston",
+        "country": "USA"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "photo": "https://images.kickoffapi.com/images/coaches/19253.png?format=webp",
+      "teamId": 51,
+      "career": [
+        {
+          "end": null,
+          "team": {
+            "id": 51,
+            "logo": "https://images.kickoffapi.com/images/logos/51.png?format=webp",
+            "name": "Brighton & Hove Albion"
+          },
+          "start": "2024-06-01"
+        },
+        {
+          "end": "2024-06-01",
+          "team": {
+            "id": 186,
+            "logo": "https://images.kickoffapi.com/images/logos/186.png?format=webp",
+            "name": "St. Pauli"
+          },
+          "start": "2022-12-01"
+        },
+        {
+          "end": "2020-07-01",
+          "team": {
+            "id": 12832,
+            "logo": "https://images.kickoffapi.com/images/logos/12832.png?format=webp",
+            "name": "Pipinsried"
+          },
+          "start": "2016-07-01"
+        }
+      ]
+    }
+  ]
+}

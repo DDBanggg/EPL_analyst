@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "season": "2024/2025",
+      "competition": "Bundesliga",
+      "country": "Germany",
+      "place": "2nd Place",
+      "won": false
+    },
+    {
+      "season": "2024",
+      "competition": "Super Cup",
+      "country": "Germany",
+      "place": "Winner",
+      "won": true
+    },
+    {
+      "season": "2023/2024",
+      "competition": "DFB Pokal",
+      "country": "Germany",
+      "place": "Winner",
+      "won": true
+    },
+    {
+      "season": "2023/2024",
+      "competition": "Bundesliga",
+      "country": "Germany",
+      "place": "Winner",
+      "won": true
+    },
+    {
+      "season": "2023/2024",
+      "competition": "UEFA Europa League",
+      "country": "Europe",
+      "place": "2nd Place",
+      "won": false
+    },
+    {
+      "season": null,
+      "competition": "DFB Pokal",
+      "country": "Germany",
+      "place": "Winner",
+      "won": true
+    },
+    {
+      "season": null,
+      "competition": "Bundesliga",
+      "country": "Germany",
+      "place": "Winner",
+      "won": true
+    },
+    {
+      "season": null,
+      "competition": "Bundesliga",
+      "country": "Germany",
+      "place": "2nd Place",
+      "won": false
+    },
+    {
+      "season": null,
+      "competition": "Super Cup",
+      "country": "Germany",
+      "place": "Winner",
+      "won": true
+    },
+    {
+      "season": null,
+      "competition": "UEFA Europa League",
+      "country": "Europe",
+      "place": "2nd Place",
+      "won": false
+    }
+  ],
+  "total_trophies": 6,
+  "meta": {
+    "cached": true,
+    "cache_age_ms": 14144540
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": "81e729fe-277e-4e91-b490-3cb14d253025",
+    "sport": "football",
+    "league": "EPL",
+    "home": {
+      "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+      "name": "Everton",
+      "short_name": "EVE",
+      "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+    },
+    "away": {
+      "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+      "name": "Manchester United",
+      "short_name": "MAN",
+      "logo_url": null
+    },
+    "kickoff_utc": "2026-09-06T13:00:00.000Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "linescore": {
+      "away": [
+        2
+      ],
+      "home": [
+        2
+      ]
+    },
+    "attendance": 0,
+    "broadcast": "USA Net",
+    "round": null,
+    "has_odds": true
+  },
+  "meta": {
+    "source": "stored",
+    "cached": false,
+    "request_id": "8e71c8f1-1bd4-45b9-899c-150585f5f290",
+    "note": "Served from the stored matches table (no live adapter currently lists this match)."
+  },
+  "error": null
+}

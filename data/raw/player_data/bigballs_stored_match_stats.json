@@ -1,0 +1,3374 @@
+{
+  "data": {
+    "team_stats": [
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "accurateCrosses",
+        "label": "Accurate Crosses",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "accurateLongBalls",
+        "label": "Accurate Long Balls",
+        "display_value": "33",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "accuratePasses",
+        "label": "Accurate Passes",
+        "display_value": "265",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "blockedShots",
+        "label": "Blocked Shots",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "crossPct",
+        "label": "Cross %",
+        "display_value": "0.1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "effectiveClearance",
+        "label": "Effective Clearances",
+        "display_value": "30",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "effectiveTackles",
+        "label": "Effective Tackles",
+        "display_value": "2",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "foulsCommitted",
+        "label": "Fouls",
+        "display_value": "13",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "interceptions",
+        "label": "Interceptions",
+        "display_value": "9",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "longballPct",
+        "label": "Long Balls %",
+        "display_value": "0.5",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "offsides",
+        "label": "Offsides",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "passPct",
+        "label": "Pass Completion %",
+        "display_value": "0.8",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "penaltyKickGoals",
+        "label": "Penalty Goals",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "penaltyKickShots",
+        "label": "Penalty Kicks Taken",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "possessionPct",
+        "label": "Possession",
+        "display_value": "35.5",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "redCards",
+        "label": "Red Cards",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "saves",
+        "label": "Saves",
+        "display_value": "2",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "score",
+        "label": null,
+        "display_value": null,
+        "fetched_at": "2026-08-21T20:17:40.133Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "shotPct",
+        "label": "On Target %",
+        "display_value": "0.3",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "shotsOnTarget",
+        "label": "ON GOAL",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "tacklePct",
+        "label": "Tackle %",
+        "display_value": "0.5",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "totalClearance",
+        "label": "Clearances",
+        "display_value": "30",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "totalCrosses",
+        "label": "Crosses",
+        "display_value": "10",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "totalLongBalls",
+        "label": "Long Balls",
+        "display_value": "65",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "totalPasses",
+        "label": "Passes",
+        "display_value": "337",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "totalShots",
+        "label": "SHOTS",
+        "display_value": "4",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "totalTackles",
+        "label": "Tackles",
+        "display_value": "4",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "wonCorners",
+        "label": "Corner Kicks",
+        "display_value": "2",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "team_logo_url": "https://crests.football-data.org/1076.png",
+        "field": "yellowCards",
+        "label": "Yellow Cards",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "accurateCrosses",
+        "label": "Accurate Crosses",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "accurateLongBalls",
+        "label": "Accurate Long Balls",
+        "display_value": "20",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "accuratePasses",
+        "label": "Accurate Passes",
+        "display_value": "561",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "blockedShots",
+        "label": "Blocked Shots",
+        "display_value": "8",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "crossPct",
+        "label": "Cross %",
+        "display_value": "0.1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "effectiveClearance",
+        "label": "Effective Clearances",
+        "display_value": "22",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "effectiveTackles",
+        "label": "Effective Tackles",
+        "display_value": "6",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "foulsCommitted",
+        "label": "Fouls",
+        "display_value": "10",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "interceptions",
+        "label": "Interceptions",
+        "display_value": "5",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "longballPct",
+        "label": "Long Balls %",
+        "display_value": "0.6",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "offsides",
+        "label": "Offsides",
+        "display_value": "5",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "passPct",
+        "label": "Pass Completion %",
+        "display_value": "0.9",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "penaltyKickGoals",
+        "label": "Penalty Goals",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "penaltyKickShots",
+        "label": "Penalty Kicks Taken",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "possessionPct",
+        "label": "Possession",
+        "display_value": "64.5",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "redCards",
+        "label": "Red Cards",
+        "display_value": "0",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "saves",
+        "label": "Saves",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "score",
+        "label": null,
+        "display_value": null,
+        "fetched_at": "2026-08-21T20:17:40.129Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "shotPct",
+        "label": "On Target %",
+        "display_value": "0.3",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "shotsOnTarget",
+        "label": "ON GOAL",
+        "display_value": "6",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "tacklePct",
+        "label": "Tackle %",
+        "display_value": "0.7",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "totalClearance",
+        "label": "Clearances",
+        "display_value": "22",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "totalCrosses",
+        "label": "Crosses",
+        "display_value": "19",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "totalLongBalls",
+        "label": "Long Balls",
+        "display_value": "31",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "totalPasses",
+        "label": "Passes",
+        "display_value": "613",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "totalShots",
+        "label": "SHOTS",
+        "display_value": "20",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "totalTackles",
+        "label": "Tackles",
+        "display_value": "9",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "wonCorners",
+        "label": "Corner Kicks",
+        "display_value": "8",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      },
+      {
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "team_logo_url": null,
+        "field": "yellowCards",
+        "label": "Yellow Cards",
+        "display_value": "1",
+        "fetched_at": "2026-08-22T00:01:18.802Z"
+      }
+    ],
+    "players": [
+      {
+        "id": "1dc9ad51-523f-4c57-9e51-056d6b4ecd43",
+        "name": "Cristhian Mosquera",
+        "headshot_url": "https://media.api-sports.io/football/players/333682.png",
+        "position": "Defender",
+        "jersey_number": "3",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "1",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "5",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "1",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "62",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "65",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.9",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "2013e5d8-7016-4ee5-ad43-40c5f89a2649",
+        "name": "Frank Onyeka",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p428580.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "6",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "3",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "1",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "3",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "16",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "22",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.2",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "39565267-ebd6-44fc-841d-d2921dceaa7a",
+        "name": "Ben Wilson",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p110690.png",
+        "position": "GK",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "3ec4dc2e-a43d-427e-9426-72b431891211",
+        "name": "Liam Kitching",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p436761.png",
+        "position": "DEF",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "4767bdd3-e609-480c-9390-4a30991bab25",
+        "name": "Josh Eccles",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p439668.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "4907acf3-6806-4d9e-a587-c61f89fb75bc",
+        "name": "Mikel Merino",
+        "headshot_url": "https://media.api-sports.io/football/players/47311.png",
+        "position": "Midfielder",
+        "jersey_number": "23",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "1",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "2",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "1",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "14",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "11",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "12",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.9",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_on": {
+            "value": "1",
+            "label": "Shots On Target"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "51254885-27c8-4579-aa58-e1e1f837fe6b",
+        "name": "Max Dowman",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p616077.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "53c99d37-e3ad-42de-b1c8-40ccf982cdd3",
+        "name": "Declan Rice",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204480.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "68",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "71",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "75",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.5",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_total": {
+            "value": "2",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "5f98e632-1436-4c8e-ab52-5ccb06163d4a",
+        "name": "Martín Zubimendi",
+        "headshot_url": "https://media.api-sports.io/football/players/47315.png",
+        "position": "Midfielder",
+        "jersey_number": "18",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "1",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "22",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "26",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "28",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.9",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "6cd3b2e7-230e-48de-bf88-1e8f88fed5a2",
+        "name": "K. Havertz",
+        "headshot_url": "https://media.api-sports.io/football/players/978.png",
+        "position": "Attacker",
+        "jersey_number": "7",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "1",
+            "label": "Dribbles"
+          },
+          "duels_total": {
+            "value": "10",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "5",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals": {
+            "value": "1",
+            "label": "Goals"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "offsides": {
+            "value": "2",
+            "label": "Offsides"
+          },
+          "pass_accuracy": {
+            "value": "20",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "1",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "25",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_on": {
+            "value": "1",
+            "label": "Shots On Target"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "6d2bf4b0-662d-4f8e-8859-cc9522acc6c3",
+        "name": "Ellis Simms",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p218997.png",
+        "position": "FWD",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "2",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "9",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "5",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "1",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "70",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "9",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "1",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "13",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "74fe80da-36ee-40f6-aec9-8d60ae4692d6",
+        "name": "B. Thomas-Asante",
+        "headshot_url": "https://media.api-sports.io/football/players/82090.png",
+        "position": "Attacker",
+        "jersey_number": "10",
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "9",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "4",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "4",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "70",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "6",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "10",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.2",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "828a05ff-e8d2-4fa0-b09b-3e47c9d63a0b",
+        "name": "Martin Ødegaard",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184029.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "true",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "6",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "4",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "1",
+            "label": "Fouls Drawn"
+          },
+          "goals": {
+            "value": "1",
+            "label": "Goals"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "76",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "52",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "3",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "56",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "8.5",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_on": {
+            "value": "1",
+            "label": "Shots On Target"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "3",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "893159b0-9f30-4b28-8ed0-d6ce8e1c0177",
+        "name": "Joel Latibeaudiere",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204813.png",
+        "position": "DEF",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "8a3890c2-872f-44df-8dc4-d291ca8034f5",
+        "name": "Carl Rushworth",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p472739.png",
+        "position": "GK",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "3",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "29",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "45",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_saved": {
+            "value": "0",
+            "label": "Penalties Saved"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "saves": {
+            "value": "2",
+            "label": "Saves"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "8ee46469-b089-4de6-804a-1d7035b13a87",
+        "name": "Bobby Thomas",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p461102.png",
+        "position": "DEF",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "7",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "4",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "1",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "35",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "1",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "39",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.2",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_blocks": {
+            "value": "2",
+            "label": "Blocks"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "989f04c6-6f3f-4196-a5e3-455b135b7bb1",
+        "name": "Jay Dasilva",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p173878.png",
+        "position": "DEF",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "3",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "5",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "22",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "28",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_blocks": {
+            "value": "1",
+            "label": "Blocks"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "9d50e5dd-7f34-4bc4-9ae5-5f3c4198c764",
+        "name": "Loum Tchaouna",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p469272.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "3",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "9",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "4",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "1",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "82",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "22",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "30",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.2",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "a824c766-06d0-43f7-be0c-577321f64805",
+        "name": "Taiwo Awoniyi",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p210156.png",
+        "position": "FWD",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "1",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "1",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "20",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "4",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "6",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "b281e782-86a8-43d4-b6a2-49d3931c1f67",
+        "name": "Eberechi Eze",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232413.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "1",
+            "label": "Dribbles"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "14",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "6",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "7",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "b86e7c22-9747-4928-8f43-44844c1b35ae",
+        "name": "Matt Grimes",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p168144.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "true",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "6",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "5",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "50",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "56",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_blocks": {
+            "value": "1",
+            "label": "Blocks"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "ba6c92d9-8787-4439-8ab1-e607e117dfc8",
+        "name": "N. Madueke",
+        "headshot_url": "https://media.api-sports.io/football/players/136723.png",
+        "position": "Attacker",
+        "jersey_number": "21",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "2",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "22",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "13",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "4",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "15",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.9",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "bf22363d-7bda-4366-97ed-61572b3334e6",
+        "name": "Gabriel Magalhães",
+        "headshot_url": "https://media.api-sports.io/football/players/22224.png",
+        "position": "Defender",
+        "jersey_number": "3",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "9",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "54",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "57",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.5",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "1",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "c047e601-b8b9-4033-9af5-3d1fd52d3e72",
+        "name": "V. Gyökeres",
+        "headshot_url": "https://media.api-sports.io/football/players/18979.png",
+        "position": "Attacker",
+        "jersey_number": "17",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "c199f641-393e-4c9d-9c6c-ddf1f17230a7",
+        "name": "Bukayo Saka",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "1",
+            "label": "Dribbles"
+          },
+          "dribbles_success": {
+            "value": "1",
+            "label": "Dribbles Won"
+          },
+          "duels_total": {
+            "value": "5",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "3",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "1",
+            "label": "Fouls Drawn"
+          },
+          "goals": {
+            "value": "1",
+            "label": "Goals"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "68",
+            "label": "Minutes"
+          },
+          "offsides": {
+            "value": "1",
+            "label": "Offsides"
+          },
+          "pass_accuracy": {
+            "value": "30",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "2",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "34",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.9",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_on": {
+            "value": "1",
+            "label": "Shots On Target"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "c36e601b-59bc-4239-9e9a-b5be6592690a",
+        "name": "P. Hincapié",
+        "headshot_url": "https://media.api-sports.io/football/players/127817.png",
+        "position": "Defender",
+        "jersey_number": "3",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "1",
+            "label": "Duels"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "9",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "5",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "5",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "cbdbe5ae-51dc-47d4-a6ae-8830498892e5",
+        "name": "Milan van Ewijk",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p451284.png",
+        "position": "DEF",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "5",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "14",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "19",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "5.5",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_blocks": {
+            "value": "2",
+            "label": "Blocks"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "d4aa2f44-a35b-4867-8a4e-ec06a4ecdd64",
+        "name": "David Raya",
+        "headshot_url": "https://media.api-sports.io/football/players/19465.png",
+        "position": "Goalkeeper",
+        "jersey_number": "1",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "14",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "18",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_saved": {
+            "value": "0",
+            "label": "Penalties Saved"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "saves": {
+            "value": "1",
+            "label": "Saves"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "d55bf239-6322-47a1-8ab6-08466005daed",
+        "name": "Caleb Marfo Yirenkyi",
+        "headshot_url": "https://media.api-sports.io/football/players/475575.png",
+        "position": "Midfielder",
+        "jersey_number": "3",
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "2",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "62",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "10",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "13",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.2",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "1",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "da7d7632-8dc7-4400-a7b1-fb96fe4fcee5",
+        "name": "Gustavo Hamer",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p196100.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "dribbles_attempts": {
+            "value": "1",
+            "label": "Dribbles"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "8",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "5",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "7",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.3",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "eb4c1e6a-c9d2-454c-b849-709674a7d04e",
+        "name": "Myles Lewis-Skelly",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499169.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "6",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "5",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "1",
+            "label": "Fouls"
+          },
+          "fouls_drawn": {
+            "value": "3",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "77",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "1",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "81",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.3",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_blocks": {
+            "value": "1",
+            "label": "Blocks"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "ebdd6597-18a4-4b5f-b5de-56304b8eb94f",
+        "name": "Jack Rudoni",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p480457.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "3",
+            "label": "Duels Won"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "20",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "9",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "13",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.6",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_on": {
+            "value": "1",
+            "label": "Shots On Target"
+          },
+          "shots_total": {
+            "value": "1",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "f1403812-05ac-45c8-bde6-c67b54bb88bf",
+        "name": "Riccardo Calafiori",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p466075.png",
+        "position": "DEF",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "1",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "3",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "2",
+            "label": "Duels Won"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "81",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "20",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "1",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "24",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.3",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "f297667e-88de-481f-be0b-210eedc73020",
+        "name": "Kepa Arrizabalaga Revuelta",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109745.png",
+        "position": "GK",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "f2eda6f6-1179-4efa-9eb8-e061ae4bf250",
+        "name": "Tatsuhiro Sakamoto",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p501459.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "f3cc3d76-e2d7-46b2-b561-ee2bb9a4027a",
+        "name": "Christos Tzolis",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p439509.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "7",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "4",
+            "label": "Duels Won"
+          },
+          "fouls_drawn": {
+            "value": "2",
+            "label": "Fouls Drawn"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "76",
+            "label": "Minutes"
+          },
+          "offsides": {
+            "value": "1",
+            "label": "Offsides"
+          },
+          "pass_accuracy": {
+            "value": "30",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "3",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "36",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.3",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "shots_on": {
+            "value": "2",
+            "label": "Shots On Target"
+          },
+          "shots_total": {
+            "value": "3",
+            "label": "Shots"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "f48d7eb2-9376-422f-af08-acfb4a0c5dc6",
+        "name": "A. Amenda",
+        "headshot_url": "https://media.api-sports.io/football/players/162414.png",
+        "position": "Defender",
+        "jersey_number": "18",
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "4",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "1",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "1",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "28",
+            "label": "Pass Accuracy"
+          },
+          "passes_total": {
+            "value": "33",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.2",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_blocks": {
+            "value": "3",
+            "label": "Blocks"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "f97c93a4-eada-4666-b034-81676522c40c",
+        "name": "B. White",
+        "headshot_url": "https://media.api-sports.io/football/players/19959.png",
+        "position": "Defender",
+        "jersey_number": "21",
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "assists": {
+            "value": "1",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "7",
+            "label": "Duels"
+          },
+          "duels_won": {
+            "value": "4",
+            "label": "Duels Won"
+          },
+          "fouls_committed": {
+            "value": "1",
+            "label": "Fouls"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "90",
+            "label": "Minutes"
+          },
+          "offsides": {
+            "value": "1",
+            "label": "Offsides"
+          },
+          "pass_accuracy": {
+            "value": "74",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "2",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "78",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "7.9",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "false",
+            "label": "Substitute"
+          },
+          "tackles_total": {
+            "value": "1",
+            "label": "Tackles"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "fa90a0bf-885d-45f1-8f91-0a6c1a9d9d82",
+        "name": "Victor Torp",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226965.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "team_name": "Coventry City",
+        "stats": {
+          "assists": {
+            "value": "0",
+            "label": "Assists"
+          },
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "duels_total": {
+            "value": "1",
+            "label": "Duels"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "interceptions": {
+            "value": "1",
+            "label": "Interceptions"
+          },
+          "minutes": {
+            "value": "28",
+            "label": "Minutes"
+          },
+          "pass_accuracy": {
+            "value": "12",
+            "label": "Pass Accuracy"
+          },
+          "passes_key": {
+            "value": "1",
+            "label": "Key Passes"
+          },
+          "passes_total": {
+            "value": "13",
+            "label": "Passes"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "rating": {
+            "value": "6.6",
+            "label": "Rating"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      },
+      {
+        "id": "fc1af940-aba4-4a4b-bfaa-b3c9eda5c27c",
+        "name": "Ethan Nwaneri",
+        "headshot_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p499175.png",
+        "position": "MID",
+        "jersey_number": null,
+        "team_id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "team_name": "Arsenal",
+        "stats": {
+          "captain": {
+            "value": "false",
+            "label": "Captain"
+          },
+          "goals_conceded": {
+            "value": "0",
+            "label": "Goals Conceded"
+          },
+          "penalty_missed": {
+            "value": "0",
+            "label": "Penalties Missed"
+          },
+          "penalty_scored": {
+            "value": "0",
+            "label": "Penalties Scored"
+          },
+          "red_cards": {
+            "value": "0",
+            "label": "Red Cards"
+          },
+          "substitute": {
+            "value": "true",
+            "label": "Substitute"
+          },
+          "yellow_cards": {
+            "value": "0",
+            "label": "Yellow Cards"
+          }
+        }
+      }
+    ]
+  }
+}

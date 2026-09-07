@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": "s_0OtzAE",
+    "player": {
+      "id": "p_4NUmpH",
+      "name": "Christos Tzolis",
+      "position_id": null,
+      "image_url": "https://cdn.pitchapi.dev/images/players/f9f61e64501eb2f9dc57518acb2671e328a2b17dad7d86e4a561992ec106aac0.webp"
+    },
+    "team_id": "t_1gkhxH",
+    "x": 89.7,
+    "y": 39.629047619999994,
+    "expected_goals": 0.09124980866909027,
+    "expected_goals_on_target": 0,
+    "is_on_target": false,
+    "goal_crossed_y": 24.2794904507,
+    "goal_crossed_z": 5.305931043199999,
+    "is_inside_box": true,
+    "shot_type": "RightFoot",
+    "situation": "RegularPlay",
+    "minute": 5,
+    "event_type": "Miss"
+  }
+}

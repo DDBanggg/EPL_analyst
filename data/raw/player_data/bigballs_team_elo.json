@@ -1,0 +1,29 @@
+{
+  "data": {
+    "team_id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+    "name": "AFC Bournemouth",
+    "abbreviation": "BOU",
+    "logo_url": null,
+    "sport": "football",
+    "league": "EPL",
+    "elo_rating": 1532.6,
+    "elo_rank": null,
+    "games_counted": 39,
+    "last_computed": "2026-08-25T16:20:12.598Z",
+    "last_match_date": "2026-08-23",
+    "note": null,
+    "upgrade": {
+      "locked": [
+        "elo_rank",
+        "elo/history",
+        "win_probability"
+      ],
+      "message": "You are seeing the rating. Rank, the full rating history and model win probabilities are on Solo.",
+      "url": "https://bigballsdata.com/pricing"
+    }
+  },
+  "meta": {
+    "cached": false,
+    "cache_age_ms": 0
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": "3f9f9913-172a-4f74-bd6e-199b4ccfa8a5",
+    "sport": "football",
+    "league": "EPL",
+    "home": {
+      "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "logo_url": null
+    },
+    "away": {
+      "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+      "name": "Coventry City",
+      "short_name": "COV",
+      "logo_url": "https://crests.football-data.org/1076.png"
+    },
+    "kickoff_utc": "2026-08-21T19:00:00.000Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "linescore": {
+      "away": [
+        0,
+        0
+      ],
+      "home": [
+        2,
+        1
+      ]
+    },
+    "attendance": 60098,
+    "broadcast": "USA Net",
+    "round": "Regular Season - 1",
+    "has_odds": true,
+    "odds": [],
+    "odds_available": false,
+    "odds_note": "Access to bookmaker odds requires the Edge plan or higher. Edge is $149/month and unlocks live and stored bookmaker lines across every book — moneyline, spread and totals — plus opening→closing movement and CLV. Docs: https://bigballsdata.com/docs/endpoints · Start: https://bigballsdata.com/dashboard/billing?plan=edge"
+  }
+}

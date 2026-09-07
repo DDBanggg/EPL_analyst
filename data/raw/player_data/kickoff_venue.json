@@ -1,0 +1,15 @@
+{
+  "get": "venues",
+  "results": 1,
+  "response": [
+    {
+      "id": 508,
+      "name": "American Express Stadium",
+      "address": null,
+      "city": "Falmer, East Sussex",
+      "capacity": null,
+      "surface": null,
+      "image": "https://images.kickoffapi.com/images/venues/508.png?format=webp"
+    }
+  ]
+}

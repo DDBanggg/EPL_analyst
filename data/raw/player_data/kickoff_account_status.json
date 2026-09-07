@@ -1,0 +1,14 @@
+{
+  "plan": "FREE",
+  "unlimited": false,
+  "dailyUsage": {
+    "used": 43,
+    "limit": 100,
+    "remaining": 57
+  },
+  "monthlyUsage": {
+    "used": 43,
+    "limit": 3000
+  },
+  "resetTime": "2026-09-07T23:59:59.999Z"
+}

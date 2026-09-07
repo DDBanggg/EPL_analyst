@@ -1,0 +1,23 @@
+{
+  "error": {
+    "code": "forbidden",
+    "message": "Access to per-match team statistics requires the Edge plan or higher."
+  },
+  "suggested_fix": "Edge is $149/month and unlocks full box-score stats — possession, shots, xG, cards, corners — for every match. Docs: https://bigballsdata.com/docs/endpoints#statistics · Start: https://bigballsdata.com/dashboard/billing?plan=edge",
+  "docs_url": "https://bigballsdata.com/docs/endpoints#statistics",
+  "support": {
+    "discord": "https://discord.gg/H2WJBQurbq",
+    "email": "support@bigballsdata.com"
+  },
+  "meta": {
+    "request_id": "73c0d63d-0682-4183-a999-1c14571f49b9",
+    "timestamp": "2026-09-07T06:53:59.551Z",
+    "upgrade_path": {
+      "current_tier": "free",
+      "recommended_tier": "edge",
+      "price": "$149/month",
+      "daily_limit": 100000,
+      "url": "https://bigballsdata.com/dashboard/billing?plan=edge"
+    }
+  }
+}

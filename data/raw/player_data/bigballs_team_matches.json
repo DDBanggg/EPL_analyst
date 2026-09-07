@@ -1,0 +1,999 @@
+{
+  "data": [
+    {
+      "id": "70515de8-7450-43ae-a270-95ade9842a2b",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "74a9c474-32e5-4b48-b9c0-b67122a1617a",
+        "name": "Liverpool",
+        "short_name": "LIV",
+        "logo_url": "https://crests.football-data.org/64.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-05-30T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "eb401715-db85-4076-8045-8cb7d4a121bd",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "544de6be-906a-40c9-8d32-17ed7239348f",
+        "name": "Chelsea",
+        "short_name": "CHE",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+      },
+      "kickoff_utc": "2027-05-23T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "b9ee7f6a-e0cc-41f4-b890-3cca1f5c60d2",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "short_name": "SUN",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-05-15T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "1dbefe9e-e9bf-4384-af04-920efe7b88d7",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "short_name": "MAN",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-05-08T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "90a3acd4-914d-4267-8d1c-bd596043240e",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "fd1a7234-c96d-4628-a0e6-71c44b29d838",
+        "name": "Hull City",
+        "short_name": "HUL",
+        "logo_url": null
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-05-01T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "9b3e748a-f3f6-464f-9b27-725ee2da40cf",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "name": "Arsenal",
+        "short_name": "ARS",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-04-24T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "364b05b7-0594-485f-9b44-60b5547a5c07",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+        "name": "Everton",
+        "short_name": "EVE",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-04-17T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "fea5035d-35aa-41c6-91b1-0c401e9e6e68",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "c12cf38c-1e19-4095-b367-c4ef2a184bb4",
+        "name": "Manchester City",
+        "short_name": "MNC",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+      },
+      "kickoff_utc": "2027-04-10T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "b9e3d13f-afaa-4101-a635-46efcd5b65c0",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "f1dad0f2-fa00-4787-ab2a-4f17699d8aa8",
+        "name": "Brentford",
+        "short_name": "BRE",
+        "logo_url": null
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-03-20T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "7ce21a81-fb16-4175-b6e2-0f789a58dcc1",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "short_name": "NEW",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-03-13T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "80d9ee68-f29e-46d0-9cc9-3cd577a21745",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "short_name": "TOT",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-03-03T20:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "1e47cec8-9f1b-4542-8ebc-323f68d0f3ca",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "name": "Coventry City",
+        "short_name": "COV",
+        "logo_url": "https://crests.football-data.org/1076.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-02-27T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "9a653125-8af7-4131-b31f-65943666d52b",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "75b48108-aa4a-4b0f-95ee-70fbf8f2fc29",
+        "name": "Crystal Palace",
+        "short_name": "CRY",
+        "logo_url": "https://crests.football-data.org/354.png"
+      },
+      "kickoff_utc": "2027-02-20T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "560c431f-1c9c-4878-8e9e-80a6c960049d",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "short_name": "AVL",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-02-10T20:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "fc13896a-8c47-4aef-a12e-305c745a422c",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "short_name": "LEE",
+        "logo_url": "https://crests.football-data.org/341.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-02-06T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "0a051746-570a-41af-82f6-40e8c3dae488",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+        "name": "Fulham",
+        "short_name": "FUL",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+      },
+      "kickoff_utc": "2027-01-30T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "f8b54e9f-8ac0-4152-aba5-f2112ed29c3d",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "417992e3-3af2-4dd4-a25a-ffb70ddd991b",
+        "name": "Nottingham Forest",
+        "short_name": "FOR",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-01-23T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "b4a50d15-8106-4c47-97f5-3d63ea267ac4",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "short_name": "IPS",
+        "logo_url": "https://crests.football-data.org/349.png"
+      },
+      "kickoff_utc": "2027-01-16T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "fc6398e1-af8d-4bb1-b0d4-3367048fec86",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "f915ab29-4383-47dc-9a9d-c9a6969d5c6a",
+        "name": "Brighton & Hove Albion",
+        "short_name": "BHA",
+        "logo_url": "https://crests.football-data.org/397.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2027-01-06T20:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "6d103d45-7354-4024-a977-d37579c82270",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "5e780499-f34a-4303-b887-7cbb42be6ad0",
+        "name": "Aston Villa",
+        "short_name": "AVL",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+      },
+      "kickoff_utc": "2027-01-02T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "9ac6c67a-07e1-4efa-901d-d40eb32b0e2b",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "75b48108-aa4a-4b0f-95ee-70fbf8f2fc29",
+        "name": "Crystal Palace",
+        "short_name": "CRY",
+        "logo_url": "https://crests.football-data.org/354.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-12-30T20:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "1f977786-1cdd-44c6-97f5-f987a09de02c",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "e03f803f-cd23-4db0-a79a-318f58734c7c",
+        "name": "Tottenham Hotspur",
+        "short_name": "TOT",
+        "logo_url": null
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-12-26T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "b5d9aefb-3518-441b-a4f8-cce690e65983",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "b663685e-6611-4d9b-b817-71d68eea74f5",
+        "name": "Coventry City",
+        "short_name": "COV",
+        "logo_url": "https://crests.football-data.org/1076.png"
+      },
+      "kickoff_utc": "2026-12-19T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "20230062-2ffc-4567-bd08-45d9af8af3fd",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "d1b0b567-a653-43f6-8d47-d230c447650f",
+        "name": "Arsenal",
+        "short_name": "ARS",
+        "logo_url": null
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-12-12T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "134502f9-fcdb-4bfe-9c78-92b0a3395a03",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "fd1a7234-c96d-4628-a0e6-71c44b29d838",
+        "name": "Hull City",
+        "short_name": "HUL",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-12-05T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "fd70162d-bf04-4605-bd1f-a2c7a2f1d036",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "f915ab29-4383-47dc-9a9d-c9a6969d5c6a",
+        "name": "Brighton & Hove Albion",
+        "short_name": "BHA",
+        "logo_url": "https://crests.football-data.org/397.png"
+      },
+      "kickoff_utc": "2026-12-02T20:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "e7248ea9-4ffd-4e36-b08f-94fb0b5af862",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "1db0b3ae-b02c-489d-9cb9-660a0c8ee005",
+        "name": "Fulham",
+        "short_name": "FUL",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-11-28T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "cc32bf00-3fe7-45da-b9a2-ce7a8360c8b6",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "417992e3-3af2-4dd4-a25a-ffb70ddd991b",
+        "name": "Nottingham Forest",
+        "short_name": "FOR",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+      },
+      "kickoff_utc": "2026-11-21T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "87b16fe1-3862-4d26-b13c-607689877125",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "37fc8acf-b467-4811-937d-6ebebb3fa61f",
+        "name": "Ipswich Town",
+        "short_name": "IPS",
+        "logo_url": "https://crests.football-data.org/349.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-11-07T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "abffff1b-5b41-46b3-909a-8f8760a53be6",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "ea86337a-d297-450e-af66-d197c1dae17a",
+        "name": "Leeds United",
+        "short_name": "LEE",
+        "logo_url": "https://crests.football-data.org/341.png"
+      },
+      "kickoff_utc": "2026-10-31T15:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "4cda477d-bfb1-438d-8c28-92928c7193a9",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "7aa8f8ce-df72-41bd-ac07-d8699514f9e0",
+        "name": "Manchester United",
+        "short_name": "MAN",
+        "logo_url": null
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-10-25T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "a95adc05-d25a-46ac-bb4c-7a2c10cef076",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "ad9f372c-fbba-416d-8a2b-cca844247495",
+        "name": "Sunderland",
+        "short_name": "SUN",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+      },
+      "kickoff_utc": "2026-10-18T13:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "4a62417c-c864-4bfc-96c3-153a61481880",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "544de6be-906a-40c9-8d32-17ed7239348f",
+        "name": "Chelsea",
+        "short_name": "CHE",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-10-10T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": false
+    },
+    {
+      "id": "23f0de19-9ad9-4aaf-bad2-c2b25f297538",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "74a9c474-32e5-4b48-b9c0-b67122a1617a",
+        "name": "Liverpool",
+        "short_name": "LIV",
+        "logo_url": "https://crests.football-data.org/64.png"
+      },
+      "kickoff_utc": "2026-09-20T13:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": true
+    },
+    {
+      "id": "af7baf03-dca0-4197-918b-eaf9b7369a51",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "f1dad0f2-fa00-4787-ab2a-4f17699d8aa8",
+        "name": "Brentford",
+        "short_name": "BRE",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-09-12T14:00:00.000Z",
+      "status": "scheduled",
+      "score": null,
+      "linescore": null,
+      "attendance": null,
+      "broadcast": null,
+      "round": null,
+      "has_odds": true
+    },
+    {
+      "id": "300a1c4e-3246-4eff-83b9-83b1619e7034",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "72cf90ca-8eff-417f-bbc5-a8c8f689f850",
+        "name": "Newcastle United",
+        "short_name": "NEW",
+        "logo_url": null
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-09-05T11:30:00.000Z",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "linescore": {
+        "away": [
+          2,
+          0
+        ],
+        "home": [
+          1,
+          1
+        ]
+      },
+      "attendance": null,
+      "broadcast": "USA Net",
+      "round": "Regular Season - 3",
+      "has_odds": true
+    },
+    {
+      "id": "5a6aab46-0770-4fa0-87d7-400e2624aa05",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "away": {
+        "id": "6026d5cb-f7fe-4f5b-afe2-fb6cb1ce10d3",
+        "name": "Everton",
+        "short_name": "EVE",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+      },
+      "kickoff_utc": "2026-08-29T14:00:00.000Z",
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "linescore": {
+        "away": [
+          0,
+          1
+        ],
+        "home": [
+          1,
+          0
+        ]
+      },
+      "attendance": 0,
+      "broadcast": "Peacock",
+      "round": "Regular Season - 2",
+      "has_odds": true
+    },
+    {
+      "id": "c41cac2a-34af-4a04-adca-4c05e811dcdb",
+      "sport": "football",
+      "league": "EPL",
+      "home": {
+        "id": "c12cf38c-1e19-4095-b367-c4ef2a184bb4",
+        "name": "Manchester City",
+        "short_name": "MNC",
+        "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+      },
+      "away": {
+        "id": "659f7d1c-8d18-47d8-b083-dc2340708592",
+        "name": "AFC Bournemouth",
+        "short_name": "BOU",
+        "logo_url": null
+      },
+      "kickoff_utc": "2026-08-23T13:00:00.000Z",
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "linescore": {
+        "away": [
+          1,
+          0
+        ],
+        "home": [
+          0,
+          2
+        ]
+      },
+      "attendance": 60645,
+      "broadcast": "USA Net",
+      "round": "Regular Season - 1",
+      "has_odds": true
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 50,
+    "offset": 0
+  },
+  "meta": {
+    "request_id": "453a46f0-cd3f-4c10-be1f-1df46a5363b6",
+    "source": "stored"
+  }
+}
