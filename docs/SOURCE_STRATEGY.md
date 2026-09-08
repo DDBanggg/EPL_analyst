@@ -19,3 +19,5 @@ Source lineage must be preserved. Same-named metrics from different endpoints or
 ## Discovery-only sources
 
 All other tested APIs and their retained payloads are research and evaluation evidence only. They are not production dependencies for V1.
+
+`data/discovery/` and `research/discovery/` are retained development artifacts, not production data or code dependencies. They will be removed from the final project state after their useful findings have been captured in durable documentation, production code, or tests.

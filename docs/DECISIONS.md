@@ -89,3 +89,9 @@
 **Decision:** dbt, object storage, Parquet, Trino/Hive, machine learning, and related technologies may be added later but are not V1 requirements.
 **Reason:** They should be introduced only when scale or use cases justify their complexity.
 **Status:** Accepted
+
+## 16. Filesystem and PostgreSQL responsibilities
+
+**Decision:** The filesystem stores only immutable Bronze source history. Relational `staging`, `silver`, `warehouse`, `marts`, and `ops` layers live as schemas inside PostgreSQL; V1 has no filesystem `data/staging`, `data/silver`, `data/gold`, `data/warehouse`, or `data/marts` layers.
+**Reason:** A single, explicit boundary preserves replayable source payloads while keeping all relationalized and transformed data in the accepted PostgreSQL warehouse.
+**Status:** Accepted
