@@ -95,3 +95,9 @@
 **Decision:** The filesystem stores only immutable Bronze source history. Relational `staging`, `silver`, `warehouse`, `marts`, and `ops` layers live as schemas inside PostgreSQL; V1 has no filesystem `data/staging`, `data/silver`, `data/gold`, `data/warehouse`, or `data/marts` layers.
 **Reason:** A single, explicit boundary preserves replayable source payloads while keeping all relationalized and transformed data in the accepted PostgreSQL warehouse.
 **Status:** Accepted
+
+## 17. Local Docker service lifecycle
+
+**Decision:** PostgreSQL uses a persistent named volume; pipeline jobs are command-oriented; host ports bind only to loopback; and `pipeline` and `luigid` share one Python image.
+**Reason:** These boundaries provide reproducible local services, durable database state, explicit job execution, and limited host exposure without duplicate images.
+**Status:** Accepted

@@ -1,0 +1,54 @@
+name: epl-analyst
+
+services:
+  postgres:
+    image: postgres:18
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-epl_analyst}
+      POSTGRES_USER: ${POSTGRES_USER:-epl_analyst}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in local .env}
+    ports:
+      - "127.0.0.1:${POSTGRES_HOST_PORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U \"$${POSTGRES_USER}\" -d \"$${POSTGRES_DB}\""]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+      start_period: 10s
+
+  luigid:
+    image: epl-analyst-python:local
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["luigid", "--address", "0.0.0.0", "--port", "8082"]
+    ports:
+      - "127.0.0.1:${LUIGI_HOST_PORT:-8082}:8082"
+
+  pipeline:
+    profiles: ["pipeline"]
+    image: epl-analyst-python:local
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - type: bind
+        source: ./src
+        target: /app/src
+      - type: bind
+        source: ./tests
+        target: /app/tests
+      - type: bind
+        source: ./sql
+        target: /app/sql
+      - type: bind
+        source: ./data/bronze
+        target: /app/data/bronze
+
+volumes:
+  postgres_data:

@@ -1,0 +1,16 @@
+.git
+.gitignore
+.venv
+.env
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+*.egg-info
+build
+dist
+data/discovery
+research/discovery
+data/bronze/*
+!data/bronze/.gitkeep
+M2_CODEX_PROMPT.md
