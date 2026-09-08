@@ -19,7 +19,7 @@ def get_paths():
     current_file = Path(__file__).resolve()
     project_root = current_file.parents[2]
 
-    raw_dir = project_root / "data" / "raw" / "thesportsdb"
+    raw_dir = project_root / "data" / "discovery" / "thesportsdb"
     test_dir = raw_dir / "api_tests"
 
     raw_dir.mkdir(parents=True, exist_ok=True)

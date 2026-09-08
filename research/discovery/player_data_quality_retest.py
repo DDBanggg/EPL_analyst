@@ -58,8 +58,8 @@ def get_paths():
     raw_dir = (
         project_root
         / "data"
-        / "raw"
-        / "player_data"
+        / "discovery"
+        / "player_data_quality"
     )
 
     raw_dir.mkdir(parents=True, exist_ok=True)

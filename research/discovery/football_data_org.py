@@ -31,7 +31,7 @@ def get_paths():
     current_file = Path(__file__).resolve()
     project_root = current_file.parents[2]
 
-    raw_dir = project_root / "data" / "raw" / "football_data_org"
+    raw_dir = project_root / "data" / "discovery" / "football_data_org"
     test_dir = raw_dir / "api_tests"
 
     raw_dir.mkdir(parents=True, exist_ok=True)
@@ -161,7 +161,7 @@ def get_standings(config, raw_dir):
 # API ACCESS TESTS
 # Purpose: discover which documented v4 endpoints YOUR current plan can access.
 # A 403 is recorded as RESTRICTED instead of stopping the entire script.
-# Successful responses are saved under data/raw/football_data_org/api_tests/.
+# Successful responses are saved under data/discovery/football_data_org/api_tests/.
 # -----------------------------------------------------------------------------
 
 
@@ -555,7 +555,7 @@ def main():
     # ------------------------------------------------------------------
     # ACCESS TEST
     # Run this once to discover which documented APIs your plan allows.
-    # Successful test payloads go to data/raw/football_data_org/api_tests/.
+    # Successful test payloads go to data/discovery/football_data_org/api_tests/.
     # ------------------------------------------------------------------
     test_all_available_apis(config, test_dir)
 

@@ -18,7 +18,7 @@ response.raise_for_status()
 # Take path
 current_file = Path(__file__).resolve()
 project_root = current_file.parents[2] 
-raw_dir = project_root / "data" / "raw" / "football_data_uk"
+raw_dir = project_root / "data" / "discovery" / "football_data_uk"
 
 raw_dir.mkdir(parents=True, exist_ok=True)
 

@@ -31,7 +31,7 @@ def get_paths():
     raw_dir = (
         project_root
         / "data"
-        / "raw"
+        / "discovery"
         / "api_football"
     )
 

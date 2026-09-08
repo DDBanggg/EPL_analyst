@@ -83,7 +83,7 @@ def get_config():
 
 def get_paths():
     project_root = Path(__file__).resolve().parents[2]
-    raw_dir = project_root / "data" / "raw" / "player_data"
+    raw_dir = project_root / "data" / "discovery" / "extra_sources"
     raw_dir.mkdir(parents=True, exist_ok=True)
     return {"project_root": project_root, "raw_dir": raw_dir}
 
