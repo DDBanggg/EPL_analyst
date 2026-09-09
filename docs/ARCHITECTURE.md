@@ -26,7 +26,7 @@ PostgreSQL is one analytical warehouse instance separated into schemas, not mult
 
 ## Layer responsibilities
 
-- **Bronze** contains immutable, source-oriented provider payloads stored locally as JSON or CSV.
+- **Bronze** contains every successful provider response as exact immutable JSON or CSV bytes, paired with a metadata sidecar and partitioned by provider, resource, and UTC fetch date. Bronze does not deduplicate observations.
 - **staging** contains source-shaped relational data prepared for validation and reconciliation.
 - **silver** contains the canonical EPL domain truth after source identities and records are reconciled.
 - **warehouse** contains dimensional facts and dimensions for historical analysis.

@@ -107,3 +107,9 @@
 **Decision:** Load environment values explicitly into an immutable `Settings` object, represent PostgreSQL configuration as discrete fields, derive SQL and Bronze paths from one project root, and use Psycopg 3 through a short-lived connection factory without a global connection or pool.
 **Reason:** Explicit immutable configuration is testable and protects runtime boundaries, while short-lived connections fit the current command-oriented batch workload without introducing premature connection-management infrastructure.
 **Status:** Accepted
+
+## 19. Bronze object contract
+
+**Decision:** Store every successful provider response as an immutable raw-byte payload with a schema-versioned metadata sidecar, partitioned by provider, resource, and UTC fetch date. Commit the sidecar last as the completion marker and do not deduplicate Bronze observations.
+**Reason:** Exact response preservation and independent observations retain replayability, pagination boundaries, lineage, and integrity evidence while leaving technical duplicate handling to staging and domain reconciliation to Silver.
+**Status:** Accepted
