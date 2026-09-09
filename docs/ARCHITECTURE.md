@@ -40,3 +40,7 @@ The future pipeline supports bootstrap ingestion from matchweek 1 through the cu
 For a target fixture, its actual kickoff timestamp is the chronological and as-of boundary. Pre-match features may use only information available before that timestamp. Matchweek numbers are not chronological truth because fixtures can be postponed or rescheduled.
 
 Detailed tables and columns are intentionally deferred to later milestones.
+
+## football-data.org ingestion boundary
+
+The production football-data.org client fetches only competition, teams, matches, and standings for EPL season 2026. It passes exact successful response bytes through a secret-safe provider response model into Bronze. Runs are best-effort by resource with bounded transient retries; standings are retained only as a provider validation/reference snapshot rather than canonical standings truth.

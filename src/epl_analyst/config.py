@@ -29,6 +29,7 @@ class Settings:
     postgres_db: str
     postgres_user: str
     postgres_password: str = field(repr=False)
+    football_data_token: str | None = field(default=None, repr=False)
 
     @property
     def sql_dir(self) -> Path:
@@ -44,6 +45,7 @@ class Settings:
         dotenv_path: str | Path | None = None,
         *,
         load_dotenv_file: bool = True,
+        require_football_data_token: bool = False,
     ) -> "Settings":
         """Load local dotenv values, normalize environment values, and validate them."""
         if load_dotenv_file:
@@ -73,6 +75,14 @@ class Settings:
         except ProjectPathError as error:
             raise ConfigurationError(str(error)) from error
 
+        football_data_token = os.getenv("FOOTBALL_DATA_TOKEN")
+        if football_data_token is not None and not football_data_token.strip():
+            football_data_token = None
+        if require_football_data_token and football_data_token is None:
+            raise ConfigurationError(
+                "FOOTBALL_DATA_TOKEN is required for football-data.org ingestion"
+            )
+
         return cls(
             project_root=project_root,
             postgres_host=os.getenv("POSTGRES_HOST", "127.0.0.1"),
@@ -80,4 +90,5 @@ class Settings:
             postgres_db=os.getenv("POSTGRES_DB", "epl_analyst"),
             postgres_user=os.getenv("POSTGRES_USER", "epl_analyst"),
             postgres_password=password,
+            football_data_token=football_data_token,
         )

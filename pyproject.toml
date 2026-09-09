@@ -12,6 +12,7 @@ dependencies = [
     "luigi>=3.6,<4",
     "psycopg[binary]>=3.2,<4",
     "python-dotenv>=1.1,<2",
+    "requests>=2.32,<3",
 ]
 
 [project.optional-dependencies]
@@ -29,6 +30,7 @@ testpaths = ["tests"]
 pythonpath = ["src"]
 markers = [
     "integration: requires the local PostgreSQL service",
+    "real_api: requires explicit opt-in and live provider credentials",
 ]
 
 [tool.ruff]

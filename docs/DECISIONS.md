@@ -113,3 +113,9 @@
 **Decision:** Store every successful provider response as an immutable raw-byte payload with a schema-versioned metadata sidecar, partitioned by provider, resource, and UTC fetch date. Commit the sidecar last as the completion marker and do not deduplicate Bronze observations.
 **Reason:** Exact response preservation and independent observations retain replayability, pagination boundaries, lineage, and integrity evidence while leaving technical duplicate handling to staging and domain reconciliation to Silver.
 **Status:** Accepted
+
+## 20. football-data.org production ingestion
+
+**Decision:** Use an injected, Session-backed provider client to ingest only competition, teams, matches, and standings as exact raw Bronze responses. Apply bounded retries for transient and rate-limited requests, isolate failures by resource in all-resource runs, and treat provider standings as validation/reference data rather than canonical standings truth.
+**Reason:** The boundary preserves provider bytes and credential safety while allowing targeted recovery from temporary failures without expanding M5 into transformation, canonicalization, or orchestration.
+**Status:** Accepted

@@ -12,6 +12,7 @@ ENVIRONMENT_KEYS = (
     "POSTGRES_DB",
     "POSTGRES_USER",
     "POSTGRES_PASSWORD",
+    "FOOTBALL_DATA_TOKEN",
 )
 
 
@@ -153,3 +154,32 @@ def test_password_is_hidden_from_repr(monkeypatch, project_root):
     )
 
     assert password not in repr(settings)
+
+
+def test_football_data_token_is_optional_and_hidden(monkeypatch, project_root):
+    token = "fake-football-data-token"
+    settings = load_settings(
+        monkeypatch,
+        project_root,
+        POSTGRES_PASSWORD="test-password",
+        FOOTBALL_DATA_TOKEN=token,
+    )
+
+    assert settings.football_data_token == token
+    assert token not in repr(settings)
+
+
+@pytest.mark.parametrize("token", [None, "", "   "])
+def test_football_data_token_is_required_for_ingestion(
+    monkeypatch, project_root, token
+):
+    monkeypatch.setenv("EPL_PROJECT_ROOT", str(project_root))
+    monkeypatch.setenv("POSTGRES_PASSWORD", "test-password")
+    if token is not None:
+        monkeypatch.setenv("FOOTBALL_DATA_TOKEN", token)
+
+    with pytest.raises(ConfigurationError, match="FOOTBALL_DATA_TOKEN"):
+        Settings.from_env(
+            load_dotenv_file=False,
+            require_football_data_token=True,
+        )

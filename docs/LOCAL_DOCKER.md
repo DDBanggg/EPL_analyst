@@ -16,9 +16,10 @@ LUIGI_HOST_PORT=8082
 POSTGRES_DB=epl_analyst
 POSTGRES_USER=epl_analyst
 POSTGRES_PASSWORD=<local password with no tracked default>
+FOOTBALL_DATA_TOKEN=<local provider token with no tracked default>
 ```
 
-The first four values are safe defaults. `POSTGRES_PASSWORD` is required and must be supplied locally. Host-side Python defaults to `POSTGRES_HOST=127.0.0.1` and uses `POSTGRES_PORT`, then `POSTGRES_HOST_PORT`, then `5432` as its port precedence. `EPL_PROJECT_ROOT` is optional for host execution because the editable package resolves the repository root.
+The first four values are safe defaults. `POSTGRES_PASSWORD` is required for database connectivity, and `FOOTBALL_DATA_TOKEN` is required for football-data.org ingestion; both must be supplied locally. Host-side Python defaults to `POSTGRES_HOST=127.0.0.1` and uses `POSTGRES_PORT`, then `POSTGRES_HOST_PORT`, then `5432` as its port precedence. `EPL_PROJECT_ROOT` is optional for host execution because the editable package resolves the repository root.
 
 ## Preflight
 
@@ -59,7 +60,7 @@ user: POSTGRES_USER
 password: local POSTGRES_PASSWORD
 ```
 
-Container-to-container connections use host `postgres` and port `5432`, regardless of the published host port. Compose passes only the explicit M3 database variables and `EPL_PROJECT_ROOT=/app` to one-off pipeline containers; it does not inject the complete `.env` or API tokens.
+Container-to-container connections use host `postgres` and port `5432`, regardless of the published host port. Compose passes only the explicit database variables, `FOOTBALL_DATA_TOKEN`, and `EPL_PROJECT_ROOT=/app` to one-off pipeline containers; it does not inject the complete `.env` or the future PitchAPI token.
 
 ## Luigi UI
 
