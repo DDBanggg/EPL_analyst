@@ -101,3 +101,9 @@
 **Decision:** PostgreSQL uses a persistent named volume; pipeline jobs are command-oriented; host ports bind only to loopback; and `pipeline` and `luigid` share one Python image.
 **Reason:** These boundaries provide reproducible local services, durable database state, explicit job execution, and limited host exposure without duplicate images.
 **Status:** Accepted
+
+## 18. Application configuration and PostgreSQL connections
+
+**Decision:** Load environment values explicitly into an immutable `Settings` object, represent PostgreSQL configuration as discrete fields, derive SQL and Bronze paths from one project root, and use Psycopg 3 through a short-lived connection factory without a global connection or pool.
+**Reason:** Explicit immutable configuration is testable and protects runtime boundaries, while short-lived connections fit the current command-oriented batch workload without introducing premature connection-management infrastructure.
+**Status:** Accepted

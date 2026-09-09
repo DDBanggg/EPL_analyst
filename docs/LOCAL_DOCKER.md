@@ -18,7 +18,7 @@ POSTGRES_USER=epl_analyst
 POSTGRES_PASSWORD=<local password with no tracked default>
 ```
 
-The first four values are safe defaults. `POSTGRES_PASSWORD` is required and must be supplied locally.
+The first four values are safe defaults. `POSTGRES_PASSWORD` is required and must be supplied locally. Host-side Python defaults to `POSTGRES_HOST=127.0.0.1` and uses `POSTGRES_PORT`, then `POSTGRES_HOST_PORT`, then `5432` as its port precedence. `EPL_PROJECT_ROOT` is optional for host execution because the editable package resolves the repository root.
 
 ## Preflight
 
@@ -59,7 +59,7 @@ user: POSTGRES_USER
 password: local POSTGRES_PASSWORD
 ```
 
-Container-to-container connections will use host `postgres` and port `5432`. Application database connectivity is intentionally deferred to M3.
+Container-to-container connections use host `postgres` and port `5432`, regardless of the published host port. Compose passes only the explicit M3 database variables and `EPL_PROJECT_ROOT=/app` to one-off pipeline containers; it does not inject the complete `.env` or API tokens.
 
 ## Luigi UI
 
@@ -69,9 +69,12 @@ Open `http://127.0.0.1:<LUIGI_HOST_PORT>` using the host port configured in `.en
 
 ```bash
 docker compose run --rm pipeline python -c "import epl_analyst"
+docker compose run --rm pipeline pytest tests/unit
 docker compose run --rm pipeline pytest
 docker compose run --rm pipeline ruff check .
 ```
+
+The full pytest command includes the PostgreSQL integration check, which uses the production configuration and connection factory to execute the read-only query `SELECT 1`.
 
 ## Shutdown and persistence
 

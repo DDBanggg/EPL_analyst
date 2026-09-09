@@ -10,6 +10,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "luigi>=3.6,<4",
+    "psycopg[binary]>=3.2,<4",
+    "python-dotenv>=1.1,<2",
 ]
 
 [project.optional-dependencies]
@@ -25,6 +27,9 @@ where = ["src"]
 addopts = "-ra"
 testpaths = ["tests"]
 pythonpath = ["src"]
+markers = [
+    "integration: requires the local PostgreSQL service",
+]
 
 [tool.ruff]
 target-version = "py312"
