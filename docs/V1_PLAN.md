@@ -8,7 +8,11 @@ Build a batch-oriented, multi-source data platform and PostgreSQL data warehouse
 
 Production V1 uses only `football-data.org` for fixture and reference data and PitchAPI for player-match, team-match, and advanced analytical enrichment.
 
-The approved stack is Python, SQL, Luigi, PostgreSQL, Docker Compose, local filesystem Bronze storage using immutable JSON/CSV payloads, pytest, Ruff, and environment variables loaded from `.env`.
+The approved target V1 stack is Python, SQL, Apache Airflow, PostgreSQL, Docker
+Compose, local filesystem Bronze storage using immutable JSON/CSV payloads,
+pytest, Ruff, and environment variables loaded from `.env`. Airflow is planned
+for M11 and is not implemented in the current M6 runtime. M7-M10 remain directly
+runnable and testable without it.
 
 ## Milestone checklist
 
@@ -24,10 +28,12 @@ The approved stack is Python, SQL, Luigi, PostgreSQL, Docker Compose, local file
 - [ ] M8 Canonical Silver model
 - [ ] M9 Warehouse fact/dimension model
 - [ ] M10 Analytical marts
-- [ ] M11 Luigi orchestration
+- [ ] M11 Apache Airflow orchestration
 - [ ] M12 Data quality + automated tests
 - [ ] M13 Demo / final documentation
 
 ## Explicitly out of scope for V1
 
-V1 excludes Polars, Parquet, S3, MinIO, dbt, Airflow, Dagster, Spark, Kafka, Trino/Hive, Redis, Kubernetes, machine learning, and a feature store. FastAPI is reserved for a later consumer/demo phase and is not part of the initial pipeline implementation.
+V1 excludes Polars, Parquet, S3, MinIO, dbt, Dagster, Spark, Kafka, Trino/Hive,
+Redis, Kubernetes, machine learning, and a feature store. FastAPI is reserved for
+a later consumer/demo phase and is not part of the initial pipeline implementation.

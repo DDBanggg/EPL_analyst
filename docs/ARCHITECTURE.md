@@ -3,26 +3,27 @@
 ## High-level flow
 
 ```text
-Sources
-  |
-  +-- football-data.org --+
-  +-- PitchAPI -----------+
-                          |
-                          v
-                   Python ingestion
-                          |
-                          v
-              Local Bronze JSON / CSV
-                          |
-                          v
-               PostgreSQL warehouse
-                          |
-       +---------+--------+----------+-------+
-       |         |        |          |       |
-      ops     staging   silver   warehouse  marts
+                       Apache Airflow
+                 future orchestration plane
+                              |
+            +-----------------+-----------------+
+            |                 |                 |
+            v                 v                 v
+     ingestion jobs     SQL transforms     quality jobs
+            |
+            v
+football-data.org --+
+                    +--> Python ingestion --> Local immutable Bronze
+PitchAPI -----------+                             |
+                                                  v
+                            PostgreSQL: staging --> silver --> warehouse --> marts
+                                          |
+                                         ops
 ```
 
 PostgreSQL is one analytical warehouse instance separated into schemas, not multiple PostgreSQL servers.
+Airflow is part of the target V1 architecture but is not implemented in the
+current M6 runtime.
 
 ## Layer responsibilities
 
@@ -40,6 +41,21 @@ The future pipeline supports bootstrap ingestion from matchweek 1 through the cu
 For a target fixture, its actual kickoff timestamp is the chronological and as-of boundary. Pre-match features may use only information available before that timestamp. Matchweek numbers are not chronological truth because fixtures can be postponed or rescheduled.
 
 Detailed tables and columns are intentionally deferred to later milestones.
+
+## Orchestration boundary
+
+Apache Airflow will become the orchestration control plane in M11. It will own
+scheduling, task dependencies, retries, manual runs and backfills, run history,
+and operational visibility. It will not own domain or business logic.
+
+Python ingestion modules remain callable outside Airflow. SQL transformations
+remain independently executable and testable. DAGs should compose these existing
+capabilities rather than contain their implementations, so M7-M10 remain
+standalone milestones and M11 composes them into workflows.
+
+Airflow version, executor, service topology, metadata database strategy, DAG
+layout, operator style, authentication, ports, schedules, pools, concurrency,
+catchup, XCom policy, and other deployment details remain M11 decisions.
 
 ## football-data.org ingestion boundary
 

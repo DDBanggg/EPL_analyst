@@ -64,7 +64,7 @@
 
 **Decision:** Use Luigi instead of Airflow or Dagster.
 **Reason:** Luigi provides suitable dependency-based batch orchestration with lower V1 operational overhead.
-**Status:** Accepted
+**Status:** Superseded by Decision 22
 
 ## 12. Canonical identity
 
@@ -99,8 +99,8 @@
 ## 17. Local Docker service lifecycle
 
 **Decision:** PostgreSQL uses a persistent named volume; pipeline jobs are command-oriented; host ports bind only to loopback; and `pipeline` and `luigid` share one Python image.
-**Reason:** These boundaries provide reproducible local services, durable database state, explicit job execution, and limited host exposure without duplicate images.
-**Status:** Accepted
+**Reason:** These boundaries provide reproducible local services, durable database state, explicit job execution, and limited host exposure without duplicate images. The M2 Compose environment historically introduced the shared `luigid` runtime, which remains temporarily present after M6; the volume, command-oriented jobs, and loopback bindings remain accepted.
+**Status:** Partially superseded by Decision 22; the `luigid` portion is transitional
 
 ## 18. Application configuration and PostgreSQL connections
 
@@ -131,4 +131,17 @@ treat only `404 ANALYTICS_UNAVAILABLE` on advanced resources as a skip.
 **Reason:** This preserves exact source evidence before it controls fan-out,
 supports bounded recovery without an undocumented cursor, and distinguishes
 legitimate analytics absence from missing resources or provider failures.
+**Status:** Accepted
+
+## 22. Apache Airflow orchestration
+
+**Decision:** Use Apache Airflow as the V1 workflow orchestrator instead of Luigi,
+with implementation deferred to M11. Keep ingestion, transformation, warehouse,
+and mart business logic independent of Airflow so these capabilities remain
+directly runnable and testable. M7-M10 must not introduce Airflow into their
+business logic.
+**Reason:** The multi-source, multi-stage pipeline benefits from built-in
+scheduling, dependency management, retry handling, manual runs and backfills, run
+history, logs, and operational visibility, providing a stronger
+production-oriented data-engineering architecture.
 **Status:** Accepted

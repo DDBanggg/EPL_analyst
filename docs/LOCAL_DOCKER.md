@@ -1,5 +1,11 @@
 # Local Docker Environment
 
+> **Transitional orchestration state:** The checked-in M6 Compose environment
+> still contains the legacy Luigi scheduler introduced in M2. Luigi is no longer
+> the target V1 orchestrator and will be replaced during the dedicated Airflow
+> migration in M11. M7-M10 must not add new Luigi dependencies. Airflow is not
+> installed or runnable in the current environment.
+
 ## Prerequisites
 
 - Docker Desktop or Docker Engine
@@ -8,7 +14,9 @@
 
 ## Local environment variables
 
-Use the existing untracked `.env` file. It may contain API credentials, so never commit or print it. Docker Compose reads only these infrastructure variables:
+Use the existing untracked `.env` file. It may contain API credentials, so never
+commit or print it. The checked-in Compose configuration explicitly references
+only these variables:
 
 ```text
 POSTGRES_HOST_PORT=5432
@@ -17,9 +25,16 @@ POSTGRES_DB=epl_analyst
 POSTGRES_USER=epl_analyst
 POSTGRES_PASSWORD=<local password with no tracked default>
 FOOTBALL_DATA_TOKEN=<local provider token with no tracked default>
+PITCHAPI_KEY=<local provider key with no tracked default>
 ```
 
-The first four values are safe defaults. `POSTGRES_PASSWORD` is required for database connectivity, and `FOOTBALL_DATA_TOKEN` is required for football-data.org ingestion; both must be supplied locally. Host-side Python defaults to `POSTGRES_HOST=127.0.0.1` and uses `POSTGRES_PORT`, then `POSTGRES_HOST_PORT`, then `5432` as its port precedence. `EPL_PROJECT_ROOT` is optional for host execution because the editable package resolves the repository root.
+The first four values are safe defaults. `POSTGRES_PASSWORD` is required for
+database connectivity, `FOOTBALL_DATA_TOKEN` is required for football-data.org
+ingestion, and `PITCHAPI_KEY` is required for PitchAPI ingestion; all secrets must
+be supplied locally. Host-side Python defaults to `POSTGRES_HOST=127.0.0.1` and
+uses `POSTGRES_PORT`, then `POSTGRES_HOST_PORT`, then `5432` as its port
+precedence. `EPL_PROJECT_ROOT` is optional for host execution because the editable
+package resolves the repository root.
 
 ## Preflight
 
@@ -38,13 +53,16 @@ docker compose build
 docker compose up -d
 ```
 
-Normal startup runs only the long-lived `postgres` and `luigid` services. The `pipeline` service uses a Compose profile and runs only as an explicit one-off command.
+Normal startup currently runs only the long-lived `postgres` and legacy,
+transitional `luigid` services. The `pipeline` service uses a Compose profile and
+runs only as an explicit one-off command.
 
 ## Service topology
 
 - `postgres` is the persistent PostgreSQL 18 service.
-- `luigid` is the non-persistent Luigi scheduler and web UI.
-- `pipeline` is a command-oriented job container built from the same Python image as `luigid`.
+- `luigid` is the legacy, transitional non-persistent Luigi scheduler and web UI.
+- `pipeline` is a command-oriented job container currently built from the same
+  Python image as `luigid`.
 
 All services use the default Compose network. Host source, test, SQL, and Bronze directories are selectively mounted into one-off pipeline containers; discovery directories, `.env`, and the repository root are not mounted.
 
@@ -60,11 +78,17 @@ user: POSTGRES_USER
 password: local POSTGRES_PASSWORD
 ```
 
-Container-to-container connections use host `postgres` and port `5432`, regardless of the published host port. Compose passes only the explicit database variables, `FOOTBALL_DATA_TOKEN`, and `EPL_PROJECT_ROOT=/app` to one-off pipeline containers; it does not inject the complete `.env` or the future PitchAPI token.
+Container-to-container connections use host `postgres` and port `5432`, regardless
+of the published host port. Compose passes only the explicit database variables,
+`FOOTBALL_DATA_TOKEN`, `PITCHAPI_KEY`, and `EPL_PROJECT_ROOT=/app` to one-off
+pipeline containers; it does not inject the complete `.env`.
 
-## Luigi UI
+## Legacy Luigi UI
 
-Open `http://127.0.0.1:<LUIGI_HOST_PORT>` using the host port configured in `.env` (default `8082`).
+The current transitional service remains available at
+`http://127.0.0.1:<LUIGI_HOST_PORT>` using the host port configured in `.env`
+(default `8082`). This UI is not part of the target architecture and must not be
+used for new orchestration work.
 
 ## Pipeline one-off commands
 
@@ -95,4 +119,8 @@ Use `-v` only when an intentional full local database reset is required.
 
 ## Port conflict troubleshooting
 
-If preflight reports an occupied port, choose a free host-side port in local `.env`, for example `POSTGRES_HOST_PORT=5433` or `LUIGI_HOST_PORT=8083`, and rerun preflight. Do not change PostgreSQL's internal `5432` or Luigi's internal `8082` port.
+If preflight reports an occupied port, choose a free host-side port in local
+`.env`, for example `POSTGRES_HOST_PORT=5433` or `LUIGI_HOST_PORT=8083`, and rerun
+preflight. Do not change PostgreSQL's internal `5432` or the transitional Luigi
+service's internal `8082` port. These Luigi settings remain current runtime facts
+until the M11 Airflow migration.
