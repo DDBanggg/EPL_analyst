@@ -119,3 +119,16 @@
 **Decision:** Use an injected, Session-backed provider client to ingest only competition, teams, matches, and standings as exact raw Bronze responses. Apply bounded retries for transient and rate-limited requests, isolate failures by resource in all-resource runs, and treat provider standings as validation/reference data rather than canonical standings truth.
 **Reason:** The boundary preserves provider bytes and credential safety while allowing targeted recovery from temporary failures without expanding M5 into transformation, canonicalization, or orchestration.
 **Status:** Accepted
+
+## 21. PitchAPI production ingestion
+
+**Decision:** Use the live-verified PitchAPI EPL league ID `l_4WFCIZ` and season
+`2026/2027`. Persist the league response before strict control-field parsing, then
+fan out sequentially to seven fixed match resources. Bootstrap covers every
+exactly `finished` match, incremental uses an inclusive seven-day UTC window, and
+targeted runs bypass discovery. Isolate later failures by match and resource, and
+treat only `404 ANALYTICS_UNAVAILABLE` on advanced resources as a skip.
+**Reason:** This preserves exact source evidence before it controls fan-out,
+supports bounded recovery without an undocumented cursor, and distinguishes
+legitimate analytics absence from missing resources or provider failures.
+**Status:** Accepted

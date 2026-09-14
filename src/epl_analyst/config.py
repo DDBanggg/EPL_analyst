@@ -30,6 +30,7 @@ class Settings:
     postgres_user: str
     postgres_password: str = field(repr=False)
     football_data_token: str | None = field(default=None, repr=False)
+    pitchapi_key: str | None = field(default=None, repr=False)
 
     @property
     def sql_dir(self) -> Path:
@@ -46,6 +47,7 @@ class Settings:
         *,
         load_dotenv_file: bool = True,
         require_football_data_token: bool = False,
+        require_pitchapi_key: bool = False,
     ) -> "Settings":
         """Load local dotenv values, normalize environment values, and validate them."""
         if load_dotenv_file:
@@ -83,6 +85,14 @@ class Settings:
                 "FOOTBALL_DATA_TOKEN is required for football-data.org ingestion"
             )
 
+        pitchapi_key = os.getenv("PITCHAPI_KEY")
+        if pitchapi_key is not None and not pitchapi_key.strip():
+            pitchapi_key = None
+        if require_pitchapi_key and pitchapi_key is None:
+            raise ConfigurationError(
+                "PITCHAPI_KEY is required for PitchAPI ingestion"
+            )
+
         return cls(
             project_root=project_root,
             postgres_host=os.getenv("POSTGRES_HOST", "127.0.0.1"),
@@ -91,4 +101,5 @@ class Settings:
             postgres_user=os.getenv("POSTGRES_USER", "epl_analyst"),
             postgres_password=password,
             football_data_token=football_data_token,
+            pitchapi_key=pitchapi_key,
         )

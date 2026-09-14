@@ -6,7 +6,7 @@ from typing import Any
 
 import requests
 
-from epl_analyst.ingestion.football_data_org.models import ProviderResponse
+from epl_analyst.ingestion.models import ProviderResponse
 
 BASE_URL = "https://api.football-data.org/v4"
 COMPETITION_CODE = "PL"

@@ -1,26 +1,8 @@
-"""Immutable, secret-safe models for football-data.org ingestion."""
+"""Immutable, secret-safe result models for football-data.org ingestion."""
 
-from collections.abc import Mapping
-from dataclasses import dataclass, field
-from types import MappingProxyType
-from typing import Any
+from dataclasses import dataclass
 
 from epl_analyst.bronze import BronzeWriteResult
-
-
-@dataclass(frozen=True)
-class ProviderResponse:
-    """Successful provider response without HTTP client or credential state."""
-
-    raw_bytes: bytes = field(repr=False)
-    status_code: int
-    content_type: str | None
-    method: str
-    endpoint: str
-    params: Mapping[str, Any]
-
-    def __post_init__(self) -> None:
-        object.__setattr__(self, "params", MappingProxyType(dict(self.params)))
 
 
 @dataclass(frozen=True)

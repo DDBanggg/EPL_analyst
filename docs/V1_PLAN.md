@@ -19,7 +19,7 @@ The approved stack is Python, SQL, Luigi, PostgreSQL, Docker Compose, local file
 - [x] M3 Configuration, paths and PostgreSQL connectivity
 - [x] M4 Bronze storage contract
 - [x] M5 football-data.org ingestion
-- [ ] M6 PitchAPI ingestion
+- [x] M6 PitchAPI ingestion
 - [ ] M7 PostgreSQL staging
 - [ ] M8 Canonical Silver model
 - [ ] M9 Warehouse fact/dimension model

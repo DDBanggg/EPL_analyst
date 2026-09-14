@@ -13,6 +13,7 @@ ENVIRONMENT_KEYS = (
     "POSTGRES_USER",
     "POSTGRES_PASSWORD",
     "FOOTBALL_DATA_TOKEN",
+    "PITCHAPI_KEY",
 )
 
 
@@ -183,3 +184,29 @@ def test_football_data_token_is_required_for_ingestion(
             load_dotenv_file=False,
             require_football_data_token=True,
         )
+
+
+def test_pitchapi_key_is_optional_and_hidden(monkeypatch, project_root):
+    key = "fake-pitchapi-key"
+    settings = load_settings(
+        monkeypatch,
+        project_root,
+        POSTGRES_PASSWORD="test-password",
+        PITCHAPI_KEY=key,
+    )
+
+    assert settings.pitchapi_key == key
+    assert key not in repr(settings)
+
+
+@pytest.mark.parametrize("key", [None, "", "   "])
+def test_pitchapi_key_is_required_only_for_pitchapi_ingestion(
+    monkeypatch, project_root, key
+):
+    monkeypatch.setenv("EPL_PROJECT_ROOT", str(project_root))
+    monkeypatch.setenv("POSTGRES_PASSWORD", "test-password")
+    if key is not None:
+        monkeypatch.setenv("PITCHAPI_KEY", key)
+
+    with pytest.raises(ConfigurationError, match="PITCHAPI_KEY"):
+        Settings.from_env(load_dotenv_file=False, require_pitchapi_key=True)

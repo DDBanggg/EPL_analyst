@@ -44,3 +44,13 @@ Detailed tables and columns are intentionally deferred to later milestones.
 ## football-data.org ingestion boundary
 
 The production football-data.org client fetches only competition, teams, matches, and standings for EPL season 2026. It passes exact successful response bytes through a secret-safe provider response model into Bronze. Runs are best-effort by resource with bounded transient retries; standings are retained only as a provider validation/reference snapshot rather than canonical standings truth.
+
+## PitchAPI ingestion boundary
+
+PitchAPI is the V1 analytics authority. Its raw REST client fetches a verified EPL
+league snapshot and seven match resources for team stats, player stats, shots,
+lineups, events, and advanced team/player analytics. Automatic control data is
+parsed only after the exact league response is committed to Bronze. Bootstrap and
+seven-day incremental runs fan out sequentially at match × resource grain;
+targeted recovery bypasses league discovery. Provider identities remain
+source-specific until the future Silver mapping layer.

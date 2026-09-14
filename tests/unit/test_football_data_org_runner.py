@@ -4,11 +4,11 @@ from unittest.mock import Mock
 
 from epl_analyst.bronze import BronzeWriter
 from epl_analyst.ingestion.football_data_org.client import FootballDataOrgError
-from epl_analyst.ingestion.football_data_org.models import ProviderResponse
 from epl_analyst.ingestion.football_data_org.runner import (
     format_run_summary,
     run_ingestion,
 )
+from epl_analyst.ingestion.models import ProviderResponse
 
 
 def provider_response(resource):

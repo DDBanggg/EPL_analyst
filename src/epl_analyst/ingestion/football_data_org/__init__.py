@@ -8,8 +8,8 @@ from epl_analyst.ingestion.football_data_org.client import (
     FootballDataOrgClient,
     FootballDataOrgError,
 )
-from epl_analyst.ingestion.football_data_org.models import ProviderResponse
 from epl_analyst.ingestion.football_data_org.runner import run_ingestion
+from epl_analyst.ingestion.models import ProviderResponse
 
 __all__ = [
     "BASE_URL",

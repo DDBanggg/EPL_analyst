@@ -43,6 +43,7 @@ services:
       POSTGRES_USER: ${POSTGRES_USER:-epl_analyst}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in local .env}
       FOOTBALL_DATA_TOKEN: ${FOOTBALL_DATA_TOKEN:?Set FOOTBALL_DATA_TOKEN in local .env}
+      PITCHAPI_KEY: ${PITCHAPI_KEY:?Set PITCHAPI_KEY in local .env}
       EPL_PROJECT_ROOT: /app
     volumes:
       - type: bind
